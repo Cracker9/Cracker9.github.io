@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://blog.cracker9.io</loc>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2019/01/19/adobe-xd/</loc>
+        <lastmod>2019-05-23T09:03:05.415Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2018/04/05/Android_Icon_Design/</loc>
+        <lastmod>2019-05-23T09:01:57.823Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2018/03/13/Android_DPI/</loc>
+        <lastmod>2019-05-23T09:01:57.823Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2018/03/20/App5/</loc>
+        <lastmod>2019-05-23T09:01:57.823Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2018/04/01/Design_Asset_Name_Guide/</loc>
+        <lastmod>2019-05-23T09:01:57.823Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2018/07/02/GUI_Guileline/</loc>
+        <lastmod>2019-05-23T09:01:57.823Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2018/06/08/Kotlin_Java/</loc>
+        <lastmod>2019-05-23T09:01:57.823Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2018/10/24/NinePatch/</loc>
+        <lastmod>2019-05-23T09:01:57.823Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2018/12/18/5Tool/</loc>
+        <lastmod>2019-05-23T08:59:50.861Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2018/09/12/User_interview_jiyoung_lim/</loc>
+        <lastmod>2019-05-23T08:56:38.286Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2018/08/31/User_interview_hyoungil_Park/</loc>
+        <lastmod>2019-05-23T08:56:11.276Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2018/12/05/Univ_Interview/</loc>
+        <lastmod>2019-05-23T08:55:34.350Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2018/09/05/ShortCut/</loc>
+        <lastmod>2019-05-23T08:55:02.493Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2018/06/25/Plugin-Feature/</loc>
+        <lastmod>2019-05-23T08:54:35.758Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2018/12/04/Developer_Interview/</loc>
+        <lastmod>2019-05-23T08:52:45.129Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2018/06/25/how-to-use-plugin/</loc>
+        <lastmod>2019-05-23T08:50:37.380Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2018/06/27/how-to-use-Relative/</loc>
+        <lastmod>2019-05-23T08:50:32.320Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2018/06/26/How-to-use-Linear/</loc>
+        <lastmod>2019-05-23T08:48:43.696Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2018/06/26/How-to-use-Linear-Weight/</loc>
+        <lastmod>2019-05-23T08:48:15.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2018/06/28/How-to-use-Custom/</loc>
+        <lastmod>2019-05-23T08:47:36.011Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2018/06/27/How-to-use-Constraint/</loc>
+        <lastmod>2019-05-23T08:46:59.731Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2018/02/13/first_post/</loc>
+        <lastmod>2019-05-23T08:46:14.133Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2018/06/27/How-to-use-Constraint-Weight/</loc>
+        <lastmod>2019-05-23T08:45:00.687Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2018/06/28/How-to-use-CenterBias/</loc>
+        <lastmod>2019-05-23T08:44:44.664Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2018/06/25/App-Feature/</loc>
+        <lastmod>2019-05-23T08:42:50.565Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2018/03/16/android_line/</loc>
+        <lastmod>2019-05-23T08:42:50.565Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+</urlset>
+<!-- XML Sitemap generated by Hexo SEO Friendly Sitemap Generator -->

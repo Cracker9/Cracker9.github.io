@@ -1,0 +1,75 @@
+<!DOCTYPE html><html lang="ko"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><title>영화 ‘앤트맨’을 통해 알아 본 안드로이드 나인패치(Android 9 Patch) | Cracker9 Blog</title><link rel="stylesheet" href="https://fonts.googleapis.com/earlyaccess/notosanskr.css"><link rel="stylesheet" href="/libs/font-awesome/css/font-awesome.min.css"><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="/css/custom.css"><link rel="stylesheet" href="/css/highlights/tomorrow-light.css"><link rel="canonical" href="http://blog.cracker9.io/2018/10/24/NinePatch/"/>
+<meta name="description" content="시작 영화 ‘캡틴 아메리카: 시빌워’를 본 사람이라면 작은 ‘앤트맨’의 존재감이 누구보다 컸다고 말할 수 있습니다. 앤트맨은 가장 중요한 전투 신에서 자유자재로 신체 크기를 바꾸며 맹활약을 한 히어로인데요. 안드로이드에도 이런 앤트맨처럼 크기를…">
+<meta name="keywords" content="Cracker9,Android,Layout,9-patch,Ninepatch,9patch,나인패치,앤트맨,Antman,안드로이드,Asset Studio">
+<meta property="og:type" content="article">
+<meta property="og:title" content="영화 ‘앤트맨’을 통해 알아 본 안드로이드 나인패치(Android 9 Patch)">
+<meta property="og:url" content="http://blog.cracker9.io/2018/10/24/NinePatch/">
+<meta property="og:site_name" content="Cracker9 Blog">
+<meta property="og:description" content="시작 영화 ‘캡틴 아메리카: 시빌워’를 본 사람이라면 작은 ‘앤트맨’의 존재감이 누구보다 컸다고 말할 수 있습니다. 앤트맨은 가장 중요한 전투 신에서 자유자재로 신체 크기를 바꾸며 맹활약을 한 히어로인데요. 안드로이드에도 이런 앤트맨처럼 크기를…">
+<meta property="og:locale" content="ko">
+<meta property="og:image" content="http://blog.cracker9.io/img/9patch/1.gif">
+<meta property="og:updated_time" content="2019-05-23T09:01:57.823Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="영화 ‘앤트맨’을 통해 알아 본 안드로이드 나인패치(Android 9 Patch)">
+<meta name="twitter:description" content="시작 영화 ‘캡틴 아메리카: 시빌워’를 본 사람이라면 작은 ‘앤트맨’의 존재감이 누구보다 컸다고 말할 수 있습니다. 앤트맨은 가장 중요한 전투 신에서 자유자재로 신체 크기를 바꾸며 맹활약을 한 히어로인데요. 안드로이드에도 이런 앤트맨처럼 크기를…">
+<meta name="twitter:image" content="http://blog.cracker9.io/img/9patch/1.gif"><meta property="article:author" content="Cracker9"><meta property="twitter:label1" content="Published at"><meta property="twitter:data1" content="10/24/2018 10:38:07"><meta property="twitter:label2" content="Written by"><meta property="twitter:data2" content="Cracker9"><link rel="icon" href="/images/cracker9.png"><link rel="alternate" href="/atom.xml" type="application/atom+xml" title="Cracker9 Blog"><!-- Global site tag (gtag.js) - Google Analytics --><script src="https://www.googletagmanager.com/gtag/js?id=UA-117859212-2" async></script><script>window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-117859212-2');</script></head><body itemscope itemtype="https://schema.org/WebPage"><div class="menu" id="menu"><div class="menu-inner clearfix"><div class="menu__left-area ater"><div class="menu__item"><a class="menu__item__link menu__item__link--brand" href="/" title="Home" rel="home"><img class="menu__item__link--brand__image" src="/images/logo.png" alt="Cracker9 Blog"></a></div></div></div></div><div class="page-background"></div><div class="content-container"><div class="content-outer"><div class="content-hero"></div><div class="content-inner" itemscope itemtype="https://schema.org/Blog"><!--if isTagIndexdiv TAGS!!!!--><!--if isCategoryIndexdiv CATEGORIES!!!!
+--><!--div #{JSON.stringify(page)}--><article class="article" id="article" itemscope itemtype="https://schema.org/BlogPosting"><h1 class="article__title" itemprop="headline">영화 ‘앤트맨’을 통해 알아 본 안드로이드 나인패치(Android 9 Patch)</h1><div class="article__meta"><time class="article__meta__time" datetime="2018-10-24T01:38:07.000Z" itemprop="datePublished">10/24/2018 • Cracker9</time></div><div class="article__contents"><h1 id="시작"><a href="#시작" class="headerlink" title="시작"></a><strong>시작</strong></h1><p><img src="/img/9patch/1.gif" alt=""></p>
+<p>영화 ‘캡틴 아메리카: 시빌워’를 본 사람이라면 작은 ‘앤트맨’의 존재감이 누구보다 컸다고 말할 수 있습니다. 앤트맨은 가장 중요한 전투 신에서 자유자재로 신체 크기를 바꾸며 맹활약을 한 히어로인데요.</p>
+<p>안드로이드에도 이런 앤트맨처럼 크기를 자유자재로 바꾸되, 해상도를 그대로 보존하여 앱을 구현하는데 큰 도움을 주는 이미지 저장방식이 있습니다. 바로 나인패치입니다. 포스팅을 통해 나인패치를 이해해보고자 합니다.</p>
+<h1 id="나인패치-이해하기"><a href="#나인패치-이해하기" class="headerlink" title="나인패치 이해하기"></a><strong>나인패치 이해하기</strong></h1><h2 id="사이즈는-바뀌지만-내용은-그대로"><a href="#사이즈는-바뀌지만-내용은-그대로" class="headerlink" title="#사이즈는 바뀌지만 내용은 그대로"></a><strong>#사이즈는 바뀌지만 내용은 그대로</strong></h2><p>영화 속 앤트맨은 핌입자를 통해 분자보다 더 작은 양자 사이즈만큼 작아졌다가, 비행기보다 더 큰 사이즈로 변하는 히어로인데요. 핌 입자를 사용시 질량에는 변화가 없어 작아진 크기에서도 정상 어른의 펀치와 같은 위력을 줍니다.</p>
+<p>나인패치 역시 앤트맨과 같은 특징을 가지고 있는데요. 우리가 사용하고 있는 핸드폰의 해상도는 제각각 입니다. 하지만 이미지를 그 해상도에 전부 맞춰서 제작하기에는 무리가 있죠. 그렇기 때문에 디바이스에 표현되는 아이콘이나 버튼 등에 확대 되는 영역을 지정해줍니다. 그러면 큰 해상도에 이미지를 적용 하여도 픽셀이 깨지지 않고 확대된 이미지를 사용 할 수 있습니다.</p>
+<p>좀 더 정확하게 설명하자면, 이미지를 9분할 하여 확대되는 영역과 아닌 영역을 구분하여 저장하는 방식이며 이미지 확장자는. 9.png가 됩니다. 아래의 그림에서 살펴보면 빨간색 화살표 영역은 늘어나고 흰색 영역은 늘어나지 않게 됩니다.</p>
+<p><img src="/img/9patch/2.png" alt=""></p>
+<p>나인패치 이미지가 어떤 구조를 가지고 있는 어떻게 동작하는지에 대해 추가적으로 설명해보겠습니다.</p>
+<p><img src="/img/9patch/3.jpg" alt=""></p>
+<p>우선, 나인패치는Stretchable area와 Padding box 두가지의 영역으로 나뉩니다.</p>
+<p><img src="/img/9patch/4.jpg" alt=""></p>
+<p>Stretchable area는 늘어나는 영역은 이미지를 늘려주는 구간을 설정해주는 나인패치 영역입니다. 그래서 가로, 세로 어떤 크기로 늘어나도 형태가 깨져 보이지 않습니다.</p>
+<p><img src="/img/9patch/5.jpg" alt=""></p>
+<p>Padding box는 이미지 위에 어떠한 내용물을 어느 위치에 표시할지 정의 하는 영역입니다.</p>
+<p>버튼 크기가 변경되어도 정보 표시 영역을 나인패치로 잡아 좌우,상하 여백은 그대로 두고 이미지 확대/축소에 따른 텍스트가 정리되어 보여집니다.</p>
+<p>나인패치는 1px 검정색 선의 길이와 여백을 이용해서 늘려주고 싶은 이미지 영역과 표현하고 싶은 텍스트의 영역을 지정할 수 있는 것입니다.</p>
+<p>조금은 복잡해 보이지만, 나인패치로 지정하는 과정이 필요한 이유는 모바일은 한정된 용량을 가지고 있기 때문에 용량을 줄여서 하나의 이미지로 다양하게 사용할 수 있도록 하기 위해서 입니다.</p>
+<h1 id="나인패치-만들어보기"><a href="#나인패치-만들어보기" class="headerlink" title="나인패치 만들어보기"></a><strong>나인패치 만들어보기</strong></h1><h2 id="만드는-방법"><a href="#만드는-방법" class="headerlink" title="#만드는 방법"></a><strong>#만드는 방법</strong></h2><p>나인패치를 만드는 방법에는 여러가지가 있습니다.</p>
+<ol>
+<li>포토샵으로 만들고, 확장자를 name.9.png으로 저장</li>
+<li><p>안드로이드 sdk 도구를 다운로드하여 만든다.</p>
+<p> <a href="https://developer.android.com/studio/?hl=ko" target="_blank" rel="noopener">https://developer.android.com/studio/?hl=ko</a> </p>
+</li>
+<li><p>Android Asset Studio 활용</p>
+<p> <a href="http://romannurik.github.io/AndroidAssetStudio/nine-patches.html" target="_blank" rel="noopener">http://romannurik.github.io/AndroidAssetStudio/nine-patches.html</a></p>
+</li>
+</ol>
+<p>그중에서 툴 설치도 필요 없고 쉽게 만들 수 있는 3번의 방법을 활용하여 간략하게 나마 만들어보겠습니다.</p>
+<h2 id="우리는-그저-감사하게-사용할-뿐"><a href="#우리는-그저-감사하게-사용할-뿐" class="headerlink" title="#우리는 그저 감사하게 사용할 뿐"></a><strong>#우리는 그저 감사하게 사용할 뿐</strong></h2><p>세상은 넓고 금손이 많은 것 같아요. 빠르게 만들수 있는 방법을 선택하겠습니다. 위 3번의 주소를 타고 사이트에 접속하면 아래와 같은 화면이 보여집니다.</p>
+<p><img src="/img/9patch/6.png" alt=""></p>
+<p>나인패치를 만들 수 있는 웹 툴인데, 저 사이트에는 나인패치 뿐만 아니라 안드로이드 디자인을 위한 다양한 툴을 제공하니 한번 참고해보시면 좋을 것 같습니다. 언제 이런걸 만들 생각을 하셨는지 한번 더 자괴감과 감사함을 느끼며 샘플 버튼 이미지를 불러옵니다.</p>
+<p><img src="/img/9patch/7.png" alt=""></p>
+<p>왼쪽 패널을 보면 이미지의 리소스 해상도를 지정하는 부분과 Drawable 이름을 편집할 수 있는 기능이 있습니다. 이름을 변경하게 되면 zip파일로 다운 받았을 때 변경된 이름으로 다운로드 됩니다.</p>
+<p><img src="/img/9patch/8.png" alt=""></p>
+<p>자 그럼 불러온 이미지가 가운데 화면에 보여집니다. Stretch Regions는 늘어나게 되는 부분을 설정하는 것입니다. 화면에 보이는 얇은 검은 선으로 Stretch Regions을 지정하면 됩니다.</p>
+<p><img src="/img/9patch/9.png" alt=""></p>
+<p>위와 같이 설정하게 되면 해상도에 따라 붉은색 부분이 늘어나게 됩니다.</p>
+<p><img src="/img/9patch/10.png" alt=""></p>
+<p>Contetns Padding은 안에 들어가는 텍스트가 들어가는 여백을 설정해줍니다.</p>
+<p><img src="/img/9patch/11.png" alt=""></p>
+<p>오른쪽 패널에서 Preview로 텍스트가 들어가는 것을 확인하면서 설정 할 수 있습니다.</p>
+<p>With content를 체크해주셔야 텍스트가 보여집니다.</p>
+<p><img src="/img/9patch/12.png" alt=""></p>
+<p>완성되면 Assets 탭에서 zip파일을 다운로드 받아주세요.</p>
+<p><img src="/img/9patch/13.png" alt=""></p>
+<p>다운로드가 완료되면 drawable name.9.zip으로 다운로드 되고 zip파일을 압축해제 하면 해상도 별로 나인패치 파일이 생성됩니다.</p>
+<p>부족하지만 나인패치에 대해 알아가는 시간이 되었기를 바라며, 이번 글은 여기서 마무리 하겠습니다.</p>
+<hr>
+<ul>
+<li>Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=NinePatch" target="_blank" rel="noopener">http://cracker9.io</a></li>
+<li>Facebook_ <a href="https://www.facebook.com/cracker9.io" target="_blank" rel="noopener">https://www.facebook.com/cracker9.io</a></li>
+</ul>
+<hr>
+</div><div class="article__tags"><a class="article__tags__item" href="/tags/Cracker9/">Cracker9</a><a class="article__tags__item" href="/tags/Android/">Android</a><a class="article__tags__item" href="/tags/Layout/">Layout</a><a class="article__tags__item" href="/tags/9-patch/">9-patch</a><a class="article__tags__item" href="/tags/Ninepatch/">Ninepatch</a><a class="article__tags__item" href="/tags/9patch/">9patch</a><a class="article__tags__item" href="/tags/나인패치/">나인패치</a><a class="article__tags__item" href="/tags/앤트맨/">앤트맨</a><a class="article__tags__item" href="/tags/Antman/">Antman</a><a class="article__tags__item" href="/tags/안드로이드/">안드로이드</a><a class="article__tags__item" href="/tags/Asset-Studio/">Asset Studio</a></div><!-- Disqus Code--><!-- Meta Tags for Structured Data--><meta itemprop="dateModified" content="2019-05-23T09:01:57.823Z"><meta itemprop="articleBody" content="시작
+영화 ‘캡틴 아메리카: 시빌워’를 본 사람이라면 작은 ‘앤트맨’의 존재감이 누구보다 컸다고 말할 수 있습니다. 앤트맨은 가장 중요한 전투 신에서 자유자재로 신체 크기를 바꾸며 맹활약을 한 히어로인데요.
+안드로이드에도 이런 앤트맨처럼 크기를 자유자재로 바꾸되, 해상도를 그대로 보존하여 앱을 구현하는데 큰 도움을 주는 이미지 저장방식이 있습니다...."><meta itemprop="url" content="http://blog.cracker9.io/2018/10/24/NinePatch/"><meta itemprop="mainEntityOfPage" content="http://blog.cracker9.io/2018/10/24/NinePatch/"><div itemscope itemtype="https://schema.org/Organization" itemprop="publisher"><meta itemprop="name" content="Cracker9 Blog"><div itemscope itemprop="logo" itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="http://blog.cracker9.io/images/cracker9.png"></div></div><div itemscope itemtype="https://schema.org/ImageObject" itemprop="image"><meta itemprop="contentUrl" content="http://blog.cracker9.io/images/default.jpg"><meta itemprop="url" content="http://blog.cracker9.io/images/default.jpg"><meta itemprop="width" content="1280"><meta itemprop="height" content="720"></div></article><section class="related-posts"><h3>Related posts</h3><div class="related-posts__item__wrapper"><a class="related-posts__item" href="/2018/03/20/App5/"><div class="related-posts__item__background" style="background-image:url('https://cdn-images-1.medium.com/max/1600/1*tBFbouwQajh8WpowZsMyDQ.png');"></div><div class="related-posts__item__overlay"></div><span class="related-posts__item__title">안드로이드 디자이너와 개발자를 위한 놀라운 안드로이드 앱 5가지</span></a></div><div class="related-posts__item__wrapper"><a class="related-posts__item" href="/2018/04/01/Design_Asset_Name_Guide/"><div class="related-posts__item__background" style="background-image:url('https://cdn-images-1.medium.com/max/1600/1*S-QcwGET_Fw6kbAn-mfYLw.png');"></div><div class="related-posts__item__overlay"></div><span class="related-posts__item__title">안드로이드 디자인 어셋 이름 가이드</span></a></div><div class="related-posts__item__wrapper"><a class="related-posts__item" href="/2018/03/13/Android_DPI/"><div class="related-posts__item__background" style="background-image:url('https://developer.android.com/images/screens_support/density-test-bad.png');"></div><div class="related-posts__item__overlay"></div><span class="related-posts__item__title">초보 디자이너를 위한 안드로이드 DP(Dip), PX, DPI의 개념</span></a></div></section></div></div></div><footer id="footer"><div class="widgets"><div class="widgets-inner"><!-- Jade doesn't support dynamic inclusion with `each`.--><!-- So, I just hard coded the file names that will be included.--><div class="widgets__item"><h3 class="widgets__item__heading">Recent posts</h3><ul class="recent-posts"><li class="recent-posts__item"><a href="/2019/01/19/adobe-xd/">스케치(Sketch)와 어도비(Adobe) XD, 차이점 비교</a></li><li class="recent-posts__item"><a href="/2018/12/18/5Tool/">프로젝트 생산성을 높여주는 유용한 툴과 서비스 5가지</a></li><li class="recent-posts__item"><a href="/2018/12/05/Univ_Interview/">컴퓨터 공학도가 테스트해 본 크래커나인 사용기</a></li><li class="recent-posts__item"><a href="/2018/12/04/Developer_Interview/">2년차 안드로이드 개발자의 크래커나인 사용 후기</a></li><li class="recent-posts__item"><a href="/2018/10/24/NinePatch/">영화 ‘앤트맨’을 통해 알아 본 안드로이드 나인패치(Android 9 Patch)</a></li></ul></div><div class="widgets__item"><h3 class="widgets__item__heading">Archives</h3><ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/01/">1월 2019</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/12/">12월 2018</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/10/">10월 2018</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/09/">9월 2018</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/08/">8월 2018</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/07/">7월 2018</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/06/">6월 2018</a><span class="archive-list-count">11</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/04/">4월 2018</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/03/">3월 2018</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/02/">2월 2018</a><span class="archive-list-count">1</span></li></ul></div><div class="widgets__item"><h3 class="widgets__item__heading">Categories</h3><ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/Cracker9-Story/">Cracker9 Story</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/Design/">Design</a><span class="category-list-count">6</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/Develop/">Develop</a><span class="category-list-count">4</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/Interview/">Interview</a><span class="category-list-count">4</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/Tutorial/">Tutorial</a><span class="category-list-count">11</span></li></ul></div></div></div><p class="copyright"><small>© <b>2019 Hnine </b>&nbsp; All rights reserved. Powered by GitHub Pages.</small></p></footer><script src="/js/sharer.min.js"></script></body></html>

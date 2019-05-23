@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cracker9 Blog</title>
+  
+  <subtitle>Cracker9 tech blog</subtitle>
+  <link href="/feed.xml" rel="self"/>
+  
+  <link href="http://blog.cracker9.io/"/>
+  <updated>2019-05-23T09:03:05.415Z</updated>
+  <id>http://blog.cracker9.io/</id>
+  
+  <author>
+    <name>Cracker9</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>스케치(Sketch)와 어도비(Adobe) XD, 차이점 비교</title>
+    <link href="http://blog.cracker9.io/2019/01/19/adobe-xd/"/>
+    <id>http://blog.cracker9.io/2019/01/19/adobe-xd/</id>
+    <published>2019-01-19T08:58:15.000Z</published>
+    <updated>2019-05-23T09:03:05.415Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="시작"><a href="#시작" class="headerlink" title="시작"></a>시작</h1><p>UX/UI 디자이너들의 생산성을 높여주는 디자인 툴 스케치의 시장 점유율은 높아져 가고 있지만, 다른 툴들이 그 뒤를 쫓아가고 있습니다. 그중에 하나가 어도비 XD인데, 사실 어도비가 UX/UI 디자이너들을 위한 툴을 미리 만들었더라면, 디자이너들의 든든한 동반자 자리를 내어 주지 않았을지도 모르죠. 어찌 되었든 크래커나인도 현재 스케치로 제작된 디자인을 UI 코드로 추출할 수 있도록 하고 있습니다. 그럼에도 불구하고 어도비 XD의 빠른 업데이트 속도와 불어나는 사용자가 있기에 크래커나인도 이에 대비하고자 간단한 비교 글을 준비했습니다.</p><h2 id=""><a href="#" class="headerlink" title=" "></a> </h2><h1 id="스케치-Sketch"><a href="#스케치-Sketch" class="headerlink" title="스케치(Sketch)"></a>스케치(Sketch)</h1><p>스케치는 현재 UX/UI 디자이너들에게 널리 쓰이는 툴입니다. 사실 필자도 디자인을 배웠고 포토샵과 일러스트레이터와 혼연일체 하여 작업을 했기에 앞서 말한 두 툴은 영원히 디자이너와 함께 할 것이라 생각했던 적이 있었습니다. 하지만 이 세상에 영원한 것은 없다고, 어느 날부터 스케치가 떠오르게 되었습니다. 이에 따라 빠른 결정과 효율을 중시하는 스타트업에서는 점점 스케치로 작업할 수 있는 디자이너를 선호하게 되었고, 주변에서도 스케치를 주로 이용하여 작업하게 되는 환경에 놓이게 되었습니다. 그러면서 필자 또한 자연스럽게 스케치를 접하게 되었습니다.</p><h2 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h2><p><img src="/img/adobe-xd/1.png" alt=""></p><h2 id="스케치의-핵심-기능-중-하나는-Symbol입니다"><a href="#스케치의-핵심-기능-중-하나는-Symbol입니다" class="headerlink" title="스케치의 핵심 기능 중 하나는 Symbol입니다."></a><span style="color:gray"><strong>스케치의 핵심 기능 중 하나는 Symbol입니다.</strong></span></h2><p>다양한 화면에는 동일한 컴포넌트들이 쓰이기 마련입니다. 화면에 수정사항이 생겨도 스케치의 심볼을 사용하면 컴포넌트를 일일이 수정하지 않아도 된다는 점이 큰 장점입니다.</p><h2 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h2><p><img src="/img/adobe-xd/2.png" alt=""></p><h2 id="심볼을-공유할-수-있다"><a href="#심볼을-공유할-수-있다" class="headerlink" title="심볼을 공유할 수 있다."></a><span style="color:gray"><strong>심볼을 공유할 수 있다.</strong></span></h2><p>만들어진 심볼을 공유할 수 있는 기능도 있습니다. 바로 심볼 라이브러리 기능입니다. 이 기능을 사용하면 대규모 프로젝트 혹은 여러 명의 디자이너들과 함께 심볼을 공유할 수 있는 장점이 있습니다.</p><h2 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h2><h2 id="스케치를-지원하는-다양한-툴-플러그인"><a href="#스케치를-지원하는-다양한-툴-플러그인" class="headerlink" title="스케치를 지원하는 다양한 툴, 플러그인"></a><span style="color:gray"><strong>스케치를 지원하는 다양한 툴, 플러그인</strong></span></h2><p>효율적인 업무를 가능하도록 스케치와 함께 사용할 수 있는 다양한 툴은 많습니다. 대표적으로는 제플린과 프로토파이가 있는데요. 아직까지 어도비 XD보다는 스케치를 지원하는 툴이 많지만, 어도비 XD를 지원하는 툴도 많아지고 있는 추세입니다.</p><h2 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h2><h1 id="어도비-XD"><a href="#어도비-XD" class="headerlink" title="어도비 XD"></a>어도비 XD</h1><p>그렇다면 어도비 XD를 한번 알아볼까요? 주요한 기능 위주로 살펴보도록 하겠습니다.</p><h2 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h2><p><img src="/img/adobe-xd/3.png" alt=""></p><h2 id="어도비-XD에서-두드러진-기능-중-하나는-반복-그리드-입니다"><a href="#어도비-XD에서-두드러진-기능-중-하나는-반복-그리드-입니다" class="headerlink" title="어도비 XD에서 두드러진 기능 중 하나는 반복 그리드 입니다."></a><span style="color:gray">어도비 <strong>XD에서 두드러진 기능 중 하나는 반복 그리드 입니다.</strong></span></h2><p>한 번의 클릭으로 같은 간격의 디자인을 그리고 항목들 사이의 간격 역시 자동으로 생성합니다. 반복적으로 이루어진 디자인은 가로/세로 구분하지 않고 손쉽게 만들 수 있다는 게 참 편리한 것 같습니다.</p><h2 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h2><p><img src="/img/adobe-xd/4.png" alt=""></p><p>반복적인 그리드를 사용하지 않더라도, 동일한 간격으로 만들어야 할 때 자동으로 간격을 보여주는 것도 볼 수 있습니다.</p><h2 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h2><p><img src="/img/adobe-xd/5.png" alt=""></p><h2 id="그리고-분할된-디자인과-프로토타입이-작업-영역입니다"><a href="#그리고-분할된-디자인과-프로토타입이-작업-영역입니다" class="headerlink" title="그리고 분할된 디자인과 프로토타입이 작업 영역입니다."></a><span style="color:gray"><strong>그리고 분할된 디자인과 프로토타입이 작업 영역입니다.</strong></span></h2><p>스케치는 하나의 작업 영역에서 디자인 스크린을 작업하고 프로토타입을 작업합니다. 그에 반면 어도비 XD에서는 디자인 작업 영역과 프로토타입 작업 영역이 분리되어 있습니다. 그래서 프로토타입을 따로 관리할 수 있으며 마우스 드래그 만으로 쉽게 화면과 화면을 연결할 수 있습니다.</p><p>어도비 XD는 처음 출시 되었을 때보다 많은 업데이트를 통해 심볼, 텍스트 스타일, 컬러 팔레트 같은 기능이 추가되어서 더욱 빠르게 디자인 작업을 할 수 있게 되었습니다. 게다가 포토샵, 일러스트레이터에 익숙한 사용자라면 러닝 커브가 적어 빠르게 작업이 가능할 것 같습니다. 현재 포토샵에서 작업한 것은 바로 가져오기가 안되지만 일러스트레이터에서 작업한 것은 복사 + 붙여넣기로 가져오기가 가능합니다. 그렇기 때문에 Mac OS가 아닌 사용자들에게는 더욱 더 적극적으로 다가갈 수 있지 않을까요?</p><h2 id="-8"><a href="#-8" class="headerlink" title=" "></a> </h2><h1 id="결론"><a href="#결론" class="headerlink" title="결론"></a>결론</h1><p>UX/UI 디자인 관련 툴 중에는 작업의 능률을 올려주는 좋은 툴들이 참 많고, 앞으로도 계속 더 많아질 것 같습니다. 비록 크래커나인은 디자인 툴은 아니지만, 디자이너와 개발자의 업무 효율을 높혀 크리에이티브에 좀 더 집중할 수 있도록 돕고 있습니다. 그렇기 때문에 하루 빨리 스케치 외에 다른 디자인 툴을 호환시켜 더 많은 디자이너분들이 크래커나인을 접할 수 있도록 하겠습니다.</p><h2 id="-9"><a href="#-9" class="headerlink" title=" "></a> </h2><hr><ul><li>Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=sketch_vs_xd" target="_blank" rel="noopener">http://cracker9.io</a></li><li>Facebook_ <a href="https://www.facebook.com/cracker9.io" target="_blank" rel="noopener">https://www.facebook.com/cracker9.io</a></li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;시작&quot;&gt;&lt;a href=&quot;#시작&quot; class=&quot;headerlink&quot; title=&quot;시작&quot;&gt;&lt;/a&gt;시작&lt;/h1&gt;&lt;p&gt;UX/UI 디자이너들의 생산성을 높여주는 디자인 툴 스케치의 시장 점유율은 높아져 가고 있지만, 다른 툴들이 그 뒤를 쫓아가고
+      
+    
+    </summary>
+    
+      <category term="Design" scheme="http://blog.cracker9.io/categories/Design/"/>
+    
+    
+      <category term="Sketch" scheme="http://blog.cracker9.io/tags/Sketch/"/>
+    
+      <category term="스케치" scheme="http://blog.cracker9.io/tags/%EC%8A%A4%EC%BC%80%EC%B9%98/"/>
+    
+      <category term="어도비 XD" scheme="http://blog.cracker9.io/tags/%EC%96%B4%EB%8F%84%EB%B9%84-XD/"/>
+    
+      <category term="Adobe XD" scheme="http://blog.cracker9.io/tags/Adobe-XD/"/>
+    
+      <category term="UX" scheme="http://blog.cracker9.io/tags/UX/"/>
+    
+      <category term="UI" scheme="http://blog.cracker9.io/tags/UI/"/>
+    
+      <category term="UX/UI 디자이너" scheme="http://blog.cracker9.io/tags/UX-UI-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88/"/>
+    
+      <category term="심볼" scheme="http://blog.cracker9.io/tags/%EC%8B%AC%EB%B3%BC/"/>
+    
+      <category term="Symbol" scheme="http://blog.cracker9.io/tags/Symbol/"/>
+    
+      <category term="Plug-in" scheme="http://blog.cracker9.io/tags/Plug-in/"/>
+    
+      <category term="프로토타입" scheme="http://blog.cracker9.io/tags/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85/"/>
+    
+      <category term="디자인 툴" scheme="http://blog.cracker9.io/tags/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%88%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>프로젝트 생산성을 높여주는 유용한 툴과 서비스 5가지</title>
+    <link href="http://blog.cracker9.io/2018/12/18/5Tool/"/>
+    <id>http://blog.cracker9.io/2018/12/18/5Tool/</id>
+    <published>2018-12-18T02:58:15.000Z</published>
+    <updated>2019-05-23T08:59:50.861Z</updated>
+    
+    <content type="html"><![CDATA[<p>프로젝트를 진행하다보면 자연스럽게 개인 뿐만 아니라 프로젝트 전체적인 효율을 높여주는 유용한 플러그인이나 툴을 찾게 되곤 합니다. 그때 각자 맡은 역할에 필요한 툴들이 있는데, 그 중에서 개발자에게 유용한 툴 몇 가지를 소개하겠습니다. 이는 개발 역량뿐만 아니라 프로젝트 전체에 도움이 되는 툴입니다.</p><h2 id=""><a href="#" class="headerlink" title=" "></a> </h2><h2 id="01-Asana"><a href="#01-Asana" class="headerlink" title="01. Asana"></a><strong>01. Asana</strong></h2><p><span style="color:gray">제품/서비스를 위한 이슈 관리 툴</span></p><p>이슈 없는 프로젝트 없고 버그 없는 프로젝트도 없습니다. 그렇기 때문에 전체 프로젝트에 있어 관리와 트래킹은 필수이죠. 그 중 Asana는 일정 관리 및 이슈, 버그 트래킹 툴입니다. 별도의 데스크탑 앱은 없고, 웹사이트와 모바일 앱으로도 사용할 수 있습니다. 또한 다른 이슈나 버그 트래킹 툴보다 GUI가 예쁘고 깔끔해서 시각적으로 민감한 디자이너들도 거부감 없이 사용할 수 있다는 것이 장점입니다.</p><p><img src="/img/5Tool/1.png" alt=""></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><h2 id="02-Zeplin"><a href="#02-Zeplin" class="headerlink" title="02. Zeplin"></a><strong>02. Zeplin</strong></h2><p><span style="color:gray">GUI 가이드라인 문서 없이 디자인 스펙 공유</span></p><p>디자이너와의 협업은 어떻게 하고 계시나요? Zeplin은 디자이너와의 커뮤니케이션을 도와주는 툴입니다. Zeplin이 없던 시절에는 GUI 가이드라인 문서로 디자인 정의를 전달받았을 것입니다. 하지만 GUI 가이드라인 문서 작성은 힘든 노동 집약적 작업이 주를 이룹니다. 그렇다고 GUI 가이드라인 문서 없이 구두로 설명하기에는 한계가 있습니다. 이러한 한계를 줄이기 위해서 Zeplin이 등장하였고, 디자이너는 크리에이티브한 디자인 작업에 더 집중할 수 있게 되었습니다. 개발자 역시 공유된 스크린을 통해 UI컴포넌트의 스펙을 보며 개발이 가능하게 되었습니다.</p><p><img src="/img/5Tool/2.png" alt=""></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><h2 id="03-Cracker9"><a href="#03-Cracker9" class="headerlink" title="03. Cracker9"></a><strong>03. Cracker9</strong></h2><p><span style="color:gray">디자인 UI 레이아웃 코드 생성</span></p><p>Zeplin이 디자이너와 개발자의 커뮤니케이션을 도와주는 툴이었다면 Cracker9은 이보다 더 유용한 기능을 가진 툴입니다. 디자이너가 작업한 디자인을 그대로 가져와 UI 코드로 생성할 수 있기 때문이죠. 이는 Zeplin에서 UI컴포넌트 스펙만 보고, 직접 타이핑하여 코드를 짜는 것보다 훨씬 더 개발 시간을 단축시켜 줍니다. 개발 시간이 단축 된다는 것은 전체 프로젝트를 좀 더 효율적으로 진행할 수 있다는 것이죠.</p><p><img src="/img/5Tool/3.png" alt=""></p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><h1 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h1><h2 id="04-Github"><a href="#04-Github" class="headerlink" title="04. Github"></a><strong>04. Github</strong></h2><p><span style="color:gray">코드 형상관리 툴</span></p><p>Git은 코드를 관리하는 형상관리 툴 입니다. 하나의 프로젝트를 중복되지 않으며 동시 작업할 수 있도록 해주기도 하고, 이전 코드와 비교도 할 수 있는 중요한 툴이죠. 그리고 Github는 저장소를 제공해주는 서비스입니다. 사용법은 Github 웹사이트에 들어가서 저장소를 만들어 사용하면 되는 것이죠. 하지만 단순히 저장소를 뛰어넘어 하나의 커뮤니티로 자리매김 하고 있습니다. 언제든 다른 이의 프로젝트를 볼 수도 있고 참여할 수도 있습니다. 저장소를 따로 만들지 않고 프로젝트를 관리할 수 있다는 점도 좋지만, 다양한 프로젝트에 참여함으로써 개발자의 개인 역량을 높일 수 있다는 점도 큰 장점입니다.</p><p><img src="/img/5Tool/4.png" alt=""></p><h1 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h1><h1 id="-8"><a href="#-8" class="headerlink" title=" "></a> </h1><h2 id="05-Gitlab"><a href="#05-Gitlab" class="headerlink" title="05. Gitlab"></a><strong>05. Gitlab</strong></h2><p><span style="color:gray">비공개 프로젝트에 더 유용한 코드 형상관리</span></p><p>Git으로 형상관리를 해야하고 비공개 프로젝트라면 위의 Github가 아닌 Gitlab이 더 맞을지도 모릅니다. Github에서는 무료로 프로젝트를 보관하려면 프로젝트를 공개로 전환해야한다는 조건이 필요하기 때문이죠. 하지만 Gitlab은 무료로 개인 프로젝트를 보관할 수 있습니다. 또한 인원까지 무제한으로 제공되는 유용한 서비스 중에 하나입니다.</p><p><img src="/img/5Tool/5.png" alt=""></p><h1 id="-9"><a href="#-9" class="headerlink" title=" "></a> </h1><h1 id="-10"><a href="#-10" class="headerlink" title=" "></a> </h1><p>사실 비슷한 서비스를 제공하는 툴은 많습니다. 그리고 이미 자신에게 맞는 툴을 사용하는 사람들도 많습니다. 하지만 아직 정착하여 사용하고 있는 툴이 없다면, 위에 소개해드린 몇가지 툴을 사용해보는 것을 추천합니다.</p><h1 id="-11"><a href="#-11" class="headerlink" title=" "></a> </h1><h1 id="-12"><a href="#-12" class="headerlink" title=" "></a> </h1><hr><ul><li>Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=5Tool" target="_blank" rel="noopener">http://cracker9.io</a></li><li>Facebook_ <a href="https://www.facebook.com/cracker9.io" target="_blank" rel="noopener">https://www.facebook.com/cracker9.io</a></li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;프로젝트를 진행하다보면 자연스럽게 개인 뿐만 아니라 프로젝트 전체적인 효율을 높여주는 유용한 플러그인이나 툴을 찾게 되곤 합니다. 그때 각자 맡은 역할에 필요한 툴들이 있는데, 그 중에서 개발자에게 유용한 툴 몇 가지를 소개하겠습니다. 이는 개발
+      
+    
+    </summary>
+    
+      <category term="Develop" scheme="http://blog.cracker9.io/categories/Develop/"/>
+    
+    
+      <category term="Asana" scheme="http://blog.cracker9.io/tags/Asana/"/>
+    
+      <category term="Zeplin" scheme="http://blog.cracker9.io/tags/Zeplin/"/>
+    
+      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
+    
+      <category term="Github" scheme="http://blog.cracker9.io/tags/Github/"/>
+    
+      <category term="Gitlab" scheme="http://blog.cracker9.io/tags/Gitlab/"/>
+    
+      <category term="Project Tool" scheme="http://blog.cracker9.io/tags/Project-Tool/"/>
+    
+      <category term="Project Plug-in" scheme="http://blog.cracker9.io/tags/Project-Plug-in/"/>
+    
+      <category term="Project Service" scheme="http://blog.cracker9.io/tags/Project-Service/"/>
+    
+      <category term="Hand-off" scheme="http://blog.cracker9.io/tags/Hand-off/"/>
+    
+      <category term="GUI 가이드라인" scheme="http://blog.cracker9.io/tags/GUI-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8/"/>
+    
+      <category term="UI 코드" scheme="http://blog.cracker9.io/tags/UI-%EC%BD%94%EB%93%9C/"/>
+    
+      <category term="협업툴" scheme="http://blog.cracker9.io/tags/%ED%98%91%EC%97%85%ED%88%B4/"/>
+    
+      <category term="비공개 프로젝트툴" scheme="http://blog.cracker9.io/tags/%EB%B9%84%EA%B3%B5%EA%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%ED%88%B4/"/>
+    
+      <category term="프로젝트툴" scheme="http://blog.cracker9.io/tags/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%ED%88%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>컴퓨터 공학도가 테스트해 본 크래커나인 사용기</title>
+    <link href="http://blog.cracker9.io/2018/12/05/Univ_Interview/"/>
+    <id>http://blog.cracker9.io/2018/12/05/Univ_Interview/</id>
+    <published>2018-12-04T15:00:00.000Z</published>
+    <updated>2019-05-23T08:55:34.350Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="크래커나인-팀에는-크래커나인의-편의성을-올리기-위해-주니어-개발자들을-대상으로-사용성-테스트를-실시-하였습니다"><a href="#크래커나인-팀에는-크래커나인의-편의성을-올리기-위해-주니어-개발자들을-대상으로-사용성-테스트를-실시-하였습니다" class="headerlink" title="크래커나인 팀에는 크래커나인의 편의성을 올리기 위해 주니어 개발자들을 대상으로 사용성 테스트를 실시 하였습니다."></a><strong>크래커나인 팀에는 크래커나인의 편의성을 올리기 위해 주니어 개발자들을 대상으로 사용성 테스트를 실시 하였습니다.</strong></h2><h2 id=""><a href="#" class="headerlink" title=" "></a> </h2><p><span style="color:blue"><strong>Cracker9 &gt;</strong> 본인 소개를 부탁드립니다.</span></p><p><strong>컴공학도 A &gt;</strong> 안녕하세요~ 저는 컴퓨터공학을 전공하고 있는 4학년 대학생 입니다.</p><p><strong>컴공학도 B &gt;</strong> 안녕하세요~ 저도 4학년 컴공학도 입니다.</p><h2 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h2><p><span style="color:blue"><strong>Cracker9 &gt;</strong> 안드로이드 개발은 얼마나 해보셨나요?</span></p><p><strong>컴공학도 B &gt;</strong> 저는 대학교 2학년 때부터 본격적으로 안드로이드 개발을 공부하였고, 현재는 디자인을 전공하는 학우들과 같이 App개발을 하면서 안드로이드에 대해 공부하고 있습니다.</p><p><strong>컴공학도 A &gt;</strong> 저도 스터디나 동아리에 참여하여 개발 공부를 하고 있습니다.</p><p><img src="/img/Univ_Interview/0.png" alt=""></p><h2 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h2><p><span style="color:blue"><strong>Cracker9 &gt;</strong> App을 개발하고 있으시다고요? 그렇다면 GUI 정보는 어떻게 받아서 개발하시나요?</span></p><p><strong>컴공학도 B &gt;</strong> 처음에는 어떻게 전달받아야 할지 몰랐었는데, 디자인하는 분들이 Zeplin을 통해 GUI 가이드 정보를 주셔서 지금은 Zeplin을 사용하고 있습니다.</p><h2 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h2><p><span style="color:blue"><strong>Cracker9 &gt;</strong> 혹시 ‘크래커나인’ 이라는 툴을 접해 본 적이 있었나요?</span></p><p><strong>컴공학도 A &gt;</strong> 아니요, 크래커나인 툴에 대해 몰랐어요.</p><h2 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h2><p><span style="color:blue"><strong>Cracker9 &gt;</strong> 크래커나인은 GUI 로 부터 코드를 생성해주는 툴 입니다.</span></p><p><strong>컴공학도 B &gt;</strong> 아이디어가 좋은데요? Zeplin으로 GUI 정보를 받아도 사실 개발할 때에는 직접 GUI 스펙을 기입하고, 코드로 일일이 짜는 것이 번거로운 일이었거든요.</p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><h2 id="그럼-크래커나인을-사용하여-Android-View를-구성해보는-테스트를-진행하겠습니다"><a href="#그럼-크래커나인을-사용하여-Android-View를-구성해보는-테스트를-진행하겠습니다" class="headerlink" title="그럼, 크래커나인을 사용하여 Android View를 구성해보는 테스트를 진행하겠습니다."></a><strong>그럼, 크래커나인을 사용하여 Android View를 구성해보는 테스트를 진행하겠습니다.</strong></h2><h2 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h2><p><img src="/img/Univ_Interview/1.png" alt=""></p><p><span style="color:blue"><strong>Cracker9 &gt;</strong> 왼쪽에 보이는 View panel에서 원하는 View들을 선택하여 오른쪽의 Design panel 로 Drag &amp; drop 하면 됩니다. 옮긴 후 맨 오른쪽 Setting tab에서 View의 ID 값, Layout, Size 등의 옵션을 설정하여 맨 오른쪽 하단의 Generate code를 선택하시면 Layout code가 추출됩니다.</span></p><h2 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h2><p><strong>컴공학도 B &gt;</strong> 보통 디자이너분들이 디자인하면 Margin 값이 있잖아요? 겉에서 Padding 으로 감싸면 그 값을 자동으로 잡아주면 좋을 것 같아요~</p><p><span style="color:blue"><strong>Cracker9 &gt;</strong> 기본적으로 Padding 이 잡혀있는 디자인이 있으면 Custom Layout 기능을 통해 감싸는 View를 생성하면 됩니다.</span></p><p><img src="/img/Univ_Interview/2.gif" alt=""></p><p><strong>컴공학도 B &gt;</strong> 아하! 이런 방법이 있었군요! 좋은 기능이네요~ 다만 처음 사용하는 저 같은 사람에게는 이 아이콘을 보고, 이러한 기능이 있는지 인식이 잘 안되는게 아쉬워요.</p><h1 id="-8"><a href="#-8" class="headerlink" title=" "></a> </h1><h2 id="크래커나인을-충분히-테스트-해-본-후-인터뷰를-진행했습니다"><a href="#크래커나인을-충분히-테스트-해-본-후-인터뷰를-진행했습니다" class="headerlink" title="크래커나인을 충분히 테스트 해 본 후 인터뷰를 진행했습니다."></a><strong>크래커나인을 충분히 테스트 해 본 후 인터뷰를 진행했습니다.</strong></h2><h2 id="-9"><a href="#-9" class="headerlink" title=" "></a> </h2><p><span style="color:blue"><strong>Cracker9 &gt;</strong> 크래커나인의 어떤 기능이 가장 편리했나요?</span></p><p><strong>컴공학도 A &gt;</strong> 연결을 클릭으로 하는 것은 되게 좋은 것 같아요. Android Studio 는 Drag 해서 작업하는게 불편했거든요.</p><h2 id="-10"><a href="#-10" class="headerlink" title=" "></a> </h2><p><span style="color:blue"><strong>Cracker9 &gt;</strong> 클릭으로 연결하는게 Drag 보다 편리한가요?</span></p><p><strong>컴공학도 A &gt;</strong> 네, 작은 것 같은 경우 Drag 가 안되서 불편했었거든요.</p><p><strong>컴공학도 B &gt;</strong> Code 결과 창에 xml 로 다운 받을 수 있는 기능이 정말 편리 했습니다.</p><h2 id="-11"><a href="#-11" class="headerlink" title=" "></a> </h2><p><span style="color:blue"><strong>Cracker9 &gt;</strong> 크래커나인에 있었으면 좋을 것 같은 기능이 있나요?</span></p><p><strong>컴공학도 B &gt;</strong> 개인적인 의견인데, String 이나 Color 외에도 Dimension 이라 해서 많이 쓰는 수치를 뽑아놓고 불러다 쓰거든요. 그것도 같이 만들어주는 기능이 있으면 좋겠어요. 또, 이미지 중에 이런 옵션도 있으면 좋겠어요. 해상도에 넘치는 부분이 있으면 잘라내라는 명령어가 있는데, 그런 것도 코드로 만들수 있었으면 좋겠어요.</p><p><strong>컴공학도 A &gt;</strong> Color 는 값만 있었으면 좋겠어요. 습관일수도 있는데 Mac 쓰다보면 확대 할때 패드로 하니까.. 습관의 문제니까 툴에 적응하면 괜찮을 것 같기도 해요.</p><h2 id="-12"><a href="#-12" class="headerlink" title=" "></a> </h2><p><span style="color:blue"><strong>Cracker9 &gt;</strong> Zeplin 사용하다가 크래커나인 툴을 사용했을때 장단점 등 전반적인 느낌이 어떠셨나요?</span></p><p><strong>컴공학도 A &gt;</strong> 저처럼 안드로이드를 공부하거나 초보 개발자들에게는 좋을 것 같습니다. 저 또한 전반적으로 편리했구요. 다만, ‘시니어 개발자들은 직접 코드를 작성하는 것을 더 선호하시지 않을까?’ 라는 생각이 드네요.</p><p><strong>컴공학도 B &gt;</strong> 단점이라기 보다 변경이 되었으면 하는 부분은 대부분 수치라는게 많이 쓰이지 않거든요. 꽉찬 영역들은 Match parent 로 많이 쓰니까 ‘Default 가 아예 Match parent 면 좋지 않을까?’ 라는 생각이 들었어요. 그리고 제 생각으로는 Zeplin 보다 훨씬 더 편리한 툴인 것 같아요. 사실, Zeplin은 GUI 정보만 제공해주는 것에서 끝이지만 크래커나인은 Layout 코드까지 생성해주니까요. 개발의 효율성 면에서 휠씬 좋은 것 같아요. 실제로 스터디할 때 적극적으로 사용해보고 싶은 툴이에요.</p><hr><ul><li>Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=Univ_Interview" target="_blank" rel="noopener">http://cracker9.io</a></li><li>Facebook_ <a href="https://www.facebook.com/cracker9.io" target="_blank" rel="noopener">https://www.facebook.com/cracker9.io</a></li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;크래커나인-팀에는-크래커나인의-편의성을-올리기-위해-주니어-개발자들을-대상으로-사용성-테스트를-실시-하였습니다&quot;&gt;&lt;a href=&quot;#크래커나인-팀에는-크래커나인의-편의성을-올리기-위해-주니어-개발자들을-대상으로-사용성-테스트를-실시-하였습
+      
+    
+    </summary>
+    
+      <category term="Interview" scheme="http://blog.cracker9.io/categories/Interview/"/>
+    
+    
+      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
+    
+      <category term="크래커나인" scheme="http://blog.cracker9.io/tags/%ED%81%AC%EB%9E%98%EC%BB%A4%EB%82%98%EC%9D%B8/"/>
+    
+      <category term="업무 협업툴" scheme="http://blog.cracker9.io/tags/%EC%97%85%EB%AC%B4-%ED%98%91%EC%97%85%ED%88%B4/"/>
+    
+      <category term="GUI가이드라인" scheme="http://blog.cracker9.io/tags/GUI%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8/"/>
+    
+      <category term="안드로이드 앱개발" scheme="http://blog.cracker9.io/tags/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1%EA%B0%9C%EB%B0%9C/"/>
+    
+      <category term="안드로이드스튜디오" scheme="http://blog.cracker9.io/tags/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4/"/>
+    
+      <category term="크래커나인 사용성테스트" scheme="http://blog.cracker9.io/tags/%ED%81%AC%EB%9E%98%EC%BB%A4%EB%82%98%EC%9D%B8-%EC%82%AC%EC%9A%A9%EC%84%B1%ED%85%8C%EC%8A%A4%ED%8A%B8/"/>
+    
+      <category term="사용성테스트" scheme="http://blog.cracker9.io/tags/%EC%82%AC%EC%9A%A9%EC%84%B1%ED%85%8C%EC%8A%A4%ED%8A%B8/"/>
+    
+      <category term="크래커나인 사용기" scheme="http://blog.cracker9.io/tags/%ED%81%AC%EB%9E%98%EC%BB%A4%EB%82%98%EC%9D%B8-%EC%82%AC%EC%9A%A9%EA%B8%B0/"/>
+    
+      <category term="크래커나인 사용후기" scheme="http://blog.cracker9.io/tags/%ED%81%AC%EB%9E%98%EC%BB%A4%EB%82%98%EC%9D%B8-%EC%82%AC%EC%9A%A9%ED%9B%84%EA%B8%B0/"/>
+    
+      <category term="크래커나인 리뷰" scheme="http://blog.cracker9.io/tags/%ED%81%AC%EB%9E%98%EC%BB%A4%EB%82%98%EC%9D%B8-%EB%A6%AC%EB%B7%B0/"/>
+    
+      <category term="크래커나인 제플린" scheme="http://blog.cracker9.io/tags/%ED%81%AC%EB%9E%98%EC%BB%A4%EB%82%98%EC%9D%B8-%EC%A0%9C%ED%94%8C%EB%A6%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2년차 안드로이드 개발자의 크래커나인 사용 후기</title>
+    <link href="http://blog.cracker9.io/2018/12/04/Developer_Interview/"/>
+    <id>http://blog.cracker9.io/2018/12/04/Developer_Interview/</id>
+    <published>2018-12-04T01:38:07.000Z</published>
+    <updated>2019-05-23T08:52:45.129Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="크래커나인-팀에서는-사용자의-의견을-적극적으로-반영하기-위하여-실제-2년차-개발자의-크래커나인-사용-리뷰와-인터뷰를-진행했습니다"><a href="#크래커나인-팀에서는-사용자의-의견을-적극적으로-반영하기-위하여-실제-2년차-개발자의-크래커나인-사용-리뷰와-인터뷰를-진행했습니다" class="headerlink" title="크래커나인 팀에서는 사용자의 의견을 적극적으로 반영하기 위하여 실제 2년차 개발자의 크래커나인 사용 리뷰와 인터뷰를 진행했습니다."></a>크래커나인 팀에서는 사용자의 의견을 적극적으로 반영하기 위하여 실제 2년차 개발자의 크래커나인 사용 리뷰와 인터뷰를 진행했습니다.</h2><h3 id=""><a href="#" class="headerlink" title=" "></a> </h3><p><span style="color:blue"><strong>Cracker9 &gt;</strong> 먼저, 본인 소개를 부탁 드립니다.</span></p><p><strong>김OO &gt;</strong> 저는 안드로이드와 웹 개발 업무를 하고 있는 2년차 개발자 김OO입니다. 제 사진은 부끄러워 안드로이드 이미지로 대체 합니다. :)<br><img src="/img/User_interview_kilyung_Kim/1.png" alt=""></p><h3 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h3><p><span style="color:blue"><strong>Cracker9 &gt;</strong> 디자이너 분들과 협업할 때 주로 어떤 툴을 사용하고 계신가요?</span></p><p><strong>김OO &gt;</strong> 제플린을 주로 사용 하고 있습니다.</p><h3 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h3><p><span style="color:blue"><strong>Cracker9 &gt;</strong> 안드로이드 앱 개발 시 레이아웃을 구성할 때 주로 어떤 레이아웃을 사용하시나요?</span></p><p><strong>김OO &gt;</strong> 디자인에 맞추어 여러 개의 레이아웃을 골고루 쓰는데, Constraint Layout은 뜸하게 사용했던 편이였습니다.</p><h2 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h2><h2 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h2><h2 id="그럼-크래커나인을-실제-사용하여-안드로이드-레이아웃을-구성해-보도록-하겠습니다"><a href="#그럼-크래커나인을-실제-사용하여-안드로이드-레이아웃을-구성해-보도록-하겠습니다" class="headerlink" title="그럼, 크래커나인을 실제 사용하여 안드로이드 레이아웃을 구성해 보도록 하겠습니다."></a>그럼, 크래커나인을 실제 사용하여 안드로이드 레이아웃을 구성해 보도록 하겠습니다.</h2><h3 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h3><p><img src="/img/User_interview_kilyung_Kim/2.png" alt=""></p><p><span style="color:blue"><strong>Cracker9 &gt;</strong> 왼쪽에 보이는 View panel에서 원하는 View들을 선택하여 오른쪽의 Design panel 로 Drag &amp; drop 하면 됩니다. 옮긴 후 맨 오른쪽 Setting tab에서 View의 ID 값, Layout, Size등의 옵션을 설정하여 맨 오른쪽 하단의 Generate code를 선택하시면 Layout code가 추출됩니다.</span></p><h3 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h3><p><strong>김OO &gt;</strong> 왼쪽의 View panel에서 Asset과 Asset이 아닌 것 어떻게 구분하나요?</p><p><span style="color:blue"><strong>Cracker9 &gt;</strong> 제플린과 동일하구요. 인포 패널에서 각각의 View 정보를 알 수 있습니다.<br><img src="/img/User_interview_kilyung_Kim/3.png" alt=""></span></p><h3 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h3><p><strong>김OO &gt;</strong> View를 Drag &amp; drop만 하면 자동으로 위치를 잡아주나요?</p><p><span style="color:blue"><strong>Cracker9 &gt;</strong> 네, 왼쪽 View panel에 보이는 디자인 그대로 동일한 위치에 배치됩니다.</span></p><h3 id="-8"><a href="#-8" class="headerlink" title=" "></a> </h3><p><strong>김OO &gt;</strong> View를 한쪽 위로 붙이려면 어떻게 해야해요?</p><p><span style="color:blue"><strong>Cracker9 &gt;</strong> 한 방향으로만 연결 지으면 됩니다.</span></p><h2 id="-9"><a href="#-9" class="headerlink" title=" "></a> </h2><h2 id="-10"><a href="#-10" class="headerlink" title=" "></a> </h2><h2 id="크래커나인을-실제-사용해-본-후-인터뷰를-진행했습니다"><a href="#크래커나인을-실제-사용해-본-후-인터뷰를-진행했습니다" class="headerlink" title="크래커나인을 실제 사용해 본 후 인터뷰를 진행했습니다."></a>크래커나인을 실제 사용해 본 후 인터뷰를 진행했습니다.</h2><h3 id="-11"><a href="#-11" class="headerlink" title=" "></a> </h3><p><span style="color:blue"><strong>Cracker9 &gt;</strong> 사용하시면서 불편한 점은 없으셨나요?</span></p><p><strong>김OO &gt;</strong> 2가지 부분에 조금 불편했던 것 같아요.</p><p>첫 번째는 View들 간의 관계 연결이 어떻게 되었는지 확인하고 싶은데 확인이 어려운 거 같아요. 안드로이드 스튜디오와 같은 경우는 복잡해보이긴 해도 View간의 관계 연결을 계속 보여주거든요. Show &amp; Hide 하는 기능이 있으면 좋을 것 같아요.</p><p>두 번째는 아직 크래커나인이라는 툴에 익숙하지 않고 신뢰도가 아직 높지않아서 그런지 Generate code 후 제가 제대로 관계 연결이나 설정을 했는지를 확인하게 되더라구요. 그래서 Generate 전에 내가 제대로 Setting했는지 검증하는 단계가 있었으면 좋겠어요.</p><h3 id="-12"><a href="#-12" class="headerlink" title=" "></a> </h3><p><span style="color:blue"><strong>Cracker9 &gt;</strong> 본인이 직접 코드를 짠 것은 아니니까 어색할 수도 있었을 것 같아요. 코드를 확인해보았을 때 내가 짠 것과 다르다면 어디를 수정하면 좋을지 말씀해주세요.</span></p><p><strong>김OO &gt;</strong> 사실 제가 코드를 직접 치는 것과 큰 차이가 없는 것 같아요.</p><h3 id="-13"><a href="#-13" class="headerlink" title=" "></a> </h3><p><span style="color:blue"><strong>Cracker9 &gt;</strong> 크래커나인 툴의 난이도는 어느 정도인 것 같나요?</span></p><p><strong>김OO &gt;</strong> 어려운 느낌은 없었어요. 한번 하니까 알 것 같은데, 두번 만들어 보면 금방 적응해서 쉽게 사용할 수 있을 것 같아요. 툴의 난이도를 정확하게 말씀드리기 어렵지만, 안드로이드에 대한 기반 지식을 알면 할 수 있는 난이도 인것 같아요.</p><h3 id="-14"><a href="#-14" class="headerlink" title=" "></a> </h3><p><span style="color:blue"><strong>Cracker9 &gt;</strong> 안드로이드 기반 지식이 있으신 분들은 한 두번 정도 사용 하면 이해 할 수 있을것 같다는 말씀이시죠?</span></p><p><strong>김OO &gt;</strong> 네 그렇습니다.</p><h3 id="-15"><a href="#-15" class="headerlink" title=" "></a> </h3><p><span style="color:blue"><strong>Cracker9 &gt;</strong> 마지막으로 크래커나인 사용 리뷰 총평을 해 주신다면?</span></p><p><strong>김OO &gt;</strong> 한번에 Drag를 해서 레이아웃을 잡아주는 부분이 유용 할 것 같고, 일단 작업이 재미있었어요. 복잡한 GUI일수록 크래커나인을 사용하면 레이아웃 구성 시간을 현저히 줄일 수 있어서 빠르게 작업할 수 있을 거 같아요. 크래커나인은 대체적으로 사용하기도 쉽고 편했던 것 같습니다.</p><h2 id="-16"><a href="#-16" class="headerlink" title=" "></a> </h2><hr><ul><li>Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=Developer_Interview" target="_blank" rel="noopener">http://cracker9.io</a></li><li>Facebook_ <a href="https://www.facebook.com/cracker9.io" target="_blank" rel="noopener">https://www.facebook.com/cracker9.io</a></li></ul><hr><h2 id="-17"><a href="#-17" class="headerlink" title=" "></a> </h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;크래커나인-팀에서는-사용자의-의견을-적극적으로-반영하기-위하여-실제-2년차-개발자의-크래커나인-사용-리뷰와-인터뷰를-진행했습니다&quot;&gt;&lt;a href=&quot;#크래커나인-팀에서는-사용자의-의견을-적극적으로-반영하기-위하여-실제-2년차-개발자의-크래
+      
+    
+    </summary>
+    
+      <category term="Interview" scheme="http://blog.cracker9.io/categories/Interview/"/>
+    
+    
+      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
+    
+      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
+    
+      <category term="Layout" scheme="http://blog.cracker9.io/tags/Layout/"/>
+    
+      <category term="크래커나인 사용기" scheme="http://blog.cracker9.io/tags/%ED%81%AC%EB%9E%98%EC%BB%A4%EB%82%98%EC%9D%B8-%EC%82%AC%EC%9A%A9%EA%B8%B0/"/>
+    
+      <category term="크래커나인 사용후기" scheme="http://blog.cracker9.io/tags/%ED%81%AC%EB%9E%98%EC%BB%A4%EB%82%98%EC%9D%B8-%EC%82%AC%EC%9A%A9%ED%9B%84%EA%B8%B0/"/>
+    
+      <category term="안드로이드 개발자" scheme="http://blog.cracker9.io/tags/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90/"/>
+    
+      <category term="Cracker9 review" scheme="http://blog.cracker9.io/tags/Cracker9-review/"/>
+    
+      <category term="Layout Code" scheme="http://blog.cracker9.io/tags/Layout-Code/"/>
+    
+      <category term="제플린" scheme="http://blog.cracker9.io/tags/%EC%A0%9C%ED%94%8C%EB%A6%B0/"/>
+    
+      <category term="안드로이드 레이아웃" scheme="http://blog.cracker9.io/tags/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83/"/>
+    
+      <category term="안드로이드 코드" scheme="http://blog.cracker9.io/tags/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%BD%94%EB%93%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>영화 ‘앤트맨’을 통해 알아 본 안드로이드 나인패치(Android 9 Patch)</title>
+    <link href="http://blog.cracker9.io/2018/10/24/NinePatch/"/>
+    <id>http://blog.cracker9.io/2018/10/24/NinePatch/</id>
+    <published>2018-10-24T01:38:07.000Z</published>
+    <updated>2019-05-23T09:01:57.823Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="시작"><a href="#시작" class="headerlink" title="시작"></a><strong>시작</strong></h1><p><img src="/img/9patch/1.gif" alt=""></p><p>영화 ‘캡틴 아메리카: 시빌워’를 본 사람이라면 작은 ‘앤트맨’의 존재감이 누구보다 컸다고 말할 수 있습니다. 앤트맨은 가장 중요한 전투 신에서 자유자재로 신체 크기를 바꾸며 맹활약을 한 히어로인데요.</p><p>안드로이드에도 이런 앤트맨처럼 크기를 자유자재로 바꾸되, 해상도를 그대로 보존하여 앱을 구현하는데 큰 도움을 주는 이미지 저장방식이 있습니다. 바로 나인패치입니다. 포스팅을 통해 나인패치를 이해해보고자 합니다.</p><h1 id="나인패치-이해하기"><a href="#나인패치-이해하기" class="headerlink" title="나인패치 이해하기"></a><strong>나인패치 이해하기</strong></h1><h2 id="사이즈는-바뀌지만-내용은-그대로"><a href="#사이즈는-바뀌지만-내용은-그대로" class="headerlink" title="#사이즈는 바뀌지만 내용은 그대로"></a><strong>#사이즈는 바뀌지만 내용은 그대로</strong></h2><p>영화 속 앤트맨은 핌입자를 통해 분자보다 더 작은 양자 사이즈만큼 작아졌다가, 비행기보다 더 큰 사이즈로 변하는 히어로인데요. 핌 입자를 사용시 질량에는 변화가 없어 작아진 크기에서도 정상 어른의 펀치와 같은 위력을 줍니다.</p><p>나인패치 역시 앤트맨과 같은 특징을 가지고 있는데요. 우리가 사용하고 있는 핸드폰의 해상도는 제각각 입니다. 하지만 이미지를 그 해상도에 전부 맞춰서 제작하기에는 무리가 있죠. 그렇기 때문에 디바이스에 표현되는 아이콘이나 버튼 등에 확대 되는 영역을 지정해줍니다. 그러면 큰 해상도에 이미지를 적용 하여도 픽셀이 깨지지 않고 확대된 이미지를 사용 할 수 있습니다.</p><p>좀 더 정확하게 설명하자면, 이미지를 9분할 하여 확대되는 영역과 아닌 영역을 구분하여 저장하는 방식이며 이미지 확장자는. 9.png가 됩니다. 아래의 그림에서 살펴보면 빨간색 화살표 영역은 늘어나고 흰색 영역은 늘어나지 않게 됩니다.</p><p><img src="/img/9patch/2.png" alt=""></p><p>나인패치 이미지가 어떤 구조를 가지고 있는 어떻게 동작하는지에 대해 추가적으로 설명해보겠습니다.</p><p><img src="/img/9patch/3.jpg" alt=""></p><p>우선, 나인패치는Stretchable area와 Padding box 두가지의 영역으로 나뉩니다.</p><p><img src="/img/9patch/4.jpg" alt=""></p><p>Stretchable area는 늘어나는 영역은 이미지를 늘려주는 구간을 설정해주는 나인패치 영역입니다. 그래서 가로, 세로 어떤 크기로 늘어나도 형태가 깨져 보이지 않습니다.</p><p><img src="/img/9patch/5.jpg" alt=""></p><p>Padding box는 이미지 위에 어떠한 내용물을 어느 위치에 표시할지 정의 하는 영역입니다.</p><p>버튼 크기가 변경되어도 정보 표시 영역을 나인패치로 잡아 좌우,상하 여백은 그대로 두고 이미지 확대/축소에 따른 텍스트가 정리되어 보여집니다.</p><p>나인패치는 1px 검정색 선의 길이와 여백을 이용해서 늘려주고 싶은 이미지 영역과 표현하고 싶은 텍스트의 영역을 지정할 수 있는 것입니다.</p><p>조금은 복잡해 보이지만, 나인패치로 지정하는 과정이 필요한 이유는 모바일은 한정된 용량을 가지고 있기 때문에 용량을 줄여서 하나의 이미지로 다양하게 사용할 수 있도록 하기 위해서 입니다.</p><h1 id="나인패치-만들어보기"><a href="#나인패치-만들어보기" class="headerlink" title="나인패치 만들어보기"></a><strong>나인패치 만들어보기</strong></h1><h2 id="만드는-방법"><a href="#만드는-방법" class="headerlink" title="#만드는 방법"></a><strong>#만드는 방법</strong></h2><p>나인패치를 만드는 방법에는 여러가지가 있습니다.</p><ol><li>포토샵으로 만들고, 확장자를 name.9.png으로 저장</li><li><p>안드로이드 sdk 도구를 다운로드하여 만든다.</p><p> <a href="https://developer.android.com/studio/?hl=ko" target="_blank" rel="noopener">https://developer.android.com/studio/?hl=ko</a> </p></li><li><p>Android Asset Studio 활용</p><p> <a href="http://romannurik.github.io/AndroidAssetStudio/nine-patches.html" target="_blank" rel="noopener">http://romannurik.github.io/AndroidAssetStudio/nine-patches.html</a></p></li></ol><p>그중에서 툴 설치도 필요 없고 쉽게 만들 수 있는 3번의 방법을 활용하여 간략하게 나마 만들어보겠습니다.</p><h2 id="우리는-그저-감사하게-사용할-뿐"><a href="#우리는-그저-감사하게-사용할-뿐" class="headerlink" title="#우리는 그저 감사하게 사용할 뿐"></a><strong>#우리는 그저 감사하게 사용할 뿐</strong></h2><p>세상은 넓고 금손이 많은 것 같아요. 빠르게 만들수 있는 방법을 선택하겠습니다. 위 3번의 주소를 타고 사이트에 접속하면 아래와 같은 화면이 보여집니다.</p><p><img src="/img/9patch/6.png" alt=""></p><p>나인패치를 만들 수 있는 웹 툴인데, 저 사이트에는 나인패치 뿐만 아니라 안드로이드 디자인을 위한 다양한 툴을 제공하니 한번 참고해보시면 좋을 것 같습니다. 언제 이런걸 만들 생각을 하셨는지 한번 더 자괴감과 감사함을 느끼며 샘플 버튼 이미지를 불러옵니다.</p><p><img src="/img/9patch/7.png" alt=""></p><p>왼쪽 패널을 보면 이미지의 리소스 해상도를 지정하는 부분과 Drawable 이름을 편집할 수 있는 기능이 있습니다. 이름을 변경하게 되면 zip파일로 다운 받았을 때 변경된 이름으로 다운로드 됩니다.</p><p><img src="/img/9patch/8.png" alt=""></p><p>자 그럼 불러온 이미지가 가운데 화면에 보여집니다. Stretch Regions는 늘어나게 되는 부분을 설정하는 것입니다. 화면에 보이는 얇은 검은 선으로 Stretch Regions을 지정하면 됩니다.</p><p><img src="/img/9patch/9.png" alt=""></p><p>위와 같이 설정하게 되면 해상도에 따라 붉은색 부분이 늘어나게 됩니다.</p><p><img src="/img/9patch/10.png" alt=""></p><p>Contetns Padding은 안에 들어가는 텍스트가 들어가는 여백을 설정해줍니다.</p><p><img src="/img/9patch/11.png" alt=""></p><p>오른쪽 패널에서 Preview로 텍스트가 들어가는 것을 확인하면서 설정 할 수 있습니다.</p><p>With content를 체크해주셔야 텍스트가 보여집니다.</p><p><img src="/img/9patch/12.png" alt=""></p><p>완성되면 Assets 탭에서 zip파일을 다운로드 받아주세요.</p><p><img src="/img/9patch/13.png" alt=""></p><p>다운로드가 완료되면 drawable name.9.zip으로 다운로드 되고 zip파일을 압축해제 하면 해상도 별로 나인패치 파일이 생성됩니다.</p><p>부족하지만 나인패치에 대해 알아가는 시간이 되었기를 바라며, 이번 글은 여기서 마무리 하겠습니다.</p><hr><ul><li>Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=NinePatch" target="_blank" rel="noopener">http://cracker9.io</a></li><li>Facebook_ <a href="https://www.facebook.com/cracker9.io" target="_blank" rel="noopener">https://www.facebook.com/cracker9.io</a></li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;시작&quot;&gt;&lt;a href=&quot;#시작&quot; class=&quot;headerlink&quot; title=&quot;시작&quot;&gt;&lt;/a&gt;&lt;strong&gt;시작&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/img/9patch/1.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;영화 ‘캡틴 아메
+      
+    
+    </summary>
+    
+      <category term="Design" scheme="http://blog.cracker9.io/categories/Design/"/>
+    
+    
+      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
+    
+      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
+    
+      <category term="Layout" scheme="http://blog.cracker9.io/tags/Layout/"/>
+    
+      <category term="9-patch" scheme="http://blog.cracker9.io/tags/9-patch/"/>
+    
+      <category term="Ninepatch" scheme="http://blog.cracker9.io/tags/Ninepatch/"/>
+    
+      <category term="9patch" scheme="http://blog.cracker9.io/tags/9patch/"/>
+    
+      <category term="나인패치" scheme="http://blog.cracker9.io/tags/%EB%82%98%EC%9D%B8%ED%8C%A8%EC%B9%98/"/>
+    
+      <category term="앤트맨" scheme="http://blog.cracker9.io/tags/%EC%95%A4%ED%8A%B8%EB%A7%A8/"/>
+    
+      <category term="Antman" scheme="http://blog.cracker9.io/tags/Antman/"/>
+    
+      <category term="안드로이드" scheme="http://blog.cracker9.io/tags/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C/"/>
+    
+      <category term="Asset Studio" scheme="http://blog.cracker9.io/tags/Asset-Studio/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>5년차 GUI 디자이너가 사용해 본 크래커나인</title>
+    <link href="http://blog.cracker9.io/2018/09/12/User_interview_jiyoung_lim/"/>
+    <id>http://blog.cracker9.io/2018/09/12/User_interview_jiyoung_lim/</id>
+    <published>2018-09-12T07:58:00.000Z</published>
+    <updated>2019-05-23T08:56:38.286Z</updated>
+    
+    <content type="html"><![CDATA[<p>크래커나인 팀에서는 사용자의 의견을 적극 반영하기 위해서 디자이너 임지영님의 실제 GUI 가이드라인 작성 시 크래커나인을 사용 해 본 이야기를 들어 보았다.</p><hr><p><table class="interview-table"><tr><td><img src="/img/User_interview_jiyoung_lim/cracker9.png" width="40" height="40"></td><td>  본인 소개를 좀 부탁 드릴께요.</td></tr><tr><td><img src="/img/User_interview_jiyoung_lim/Ans.png" width="40" height="40"> </td><td>저는 PPT로 GUI가이드를 시작하여 최근 GUI가이드 프로그램까지 사용해본 5년차 디자이너 입니다. 주로 그래픽 디자인과 GUI 디자인 가이드 업무를 하고 있습니다.</td></tr><tr><td><img src="/img/User_interview_jiyoung_lim/cracker9.png" width="40" height="40"> </td><td>어떻게 Cracker9을 접하게 되셨나요?</td></tr><tr><td><img src="/img/User_interview_jiyoung_lim/Ans.png" width="40" height="40"></td><td>협업하는 개발자로부터 추천 받아 처음 사용하게 되었습니다.</td></tr><tr><td><img src="/img/User_interview_hyoungil_Park/cracker9.png" width="40" height="40"> </td><td>Cracker9을 통해 어떤 프로젝트를 진행하셨나요?</td></tr><tr><td><img src="/img/User_interview_jiyoung_lim/Ans.png" width="40" height="40"></td><td> 프로젝트 보안상 다 공개할 순 없지만 대기업 L사의 앱을 디자인, 개발하는 프로젝트을 진행하였습니다. 이 프로젝트를 Cracker9을 이용하여 개발자와 협업 하였습니다.</td></tr><tr><td><img src="/img/User_interview_jiyoung_lim/cracker9.png" width="40" height="40"> </td><td> Cracker9의 어떤 부분이 유용했나요?</td></tr><tr><td><img src="/img/User_interview_jiyoung_lim/Ans.png" width="40" height="40"></td><td> Z<strong>*</strong>(유사서비스)의 경우, 동일한 아트보드를 Export시 덮어쓰기로 저장되어 기존 디자인의 히스토리를 관리하기 어려웠습니다. 하지만 Cracker9의 경우, 동일한 아트보드가 누적되어서 최초 디자인부터 최신의 디자인까지 확인할 수 있어서 좋았습니다.</td></tr><tr><td><img src="/img/User_interview_jiyoung_lim/cracker9.png" width="40" height="40"> </td><td> Cracker9의 사용하면서 느낀 가장 큰 장점 한가지만 알려주세요~</td></tr><tr><td><img src="/img/User_interview_jiyoung_lim/Ans.png" width="40" height="40"></td><td> 타 서비스처럼 협업하는 사람들을 프로젝트에 초대하여 가입하지 않아도 Link와 Password만 공유하면 바로 GUI정보를 전달할 수 있었어요.</td></tr><tr><td><img src="/img/User_interview_jiyoung_lim/cracker9.png" width="40" height="40"> </td><td> 다른 프로젝트에서도 Cracker9을 사용할 의향이 있으신가요?</td></tr><tr><td><img src="/img/User_interview_jiyoung_lim/Ans.png" width="40" height="40"></td><td> 개선사항이 반영된다면 당연히 지속적으로 사용할 의향이 있습니다.</td></tr><tr><td><img src="/img/User_interview_jiyoung_lim/cracker9.png" width="40" height="40"> </td><td> Cracker9을 사용하면서 불편했던 점이나 개선했으면 하는 부분이 있었나요?</td></tr><tr><td><img src="/img/User_interview_jiyoung_lim/Ans.png" width="40" height="40"></td><td> 첫번째, Link List에서 아래의 이미지와 같이 썸네일이 추가 되었으면 좋겠어요~ 썸네일로 GUI를 미리 볼 수 있어서 찾기 쉽고 개발자도 전달 받았을 때 휠씬 직관적으로 작업할 수 있을 거 같아요~<br><br><img src="/img/User_interview_jiyoung_lim/1.png"><br>두번째, 아트보드를 아래의 이미지와 같이 그룹핑 할 수 있었으면 좋겠어요~ 버전별 아트보드의 변경되는 GUI를 확인할 수 있고, 원상복귀 되거나 재수정 되었을 시 히스토리 관리에 유용할 거 같아요!<img src="/img/User_interview_jiyoung_lim/2.png"><br>세번째, 아트보드명 서치기능이 있었으면 좋겠어요~ 개발자가 아트보드명을 검색하여 개발하기도 쉽고, 유지보수에도 유용할 거 같아요 ^^ <br><br>네번째, Link 클릭해서 디자인패널과 뷰패널이 나오잖아요? 다시 뒤로가기 했을 때, 클릭했던 Link의 위치로 돌아갈 수 있게 해주세요. 지금은 무조건 Link 리스트의 최상단으로 이동이 되어서 보던 Link를 계속 찾아야하거든요.<br><br>다섯번째, Sketch 외의 Photoshop 같은 디자인 Tool에서도 Export 할 수 있도록 호환해주시면 감사하겠습니다.<br>지금도 충분히 유용하지만 위의 개선사항이 좀더 보강되면 정말 국내 최강의 GUI가이드 프로그램이 될 거 같아요!</td></tr><tr><td><img src="/img/User_interview_jiyoung_lim/cracker9.png" width="40" height="40"></td><td>Cracker9의 정식 버전으로 출시가 되면 사용할 의향이 있으신가요?</td></tr><tr><td><img src="/img/User_interview_jiyoung_lim/Ans.png" width="40" height="40"></td><td> 네, 개발자와 협업하는 저로서는 꼭 사용해야 하는 Tool이나 마찬가지니깐요~ 코드까지 생성해주니, 아마 저보다 개발자들이 더 사용하고 싶어할 거 같은데요? ㅎㅎㅎ</td></tr><tr><td><img src="/img/User_interview_jiyoung_lim/cracker9.png" width="40" height="40"> </td><td> 마지막으로 Cracker9에게 한 말씀해주세요~</td></tr><tr><td><img src="/img/User_interview_jiyoung_lim/Ans.png" width="40" height="40"></td><td> 개발자와 디자이너가 효율적으로 편리하게 협업할 수 있도록 더 좋은 Tool로 발전하시길 기대할게요~ 개발자에게 UI코드까지 생성해주듯이 디자이너에게도 더 유용한 기능 많이 만들어주세요!</td></tr></table></p><hr><ul><li>Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=User_Interview_jiyoung_lim" target="_blank" rel="noopener">http://cracker9.io</a></li><li>Facebook_ <a href="https://www.facebook.com/cracker9.io" target="_blank" rel="noopener">https://www.facebook.com/cracker9.io</a></li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;크래커나인 팀에서는 사용자의 의견을 적극 반영하기 위해서 디자이너 임지영님의 실제 GUI 가이드라인 작성 시 크래커나인을 사용 해 본 이야기를 들어 보았다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;table class=&quot;interview-table&quot;&gt;&lt;tr&gt;&lt;t
+      
+    
+    </summary>
+    
+      <category term="Interview" scheme="http://blog.cracker9.io/categories/Interview/"/>
+    
+    
+      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
+    
+      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
+    
+      <category term="Designer" scheme="http://blog.cracker9.io/tags/Designer/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>유용한 크래커나인 단축키 모음 (Cracker9 Shortcut)</title>
+    <link href="http://blog.cracker9.io/2018/09/05/ShortCut/"/>
+    <id>http://blog.cracker9.io/2018/09/05/ShortCut/</id>
+    <published>2018-09-05T07:58:00.000Z</published>
+    <updated>2019-05-23T08:55:02.493Z</updated>
+    
+    <content type="html"><![CDATA[<p>크래커나인이 제공하는 단축키들을 모아봤어요. 앞으로 더 많은 단축키들이 추가 될 예정이니 많은 사용 부탁 드립니다.<br>Mac 에서는 Command 키(여기서는 Cmd 로 표시) / 윈도우 에서는 Ctrl 키를 주로 사용하는 동작들이 많아요.<br>참고하세요~~</p><h2 id="1-Settings-gt-Layout-단축키"><a href="#1-Settings-gt-Layout-단축키" class="headerlink" title="1. Settings &gt; Layout 단축키"></a>1. Settings &gt; Layout 단축키</h2><hr><p>설정할 View 선택 후</p><p><table><tr><td><b>Layout</b></td><td><b>Shortcut</b></td></tr><tr><td>Constraint Layout</td><td>Cmd 혹은 Ctrl + 1</td></tr><tr><td>Linear Horizontal</td><td>Cmd 혹은 Ctrl + 2</td></tr><tr><td>Linear Vertical</td><td>Cmd 혹은 Ctrl + 3</td></tr><tr><td>Relative Layout</td><td>Cmd 혹은 Ctrl + 4</td></tr><tr><td>View</td><td>Cmd 혹은 Ctrl + 5</td></tr></table><br></p><p> <img src="/img/ShortCut/img_layout.png?raw=true" alt="Layout1"></p><h2 id="2-Relation-단축키"><a href="#2-Relation-단축키" class="headerlink" title="2. Relation 단축키"></a>2. Relation 단축키</h2><hr><p>Constraint / Relative Layout 안에 속한 View 선택 후</p><p><table><tr><td><b>Action</b></td><td><b>Shortcut</b></td></tr><tr><td>Left 연결점 선택 및 해제</td><td>A</td></tr><tr><td>Bottom 연결점 선택 및 해제</td><td>S</td></tr><tr><td>Right 연결점 선택 및 해제</td><td>D</td></tr><tr><td>Top 연결점 선택 및 해제</td><td>W</td></tr></table><br></p><p><img src="/img/ShortCut/img_asdw.png?raw=true" alt="Rotation"></p><h2 id="3-상단-Tool-Bar-단축키"><a href="#3-상단-Tool-Bar-단축키" class="headerlink" title="3. 상단 Tool Bar 단축키"></a>3. 상단 Tool Bar 단축키</h2><hr><p>View를 Drag &amp; Drop 후</p><p><table><tr><td><b>Action</b></td><td><b>Shortcut</b></td></tr><tr><td>Create Custom Layout</td><td>Cmd 혹은 Ctrl + L</td></tr></table> <br><br>관계 맺은 View 선택 후</p><p><table><tr><td><b>Action</b></td><td><b>Shortcut</b></td></tr><tr><td>Center Horizontal</td><td>Cmd 혹은 Ctrl + E</td></tr><tr><td>Center Vertical</td><td>Cmd 혹은 Ctrl + R</td></tr><tr><td>Bias Horizontal</td><td>Cmd 혹은 Ctrl + T</td></tr><tr><td>Bias Vertical</td><td>Cmd 혹은 Ctrl + Y</td></tr><tr><td> Weight Horizontal</td><td>Cmd 혹은 Ctrl + U</td></tr><tr><td>Weight Vertical</td><td>Cmd 혹은 Ctrl + I</td></tr></table><br></p><p><img src="/img/ShortCut/img_toolbar.png?raw=true" alt="ToolBar"></p><h2 id="4-View-Design-panel-Zoom-in-out-단축키"><a href="#4-View-Design-panel-Zoom-in-out-단축키" class="headerlink" title="4. View, Design panel Zoom in/out 단축키"></a>4. View, Design panel Zoom in/out 단축키</h2><hr><p><table><tr><td><b>Action</b></td><td><b>Shortcut</b></td></tr><tr><td>Zoom in ( View panel / Lift )</td><td>alt + +</td></tr><tr><td>Zoom out (View panel / Right )</td><td>alt + -</td></tr><tr><td>Zoom in ( Design panel / Lift )</td><td>Cmd 혹은 Ctrl + + </td></tr><tr><td>Zoom out ( Design panel / Right )</td><td>Cmd 혹은 Ctrl + -</td></tr><tr><td>Fit on screen ( View panel / Lift )</td><td>alt + 0 </td></tr><tr><td>Fit on screen ( Design panel / Right)</td><td>Cmd 혹은 Ctrl + 0</td></tr></table><br></p><p><img src="/img/ShortCut/img_zoom.png?raw=true" alt="ZoomInOut"></p><hr><ul><li>Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=ShortCut" target="_blank" rel="noopener">http://cracker9.io</a></li><li>Facebook_ <a href="https://www.facebook.com/cracker9.io" target="_blank" rel="noopener">https://www.facebook.com/cracker9.io</a></li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;크래커나인이 제공하는 단축키들을 모아봤어요. 앞으로 더 많은 단축키들이 추가 될 예정이니 많은 사용 부탁 드립니다.&lt;br&gt;Mac 에서는 Command 키(여기서는 Cmd 로 표시) / 윈도우 에서는 Ctrl 키를 주로 사용하는 동작들이 많아요.&lt;
+      
+    
+    </summary>
+    
+      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
+    
+    
+      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
+    
+      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
+    
+      <category term="Shortcut" scheme="http://blog.cracker9.io/tags/Shortcut/"/>
+    
+      <category term="단축키" scheme="http://blog.cracker9.io/tags/%EB%8B%A8%EC%B6%95%ED%82%A4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>시니어 개발자의 크래커나인을 이용한 안드로이드 앱 개발기</title>
+    <link href="http://blog.cracker9.io/2018/08/31/User_interview_hyoungil_Park/"/>
+    <id>http://blog.cracker9.io/2018/08/31/User_interview_hyoungil_Park/</id>
+    <published>2018-08-31T07:58:00.000Z</published>
+    <updated>2019-05-23T08:56:11.276Z</updated>
+    
+    <content type="html"><![CDATA[<p>크래커나인 팀에서는 사용자의 의견을 적극 반영하기 위해서 안드로이드 개발자 박형일님의 실제 앱 개발에 크래커나인을 사용 해 본 이야기를 들어 보았다.</p><hr><table class="interview-table"><tr><td><img src="/img/User_interview_hyoungil_Park/cracker9.png" width="40" height="40"></td><td>  본인 소개를 좀 부탁 드릴께요.</td></tr><tr><td><img src="/img/User_interview_hyoungil_Park/Ans.png" width="40" height="40"> </td><td>저는 에이치나인에서 안드로이드 개발 파트를 담당하고 있는 박형일 입니다. 개발 경력은 12년 정도 됐구요.<br>에이치나인에 입사한지는 4년 정도 됐습니다. 주로 외주 안드로이드 앱 개발 업무를 하고 있습니다.</td></tr><tr><td><img src="/img/User_interview_hyoungil_Park/cracker9.png" width="40" height="40"> </td><td>꽤 오래 개발일을 하셨네요. 보통 개발을 오래 하신 분들은 코드를 직접 작성하는 것을 선호 하시던데, 형일님은 어떠신가요?</td></tr><tr><td><img src="/img/User_interview_hyoungil_Park/Ans.png" width="40" height="40"></td><td>저도 코드를 직접 작성하는 것을 선호 하는 편입니다. 툴에서 생성되는 코드를 별로 신뢰하지 않아요. 원하는 대로 안 나오거든요.</td></tr><tr><td><img src="/img/User_interview_hyoungil_Park/cracker9.png" width="40" height="40"> </td><td>그럼 크래커나인의 첫인상은 어떠셨나요? GUI 로 부터 코드를 생성해 주는 툴인데..</td></tr><tr><td><img src="/img/User_interview_hyoungil_Park/Ans.png" width="40" height="40"></td><td> 처음엔 아이디어는 괜찮은데, 이게 과연 제대로 된 코드를 생성 해 줄까? 라는 의심이 들었죠. 꼭 사용 해 보고 싶은 프로그램은 아니었어요.</td></tr><tr><td><img src="/img/User_interview_hyoungil_Park/cracker9.png" width="40" height="40"> </td><td> 크래커나인을 사용하신지는 얼마나 되셨죠?</td></tr><tr><td><img src="/img/User_interview_hyoungil_Park/Ans.png" width="40" height="40"></td><td> 올해 6월쯤에 처음 접하여 2달 정도 된 같아요.</td></tr><tr><td><img src="/img/User_interview_hyoungil_Park/cracker9.png" width="40" height="40"> </td><td> 어떤 프로젝트에 적용 해 보셨나요?</td></tr><tr><td><img src="/img/User_interview_hyoungil_Park/Ans.png" width="40" height="40"></td><td> 회사에서 회의실 예약하는 시스템이 필요하다고 해서 회의실 예약 앱을 만들었어요. <br> 그 때 처음 사용 했죠. 공식 프로젝트가 아니라 디자이너 없이 웹에서 무료로 사용할 수 있는 Sketch 파일로 된 디자인 샘플을 받아서 혼자서 만들었어요. <br>앱을 구성하는 화면은 대략 5~6개 정도로 간단한 프로젝트여서 가능 했죠. 지금은 외주 과제를 하고 있는데, 크래커나인을 사용 해서 하고 있어요.<img src="/img/User_interview_hyoungil_Park/screen_img.png"></td></tr><tr><td><img src="/img/User_interview_hyoungil_Park/cracker9.png" width="40" height="40"> </td><td> 크래커나인을 사용하기 전에는 디자이너와 무엇을 통해서 개발에 필요한 디자인 정보를 얻으셨어요? 외주 같으면 주로 파워포인트로 작성된 GUI 가이드라인 문서를 보고 개발 하잖아요.</td></tr><tr><td><img src="/img/User_interview_hyoungil_Park/Ans.png" width="40" height="40"></td><td> 에이치나인에 있으면서 거의 대부분 GUI 가이드라인 문서를 보고 개발 했죠. 최근에 다른 프로젝트 팀에서 GUI 가이드라인 문서 없이 제플린을 쓰더라구요. 그래서 그것도 조금 써봤어요.</td></tr><tr><td><img src="/img/User_interview_hyoungil_Park/cracker9.png" width="40" height="40"> </td><td> 제플린과 같은 기존의 유사 서비스와 비교해서 크래커나인은 어땠나요?</td></tr><tr><td><img src="/img/User_interview_hyoungil_Park/Ans.png" width="40" height="40"></td><td> GUI 가이드라인 문서를 보면서 개발을 하다 제플린을 써보니까 너무 편리하더라구요. 문서에서 원하는 정보 찾는게 불편했거든요.<br>그래서 사실 처음 크래커나인을 사용 했을 때는 제플린과 큰 차이를 못 느꼈어요. 근데 프로젝트를 진행 하다 보니 크래커나인의 코드 생성 기능이 있어서 좀 더 편리하다고 느껴지는 순간이 오더라구요.<br>제플린을 보고 개발 할 때는 코드나 수치를 직접 입력하다 보니 실수를 할 때도 있었고, 여전히 XML 작성하는 수고로움이 남아 있었거든요.<br>근데 크래커나인의 레이아웃 코드 생성 기능을 사용해서 나온 XML 코드가 100% 는 아니지만 70~80%는 작업을 안해도 될 수준이더라구요. 그래서 XML 작성하는데 들이는 시간이 많이 줄어 들었어요.</td></tr><tr><td><img src="/img/User_interview_hyoungil_Park/cracker9.png" width="40" height="40"></td><td> 크래커나인을 익히는데 어렵지는 않으셨어요?</td></tr><tr><td><img src="/img/User_interview_hyoungil_Park/Ans.png" width="40" height="40"></td><td> 타 서비스를 사용한 경험이 있어서 많은 부분 기능을 따로 매뉴얼로 보지 않아도 파악이 됐는데요.<br>사용하는데 크게 문제는 없었던 거 같아요. 직관적으로 파악이 안 되는 기능은 사용하지 못한 것 같지만 따로 매뉴얼은 찾아보지 않았습니다.</td></tr><tr><td><img src="/img/User_interview_hyoungil_Park/cracker9.png" width="40" height="40"> </td><td> Cracker9의 어떤 기능이 가장 편리하셨나요?</td></tr><tr><td><img src="/img/User_interview_hyoungil_Park/Ans.png" width="40" height="40"></td><td> 당연히 레이아웃 코드 자동 생성 기능이었습니다.<br>손으로 직접 코딩 하지 않고 View들의 관계를 맺으면 자동으로 View의 관계와 속성을 xml 코드로 생성해주는 기능이 개발하는 데에 상당히 많은 도움이 되었습니다.</td></tr><tr><td><img src="/img/User_interview_hyoungil_Park/cracker9.png" width="40" height="40"> </td><td> Cracker9을 사용하면서 불편했던 점이나 개선했으면 하는 부분이 있었나요?</td></tr><tr><td><img src="/img/User_interview_hyoungil_Park/Ans.png" width="40" height="40"></td><td> Asset 이름이나 리소스(문자열, drawable) 이름이 해쉬값이나 text1, text2 이런 식으로 되어 있어 나중에 다 변경을 해 주어야 되었습니다. 이 부분은 개선이 되었으면 좋겠습니다.<br><p><span style="color:blue">※ 위의 내용은 <strong>Cracker9 0.9.5</strong> 에서 개선되었다. ^^</span></p></td></tr><tr><td><img src="/img/User_interview_hyoungil_Park/cracker9.png" width="40" height="40"> </td><td> Cracker9의 정식 버전으로 출시가 되면 사용할 의향이 있으신가요?</td></tr><tr><td><img src="/img/User_interview_hyoungil_Park/Ans.png" width="40" height="40"></td><td> 네, 사용할 것 같아요. 가격만 너무 비싸지 않으면 전 무조건 사용하겠습니다.</td></tr><tr><td><img src="/img/User_interview_hyoungil_Park/cracker9.png" width="40" height="40"> </td><td> App을 만들거나 디자이너와 소통해야 하는 다른 개발자들에게 알려주고 싶은 Cracker9 사용 Tip이 있다면 알려주세요~</td></tr><tr><td><img src="/img/User_interview_hyoungil_Park/Ans.png" width="40" height="40"></td><td> 디자이너가 텍스트나 이미지 단위로 View를 만드는데요. 개발자가 원하는 모든 View를 만들진 않기 때문에 Custom Layout 활용은 필수입니다.<br>Custom Layout을 잘 활용하시면 원하시는 레이아웃 작업이 모두 가능합니다. 그리고, 오른쪽에 Tree Structure 패널이 있는데요.<br>View의 트리 구조 순서로 레이아웃 xml 코드가 생성되기 때문에 어떻게 코드가 만들어질지 예상할 수 있어요. 물론 View의 순서나 부모/자식 관계는 마우스 드래그로 편집할 수 있습니다.<br>마지막으로 Constraint Layout의 관계를 맺을 때, View가 작으면 정확하게 클릭하여 작업하기 어려울 수 있는데요. 당연하지만 View를 확대해서 연결 지으면 쉽게 작업할 수 있습니다.</td></tr><tr><td><img src="/img/User_interview_hyoungil_Park/cracker9.png" width="40" height="40"> </td><td> 마지막으로 Cracker9에게 한 말씀해주세요~</td></tr><tr><td><img src="/img/User_interview_hyoungil_Park/Ans.png" width="40" height="40"></td><td> 저는 안드로이드 App을 개발하면서 레이아웃 작업은 초반에 하는 시간 잡아먹는 노가다 작업이라고 생각을 했는데요.<br>레이아웃을 자동으로 생성해주는 Cracker9을 사용하면서 더 이상 노가다라는 생각을 하지 않게 되었습니다. 아직은 Beta 버전이라 부족한 부분이 보이지만, 개선될 것이라고 믿고 계속 사용할 거 같아요.<br>앞으로 발전하는 모습 기대하겠습니다 파이팅!</td></tr></table><hr><ul><li>Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=User_Interview_hyoungil_Park" target="_blank" rel="noopener">http://cracker9.io</a></li><li>Facebook_ <a href="https://www.facebook.com/cracker9.io" target="_blank" rel="noopener">https://www.facebook.com/cracker9.io</a></li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;크래커나인 팀에서는 사용자의 의견을 적극 반영하기 위해서 안드로이드 개발자 박형일님의 실제 앱 개발에 크래커나인을 사용 해 본 이야기를 들어 보았다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;table class=&quot;interview-table&quot;&gt;&lt;tr&gt;&lt;td&gt;&lt;img 
+      
+    
+    </summary>
+    
+      <category term="Interview" scheme="http://blog.cracker9.io/categories/Interview/"/>
+    
+    
+      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
+    
+      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
+    
+      <category term="Developer" scheme="http://blog.cracker9.io/tags/Developer/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GUI가이드라인 정의와 목적</title>
+    <link href="http://blog.cracker9.io/2018/07/02/GUI_Guileline/"/>
+    <id>http://blog.cracker9.io/2018/07/02/GUI_Guileline/</id>
+    <published>2018-07-01T15:00:00.000Z</published>
+    <updated>2019-05-23T09:01:57.823Z</updated>
+    
+    <content type="html"><![CDATA[<p>S/W 개발자가 디자인대로 화면을 구현할 때, 어떻게 디자인 요소 위치를 잡아야 하는지 정확한 정보가 필요하다. 이런 정보는 GUI 디자이너가 포토샵과 같은 디자인 툴을 사용하여 개발자가 사용 가능한 형태로 사이즈 정보와 리소스를 만들어 전달하는 작업을 <strong>GUI 가이드라인 제작</strong> 작업이라 한다.</p><p><img src="/img/GUI_Guideline/1-ae50ab40-caca-4359-bf10-3ce0d99ce396.png?raw=true" alt="image1"></p><p>GUI 가이드 문서 상에는 화면상에 표현되는 모든 GUI 요소들의 정보가 표시가 된다. 화면상의 위치 X/Y 좌표값, 디자인 요소의 폭/높이 사이즈 정보, 이미지 파일 리소스명, 폰트 타입, 폰트 크기 등 다양한 그래픽 요소의 정보를 정확하게 수치화 하여 기재한 것이다.</p><p>가이드 문서의 양식은 딱 정해진 틀은 없지만, 소위 대기업의 경우 표준 템플릿을 이용한다. 단말 하나에 탑재되는 앱 별로 수십 벌의 문서를 제작하여 관리해 왔다. 현재 과도기적인 단계라 스케치(.sketch) 파일과 가이드라인 문서를 함께 운영하는 곳도 있을 정도이다.</p><p>기존에 GUI 가이드 문서 제작을 위해서는 아래와 같은 일련의 순서로 작업을 하였다.</p><h2 id="디자인-시안-작업-gt-디자인-시안-확정-gt-개발-가능성-리뷰-gt-최종-수정-gt-GUI-가이드라인-문서-제작-amp-이미지-파일-리소스-작업"><a href="#디자인-시안-작업-gt-디자인-시안-확정-gt-개발-가능성-리뷰-gt-최종-수정-gt-GUI-가이드라인-문서-제작-amp-이미지-파일-리소스-작업" class="headerlink" title="디자인 시안 작업 &gt; 디자인 시안 확정 &gt; 개발 가능성 리뷰 &gt; 최종 수정 &gt; GUI 가이드라인 문서 제작 &amp; 이미지 파일 리소스 작업"></a>디자인 시안 작업 &gt; 디자인 시안 확정 &gt; 개발 가능성 리뷰 &gt; 최종 수정 &gt; GUI 가이드라인 문서 제작 &amp; 이미지 파일 리소스 작업</h2><p>이 중에서 가이드 문서 제작 과정을 초점에 두고 살펴보면, GUI 디자이너가 직접 이미지를 자르고 위치와 크기 정보를 확인하여, 파워포인트 문서로 정보를 입력하는 일련에 단순 노가다를 반복적으로 진행하게 된다.</p><p><img src="/img/GUI_Guideline/2-77b67681-80cd-48ca-ac34-032506f0252c.jpg?raw=true" alt="image2"></p><p>대부분의 에이전시 신입 디자이너들이 중국집 요리사 탱크트리와 유사하게 최소 2년 정도 GUI 가이드라인 작업을 하고 난 뒤에 시안 디자인 작업을 참여할 수 있는 구조였다. 크리에이티브를 위해 디자인 작업에 시간을 일주일 중 3일을 쓰고, 4일은 가이드를 쳐야 할 정도의 노력과 시간이 드는 노동 집약적 작업이었다.</p><p>이렇듯 GUI 가이드라인 문서 제작은 모든 디자인 요소 정보들을 일일이 확인한 후, 파워포인트로 옮겨 적어야 하는 야근의 헬게이트를 열어주는 대표적인 업무였다.</p><p>디자인 완료 후 개발자에게 “디자인을 이렇게 구현해 주세요.” 라고 말하면 얼마나 쉬운가? 근래에는 야근의 대부분을 차지하는 이러한 업무들로부터 스케치 툴이 많은 디자이너를 구해준 셈이다.</p><p><img src="/img/GUI_Guideline/3-b4e1b152-d7e2-4fa4-81ce-dcf34ed3eaa8.jpg?raw=true" alt="image3"></p><p>업무의 프로세스상 디자이너가 가이드라인 문서와 이미지 리소스 파일들을 넘겨줘야 개발자들이 개발진행을 할 수 있기에 디자이너들은 타이트한 데드라인에 쫓기듯 업무할 수 밖에 없었다.</p><p>이러다 보니, GUI 가이드라인 문서 제작 중 휴먼에러(크기 정보 오타, 이미지 파일 누락 등)로 개발자가 작업하던 도중 디자이너에게 가이드라인 문서 업데이트 요청을 해오는 경우가 매우 빈번했다. 또한, 대규모 프로젝트 일수록 가이드라인 문서, 이미지 리소스 파일, PSD 디자인 파일 등 관리해야 할 대상이 많아서 개발자와 디자이너 사이의 커뮤니케이션 빈도수도 잦아지고 많은 비용이 필요했다.</p><p>비단 3년 전만해도 GUI 디자인을 개발자가 구현하기 위해 필요한 정보를 수천 페이지나 되는 파워포인트 문서로 전달했지만, 요즘은 스케치를 활용한 제플린이나 심플리 등과 같은 가이드 정보를 제공해주는 여러 서비스를 이용하여 가이드 문서 제작은 거의 하지 않고 있다. 조만간 가이드 문서가 완전히 사라지는 날이 오지 않을까 싶다.</p><p><img src="/img/GUI_Guideline/1-8baf40a7-c06d-476f-9e0f-b2cbd8b1db58.png?raw=true" alt="image4"></p><p>그 끝에 크래커가 일조하는 날이 오기를 바라며 글을 마친다.</p><hr><ul><li>Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=GUI_guideline" target="_blank" rel="noopener">http://cracker9.io</a></li><li>Facebook_ <a href="https://www.facebook.com/cracker9.io" target="_blank" rel="noopener">https://www.facebook.com/cracker9.io</a></li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;S/W 개발자가 디자인대로 화면을 구현할 때, 어떻게 디자인 요소 위치를 잡아야 하는지 정확한 정보가 필요하다. 이런 정보는 GUI 디자이너가 포토샵과 같은 디자인 툴을 사용하여 개발자가 사용 가능한 형태로 사이즈 정보와 리소스를 만들어 전달하는
+      
+    
+    </summary>
+    
+      <category term="Design" scheme="http://blog.cracker9.io/categories/Design/"/>
+    
+    
+      <category term="GUI" scheme="http://blog.cracker9.io/tags/GUI/"/>
+    
+      <category term="Guideline" scheme="http://blog.cracker9.io/tags/Guideline/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tutorial - Android view Center &amp; Constraint Layout Bias 사용법</title>
+    <link href="http://blog.cracker9.io/2018/06/28/How-to-use-CenterBias/"/>
+    <id>http://blog.cracker9.io/2018/06/28/How-to-use-CenterBias/</id>
+    <published>2018-06-28T05:00:00.000Z</published>
+    <updated>2019-05-23T08:44:44.664Z</updated>
+    
+    <content type="html"><![CDATA[<p><span style="color:#4d4d4d">안녕하세요. 크래커나인 입니다.<br>Cracker9 사용은 익숙해지셨나요? 오늘은 Center와 Bias기능을 사용하여 코드를 생성하는 방법에 대해 알려드리도록 하겠습니다.</span></p><p><span style="color:#4d4d4d">안드로이드 스튜디오에는 Centerㅍ속성을 코드로 작성할 수 있는데요.<br>Cracker9에서는 어떻게 Center 코드를 생성할수 있는지 그리고 어떤 상황에서 Bias 기능을 사용하는지 알아보도록 하겠습니다.</span></p><hr><h3 id="1-Linear-Layout에서-Center"><a href="#1-Linear-Layout에서-Center" class="headerlink" title="1. Linear Layout에서 Center"></a>1. Linear Layout에서 Center</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> View Panel에서 아이템을 사용하여 Design Panel로 아이템을 끌어옵니다.<br><span style="color:#4d4d4d"><strong>STEP 02.</strong> 부모 아이템을 선택 후 오른쪽 Setting Panel에서 Layout 값을 Linear Layout으로 설정합니다. Horizontal , Vertical 어떤 것이든 상관 없습니다.<br><img src="/img/HowToUseCenterbias/01.jpg?raw=true" alt="Center_01"></span></span></p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 지난번 Linear Layout 사용법에 대해 설명했을 때 Gravity와 Linear_Layout Gravity에 대한 얘기를 했었습니다. <a href="https://cracker9.github.io/2018/06/27/How-to-use-Linear/" target="_blank" rel="noopener">Linear Layout 사용법 보러가기</a><br><span style="color:#4d4d4d"><strong>STEP 04.</strong> 부모를 선택하시면 오른쪽 Setting Panel에서 Gravity의 메뉴를 선택하시면 Center, Center Horizontal, Center Vertical을 설정할 수 있습니다.<br><img src="/img/HowToUseCenterbias/02.jpg?raw=true" alt="Center_02"></span></span></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><p><img src="/img/HowToUseCenterbias/03.jpg?raw=true" alt="Center_03"></p><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">Center 입력시 부모 안에 포함된 View들이 수평+수직 가운데에 놓이게 되며<br><span style="color:#4d4d4d">Center Horizontal 입력시 부모안에 포함된 View들이 수평 가운데에 놓이게 되며<br><span style="color:#4d4d4d">Center Vertical 입력시 부모안에 포함된 View들이 수직 가운데에 놓이게 됩니다.</span></span></span></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> 그리고 Linear Layout안에 있는 자식 아이템 선택 시 오른쪽 Setting Panel에서 Linear Layout_Gravity 메뉴를 선택하시면 되는데요. Linear Layout부모 방향이 Horizontal일 경우는 자식 아이템은 수직 방향으로만 설정할 수 있기 때문에 Center Vertical을, 부모 방향이 Vertical일 경우는 자식 이템은 수평 방향으로만 설정할 수 있기 때문에 Center Horiztontal을 선택할 수 있습니다.<br><img src="/img/HowToUseCenterbias/04.jpg?raw=true" alt="Center_04"></span></p><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><p><img src="/img/HowToUseCenterbias/05.jpg?raw=true" alt="Center_05"></p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><h3 id="2-Relative-Layout에서-Center"><a href="#2-Relative-Layout에서-Center" class="headerlink" title="2. Relative Layout에서 Center"></a>2. Relative Layout에서 Center</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> View Panel에서 아이템을 사용하여 Design Panel로 아이템을 끌어옵니다.<br><span style="color:#4d4d4d"><strong>STEP 02.</strong> 부모 아이템을 선택 후 Layout 값을 Relative로 변경합니다.<br><span style="color:#4d4d4d"><strong>STEP 03.</strong> 부모 안에 포함되어 있는 자식 아이템을 선택해주세요.<br><span style="color:#4d4d4d"><strong>STEP 04.</strong> 상단 Tool bar에서 Center 버튼을 선택해주세요. 이 때 Center Horizontal . Center Vertical 을 선택할 수 있는데, Center Horizontal을 선택해주세요.<br><img src="/img/HowToUseCenterbias/06.jpg?raw=true" alt="Center_06"></span></span></span></span></p><h1 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> 그러면 좌/우 연결점들이 연결할 수 없는 상태로 변경되는데 이는 Center Horizontal로 연결되었기 때문입니다.<br><img src="/img/HowToUseCenterbias/07.jpg?raw=true" alt="Center_07"></span></p><h1 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> 만약 Center Vertical을 입력하면 선택한 자식 아이템이 수직 방향 한 가운데로 이동하게 되며 상/하 연결점들이 연결할 수 없는 상태로 변경됩니다.<br><img src="/img/HowToUseCenterbias/08.jpg?raw=true" alt="Center_08"></span></p><h1 id="-8"><a href="#-8" class="headerlink" title=" "></a> </h1><h3 id="3-Constraint-Layout에서-Center"><a href="#3-Constraint-Layout에서-Center" class="headerlink" title="3. Constraint Layout에서 Center"></a>3. Constraint Layout에서 Center</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> 부모 아이템을 선택 후 Layout 값을 Constraint로 변경합니다.<br><span style="color:#4d4d4d"><strong>STEP 02.</strong> 부모안에 포함된 자식 아이템을 선택후 좌/우 연결점을 부모의 좌/우에 연결합니다.<br><img src="/img/HowToUseCenterbias/09.gif?raw=true" alt="Center_09"></span></span></p><h1 id="-9"><a href="#-9" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 그러면 자동으로 Center가 입력됩니다. Constraint는 아이템을 선택하고 연결점을 연결해야만 Tool bar의 Center 버튼이 활성화 되는데요, 만약 좌/우로 연결했으면 Center_Horizontal로 상/하로 연결했으면 Center_Vertical로 설정됩니다. 그리고 Constraint도 Relative와 마찬가지로 Center 입력 시 자동으로 아이템의 위치가 이동하게 됩니다.<br><span style="color:#4d4d4d"><strong>STEP 04.</strong> 나머지 텍스트 아이템도 Center로 연결합니다.<br><img src="/img/HowToUseCenterbias/10.jpg?raw=true" alt="Center_10"></span></span></p><h1 id="-10"><a href="#-10" class="headerlink" title=" "></a> </h1><h3 id="4-Constraint-Layout에서-Bias"><a href="#4-Constraint-Layout에서-Bias" class="headerlink" title="4. Constraint Layout에서 Bias"></a>4. Constraint Layout에서 Bias</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> Bias는 Constraint Layout에서만 사용할 수 있는 기능입니다. Constraint에서 하나의 아이템을 선택 하여 연결점을 좌/우로 연결했을 때 자동으로 Center로 설정됩니다. 하지만 만약 Center로 입력할 의도가 아니였다면 Bias로 바꾸어줘야 합니다.<br><img src="/img/HowToUseCenterbias/11.gif?raw=true" alt="Center_11"></span></p><h1 id="-11"><a href="#-11" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> 상단 Tool bar에서 Center 버튼 옆에 Bias 버튼을 눌러주세요.<br><img src="/img/HowToUseCenterbias/12.jpg?raw=true" alt="Center_12"></span></p><h1 id="-12"><a href="#-12" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">Bias도 Center와 마찬가지로 좌/우로 연결했을 때, Bias_Horizontal만 활성화되고 상/하로 연결했을 때 Bias_Vertical이 활성화 됩니다.</span></p><h1 id="-13"><a href="#-13" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> Center로 설정되었던 아이템이 원래 제자리로 이동되면서 Bias 값이 설정됩니다.<br><img src="/img/HowToUseCenterbias/13.gif?raw=true" alt="Center_13"></span></p><h1 id="-14"><a href="#-14" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> Setting Panel 아래의 Generate Code 버튼을 선택해주세요.<br><img src="/img/HowToUseCenterbias/14.jpg?raw=true" alt="Center_14"></span></p><h1 id="-15"><a href="#-15" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> Code Result Panel이 나오면 코드가 제대로 나왔는지 확인해주세요.<br><img src="/img/HowToUseCenterbias/15.jpg?raw=true" alt="Center_15"></span></p><h1 id="-16"><a href="#-16" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">위의 과정을 담은 영상을 첨부하니 참고해주세요.<br><a href="https://youtu.be/-9CXQIND5zw" target="_blank" rel="noopener"><img src="/img/HowToUseCenterbias/v07.jpg?raw=true" alt="Center_16"></a></span></p><p><span style="color:#4d4d4d">그럼, 그 외에 문의사항은 <a href="helloo@cracker9.io">hello@cracker9.io</a> 로 메일주세요!<br>크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.</span></p><p>Cracker9 이 없다면 ▶ <a href="http://cracker9.io/#skip-downloads" target="_blank" rel="noopener">클릭</a><br>Cracker9 으로 가운데 정렬과 Constraint Bias 을 설정 해 보고 싶다면  ▶ <a href="https://release.cracker9.io/code-snippet/artboards/b3e8a512-52e2-4122-8fe0-e527ccdbd291/" target="_blank" rel="noopener">클릭</a></p><hr><ul><li>Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_CenterBias" target="_blank" rel="noopener">http://cracker9.io</a></li><li>Facebook_ <a href="https://www.facebook.com/cracker9.io" target="_blank" rel="noopener">https://www.facebook.com/cracker9.io</a></li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;안녕하세요. 크래커나인 입니다.&lt;br&gt;Cracker9 사용은 익숙해지셨나요? 오늘은 Center와 Bias기능을 사용하여 코드를 생성하는 방법에 대해 알려드리도록 하겠습니다.&lt;/span&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
+    
+    
+      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
+    
+      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
+    
+      <category term="Layout" scheme="http://blog.cracker9.io/tags/Layout/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tutorial - Custom Layout 사용법</title>
+    <link href="http://blog.cracker9.io/2018/06/28/How-to-use-Custom/"/>
+    <id>http://blog.cracker9.io/2018/06/28/How-to-use-Custom/</id>
+    <published>2018-06-28T02:00:00.000Z</published>
+    <updated>2019-05-23T08:47:36.011Z</updated>
+    
+    <content type="html"><![CDATA[<p><span style="color:#4d4d4d">안녕하세요. 크래커나인 입니다.<br>Custom Layout은 디자이너가 만들어 주지 못한 영역을 개발자가 임의의 영역을 직접 그려 레이아웃을 구성 할 수 있도록 만든 기능입니다. 사용하는 방법은 매우 간편해서 쉽게 사용할 수 있습니다.</span></p><p><span style="color:#4d4d4d">먼저 Custom Layout이 필요한 경우를 알아볼까요?<br><img src="/img/HowToUseCustom/01.jpg?raw=true" alt="Custom_01"></span></p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">예를 들어 리스트로 되어 있는 디자인일 때 각각 하나의 리스트를 감싸주는 영역이 필요한데요. 이 때 디자이너가 미리 그 영역까지 그리지 않은 경우가 종종 있습니다. 그래서 이러한 경우 개발자가 직접 디자이너에게 요청하거나 직접 해당하는 영역을 그려야 합니다.</span></p><p><span style="color:#4d4d4d">이 외에도 영역이 필요할 경우 디자이너에게 요청하는 등의 커뮤니케이션이 발생하는데, Cracker9은 별도의 디자인 추가 작업 없이 개발자가 영역을 지정하는 Custom Layout 기능이 있습니다.</span></p><p><span style="color:#4d4d4d">자, 그럼 Custom Layout 으로 직접 영역을 만들어보도록 하겠습니다.<br>Custom Layout으로 영역을 생성하는 방법은 2가지가 있는데, 하나는 선택한 View들의 전체 크기로 만드는 방법과 또 다른 하나는 View를 선택하지 않고 만드는 방법입니다.</span></p><hr><h3 id="1-선택한-View들의-전체-크기로-Custom-Layout-생성"><a href="#1-선택한-View들의-전체-크기로-Custom-Layout-생성" class="headerlink" title="1. 선택한 View들의 전체 크기로 Custom Layout 생성"></a>1. 선택한 View들의 전체 크기로 Custom Layout 생성</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> View Panel에서 View를 선택한 후 Design Panel로 끌어옵니다.<br><img src="/img/HowToUseCustom/03.gif?raw=true" alt="Custom_01"></span></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> Custom Layout이 감싸야하는 View들을 선택해주세요.<br><img src="/img/HowToUseCustom/04.jpg?raw=true" alt="Custom_02"></span></p><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 상단 툴바에 보시면 Custom Layout을 만들어주는 버튼을 클릭합니다.<br><img src="/img/HowToUseCustom/02.jpg?raw=true" alt="Custom_03"></span></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> 내가 선택한 View를 감싸는 영역이 만들어지고 그 아래에 원본 스크린이 보이는데 그 영역을 참고하여 원하는 크기만큼 조절해줍니다.<br><img src="/img/HowToUseCustom/06.gif?raw=true" alt="Custom_04"></span></p><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> Save 버튼을 눌러주세요.</span></p><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> 필요한 영역이 생성되었습니다.<br><img src="/img/HowToUseCustom/07.jpg?raw=true" alt="Custom_05"></span></p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 07.</strong> Generate Code로 코드를 생성한 후 해당되는 코드를 확인하면 됩니다. Cracker9에서 제공하는 샘플을 이용하여 Custom Layout을 생성하였을 경우의 코드는 아래와 같습니다.<br><img src="/img/HowToUseCustom/08.jpg?raw=true" alt="Custom_06"></span></p><h1 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h1><h3 id="2-View를-선택하지-않고-Custom-Layout-생성"><a href="#2-View를-선택하지-않고-Custom-Layout-생성" class="headerlink" title="2. View를 선택하지 않고 Custom Layout 생성"></a>2. View를 선택하지 않고 Custom Layout 생성</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> Design Panel로 View를 끌어왔다면, View를 선택하지 않고 Custom Layout 버튼을 눌러주세요. View를 선택한 상태로 Custom Layout을 선택하면 그 크기만큼의 영역이 생성되기 때문에 선택되지 않아야 합니다.<br><img src="/img/HowToUseCustom/09.jpg?raw=true" alt="Custom_07"></span></p><h1 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> 마우스가 + 모양으로 바뀌면, 아래에 깔려진 원본 스크린을 참고하여 원하는 크기만큼 드래그 하여 영역을 그려줍니다.<br><img src="/img/HowToUseCustom/10.jpg?raw=true" alt="Custom_08"></span></p><h1 id="-8"><a href="#-8" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 원하는 크기로 영역을 그려졌다면 Save 버튼을 눌러 저장해주세요.</span></p><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> 완성된 모습은 위의 방법과 동일하며 코드 내용도 동일합니다.</span></p><h1 id="-9"><a href="#-9" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">View를 선택하지 않고, Custom Layout을 사용하면 보다 자유롭게 직접 그려서 영역을 생성 할 수 있다는 장점이 있습니다. 어느 쪽이든 편한 방법으로 사용하면 됩니다.</span></p><h1 id="-10"><a href="#-10" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">위의 과정을 담은 영상을 첨부하니 참고해주세요.<br><a href="https://youtu.be/s0UQzVVRk_c" target="_blank" rel="noopener"><img src="/img/HowToUseCustom/v06.jpg?raw=true" alt="Custom_09"></a></span></p><p><span style="color:#4d4d4d">그럼, 그 외에 문의사항은 <a href="helloo@cracker9.io">hello@cracker9.io</a> 로 메일주세요!<br>크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.</span></p><p>Cracker9 이 없다면 ▶ <a href="http://cracker9.io/#skip-downloads" target="_blank" rel="noopener">클릭</a><br>Cracker9 으로 Custom Layout 를 만들어 보고 싶다면  ▶ <a href="https://release.cracker9.io/code-snippet/artboards/090e6013-111a-4993-aec8-d9972d981a89/" target="_blank" rel="noopener">클릭</a></p><hr><ul><li>Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_Custom" target="_blank" rel="noopener">http://cracker9.io</a></li><li>Facebook_ <a href="https://www.facebook.com/cracker9.io" target="_blank" rel="noopener">https://www.facebook.com/cracker9.io</a></li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;안녕하세요. 크래커나인 입니다.&lt;br&gt;Custom Layout은 디자이너가 만들어 주지 못한 영역을 개발자가 임의의 영역을 직접 그려 레이아웃을 구성 할 수 있도록 만든 기능입니다. 사용하는 방법
+      
+    
+    </summary>
+    
+      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
+    
+    
+      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
+    
+      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
+    
+      <category term="Layout" scheme="http://blog.cracker9.io/tags/Layout/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tutorial - Constraint Layout의 Weight 사용법</title>
+    <link href="http://blog.cracker9.io/2018/06/27/How-to-use-Constraint-Weight/"/>
+    <id>http://blog.cracker9.io/2018/06/27/How-to-use-Constraint-Weight/</id>
+    <published>2018-06-27T05:30:00.000Z</published>
+    <updated>2019-05-23T08:45:00.687Z</updated>
+    
+    <content type="html"><![CDATA[<p><span style="color:#4d4d4d">안녕하세요. 크래커나인 입니다.<br>이번에는 Cracker9 App으로 Constraint Layout 코드를 생성해보도록 하겠습니다.</span></p><p><span style="color:#4d4d4d">지난번 Linear Layout에서 Weight를 사용하는 방법에 대해 다루면서 Linear와 Constraint에서 Weight를 사용하는 방법이 다르다고 언급했었습니다. 자, 그럼 Constraint Layout에서 Weight 입력을 어떻게 하는지 알아볼까요?</span></p><hr><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> View Panel에서 Design Panel로 아이템을 끌어옵니다.</span></p><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> Constraint에서 Weight를 주기 위해서는 부모가 아닌 자식 View를 선택해야 합니다. 또한 자식 View를 전부 선택하는 것이 아닌, 원하는 View를 선택하여 가변영역이 필요한 부분에 설정할 수 있습니다. 가변영역이 필요한 자식 View를 Ctrl 키 or Command 키를 누르면서 멀티 선택 합니다.<br><img src="/img/HowToUseConstraintWeight/01.jpg?raw=true" alt="Constraint_W01"></span></p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 상단의 Design Tool bar에서 Weight_horizontal 버튼을 눌러주세요.<br><img src="/img/HowToUseConstraintWeight/02.jpg?raw=true" alt="Constraint_W02"></span></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> 그림과 같이 Weight 편집 모드 상태가 되면 가변이 필요한 숫자 box [114dp]를 클릭하여 화살표 모양으로 바꿔줍니다.<br><img src="/img/HowToUseConstraintWeight/03.jpg?raw=true" alt="Constraint_W03"></span></p><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> Save버튼을 눌러주세요.</span></p><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> 오른쪽 Setting Panel에서 Weight list에 Weight가 생성되었는지 확인합니다.<br><img src="/img/HowToUseConstraintWeight/04.jpg?raw=true" alt="Constraint_W04"></span></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">원래 코드로 Constraint에 Weight를 주기 위해서는 Chain된 상태에서 방향에 따라  layout_width, 또는 layout_height에 0dp를 줍니다.</span></p><pre><code>android:layout_width="0dp"</code></pre><pre><code>android:layout_height="0dp"</code></pre><p><span style="color:#4d4d4d">그리고 weight를 설정해주면 weight 비율로 간격이 설정됩니다.</span></p><pre><code>app:layout_constraintVertical_weight="1"</code></pre><pre><code>app:layout_constraintHorizontal_weight="1"</code></pre><p><span style="color:#4d4d4d">Cracker9에서는 이를  Weight를 입력하면 자동으로 Chain 속성 부여될 수 있도록 하였습니다. 그래서 weight를 입력 후 Chain으로 묶여진 것을 바로 확인 할 수 있습니다.<br><img src="/img/HowToUseConstraintWeight/05.jpg?raw=true" alt="Constraint_W05"></span></p><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">주황색으로 연결된 부분은 Chain으로 연결되어있다는 표시입니다. 본래는 Chain으로 연결되면 아래와 같이 표시되는데, 현재 보여드린 샘플은 간격사이가 좁아서 Chain 연결선까지는 보여지지는 않습니다. 만일 간격사이가 좁았다면 아래와 같이 연결선이 보여집니다.<br><img src="/img/HowToUseConstraintWeight/06.jpg?raw=true" alt="Constraint_W06"></span></p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 07.</strong> Setting Panel 아래의 Generate Code 버튼을 선택해주세요.<br><img src="/img/HowToUseConstraintWeight/07.jpg?raw=true" alt="Constraint_W07"></span></p><h1 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 08.</strong> Code Result Panel이 나오면 코드가 제대로 나왔는지 확인해주세요.<br><img src="/img/HowToUseConstraintWeight/08.jpg?raw=true" alt="Constraint_W08"></span></p><h1 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">위의 과정을 담은 영상을 첨부하니 참고해주세요.<br><a href="https://youtu.be/eVKLorgs12A" target="_blank" rel="noopener"><img src="/img/HowToUseConstraintWeight/v05.jpg?raw=true" alt="constraint_W09"></a></span></p><p><span style="color:#4d4d4d">그럼, 그 외에 문의사항은 <a href="helloo@cracker9.io">hello@cracker9.io</a> 로 메일주세요!<br>크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다. <br><br></span></p><p>Cracker9 이 없다면 ▶ <a href="http://cracker9.io/#skip-downloads" target="_blank" rel="noopener">클릭</a><br>Cracker9 으로 Constraint Layout 의 Weight 사용 해보고 싶다면  ▶ <a href="https://release.cracker9.io/code-snippet/artboards/ddd1966e-191d-4087-b81a-f272314d89df/" target="_blank" rel="noopener">클릭</a></p><hr><ul><li>Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_CenterBias" target="_blank" rel="noopener">http://cracker9.io</a></li><li>Facebook_ <a href="https://www.facebook.com/cracker9.io" target="_blank" rel="noopener">https://www.facebook.com/cracker9.io</a></li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;안녕하세요. 크래커나인 입니다.&lt;br&gt;이번에는 Cracker9 App으로 Constraint Layout 코드를 생성해보도록 하겠습니다.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color
+      
+    
+    </summary>
+    
+      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
+    
+    
+      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
+    
+      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
+    
+      <category term="Layout" scheme="http://blog.cracker9.io/tags/Layout/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tutorial - Constraint Layout 사용법</title>
+    <link href="http://blog.cracker9.io/2018/06/27/How-to-use-Constraint/"/>
+    <id>http://blog.cracker9.io/2018/06/27/How-to-use-Constraint/</id>
+    <published>2018-06-27T03:00:00.000Z</published>
+    <updated>2019-05-23T08:46:59.731Z</updated>
+    
+    <content type="html"><![CDATA[<p><span style="color:#4d4d4d">안녕하세요. 크래커나인 입니다.<br>오늘은 Constraint Layout을 사용하여 코드를 생성해보도록 하겠습니다.</span></p><hr><h3 id="1-Constraint-Layout-소개"><a href="#1-Constraint-Layout-소개" class="headerlink" title="1. Constraint Layout 소개"></a>1. Constraint Layout 소개</h3><p><span style="color:#4d4d4d">Constraint Layout은 2016년 Google I/O에서 처음 소개되었습니다. Constraint Layout이라는 개념은 개발자가 인터페이스를 더욱 풍부한 표현 방식으로 개발할 수 있도록 제공하기 시작했습니다.<br>더 정확한 Constraint Layout에 대한 설명은 이곳을 참고해주세요.<br><a href="https://developer.android.com/reference/android/support/constraint/ConstraintLayout" target="_blank" rel="noopener">참고 사이트</a></span></p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><h3 id="2-Cracker9에서-관계맺기-방법"><a href="#2-Cracker9에서-관계맺기-방법" class="headerlink" title="2. Cracker9에서 관계맺기 방법"></a>2. Cracker9에서 관계맺기 방법</h3><p><span style="color:#4d4d4d">관계 맺는 방법은 지난번 설명했던 Relative에서 관계 맺기와 동일 합니다.</span></p><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> View Panel에서 Constraint로 코드를 구성할 View를 선택 후 Design Panel로 옮겨줍니다.<br><img src="/img/HowToUseConstraint/00.gif?raw=true" alt="Constraint00"></span></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> 부모 안에 포함된 첫번째 View를 선택하세요. 그리고 View의 왼쪽을 부모의 왼쪽과 연결해주세요.<br><img src="/img/HowToUseConstraint/01.jpg?raw=true" alt="Constraint01"></span></p><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong>. View의 상단을 부모의 상단과 연결합니다.<br><img src="/img/HowToUseConstraint/02.jpg?raw=true" alt="Constraint02"></span></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> 두번째 View을 선택 후 View의 왼쪽을 첫번째 View의 왼쪽과 연결합니다.<br><img src="/img/HowToUseConstraint/03.jpg?raw=true" alt="Constraint03"></span></p><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> 두번째 View의 상단을 첫번째 View의 하단과 연결합니다.<br><img src="/img/HowToUseConstraint/04.jpg?raw=true" alt="Constraint04"></span></p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> 세번째 View를 선택 후 부모의 상단과 연결합니다. 그 후 하단을 부모의 하단과 연결하여 Center로 만들어줍니다.<br><img src="/img/HowToUseConstraint/05_1.jpg?raw=true" alt="Constraint05"><br><img src="/img/HowToUseConstraint/05_2.jpg?raw=true" alt="Constraint05"></span></p><h1 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 07.</strong> 세번째 View의 오른쪽을 네번째 View의 왼쪽과 연결합니다.<br><img src="/img/HowToUseConstraint/06.jpg?raw=true" alt="Constraint06"></span></p><h1 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 08.</strong><br>네번째 View를 선택 후 부모의 상단과 연결합니다. 그 후 하단을 부모의 하단과 연결하여 Center로 만들어줍니다.<br><img src="/img/HowToUseConstraint/07_1.jpg?raw=true" alt="Constraint07"><br><img src="/img/HowToUseConstraint/07_2.jpg?raw=true" alt="Constraint07"></span></p><h1 id="-8"><a href="#-8" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 09.</strong> 네번째 View의 오른쪽을 부모의 오른쪽과 연결합니다.<br><img src="/img/HowToUseConstraint/08.jpg?raw=true" alt="Constraint08"></span></p><h1 id="-9"><a href="#-9" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 10.</strong> 전부된 연결된 모습은 아래와 같습니다.<br><img src="/img/HowToUseConstraint/09.jpg?raw=true" alt="Constraint09"></span></p><h1 id="-10"><a href="#-10" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 11.</strong> 더 정확한 이해를 돕기 위해 영상을 첨부했습니다.<br><a href="https://youtu.be/hs54q9w5Vi0" target="_blank" rel="noopener"><img src="/img/HowToUseConstraint/v04.jpg?raw=true" alt="Constraint14"></a>  </span></p><h1 id="-11"><a href="#-11" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 12.</strong> Constraint Layout도 마찬가지로 View끼리 서로 연결된 결과는 각각 View를 선택해도 확인할 수 있으며, 더 자세한 사항은 오른쪽 Setting Panel &gt; Relation에서도 확인 할 수 있습니다. 이때 방향 값은 Relative와 다르게 표현됩니다.<br><img src="/img/HowToUseConstraint/11.jpg?raw=true" alt="Constraint11"></span></p><h1 id="-12"><a href="#-12" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 13.</strong> Setting Panel 아래의 Generate Code 버튼을 선택해주세요.<br><img src="/img/HowToUseConstraint/12.jpg?raw=true" alt="Constraint12"></span></p><h1 id="-13"><a href="#-13" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 14.</strong> Code Result Panel이 나오면 코드가 제대로 나왔는지 확인해주세요.<br><img src="/img/HowToUseConstraint/13.jpg?raw=true" alt="Constraint13"></span></p><h1 id="-14"><a href="#-14" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">그럼, 그 외에 문의사항은 <a href="helloo@cracker9.io">hello@cracker9.io</a> 로 메일주세요!<br>크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.</span></p><p>Cracker9 이 없다면 ▶ <a href="http://cracker9.io/#skip-downloads" target="_blank" rel="noopener">클릭</a><br>Cracker9으로 Constraint Layout 을 구성 해 보고 싶다면  ▶ <a href="https://release.cracker9.io/code-snippet/artboards/3a9d9693-fd18-46de-b704-10415b0286fd/" target="_blank" rel="noopener">클릭</a></p><hr><ul><li>Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_Constraint" target="_blank" rel="noopener">http://cracker9.io</a></li><li>Facebook_ <a href="https://www.facebook.com/cracker9.io" target="_blank" rel="noopener">https://www.facebook.com/cracker9.io</a></li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;안녕하세요. 크래커나인 입니다.&lt;br&gt;오늘은 Constraint Layout을 사용하여 코드를 생성해보도록 하겠습니다.&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;1-Constraint-Layou
+      
+    
+    </summary>
+    
+      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
+    
+    
+      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
+    
+      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
+    
+      <category term="Layout" scheme="http://blog.cracker9.io/tags/Layout/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tutorial - Relative Layout 사용법</title>
+    <link href="http://blog.cracker9.io/2018/06/27/how-to-use-Relative/"/>
+    <id>http://blog.cracker9.io/2018/06/27/how-to-use-Relative/</id>
+    <published>2018-06-27T01:00:00.000Z</published>
+    <updated>2019-05-23T08:50:32.320Z</updated>
+    
+    <content type="html"><![CDATA[<p><span style="color:#4d4d4d">안녕하세요. 크래커나인 입니다.<br>오늘은 Relaitve Layout을 사용하여 코드를 생성해보도록 하겠습니다.</span></p><hr><h3 id="1-Relative-Layout-소개"><a href="#1-Relative-Layout-소개" class="headerlink" title="1. Relative Layout 소개"></a>1. Relative Layout 소개</h3><p><span style="color:#4d4d4d">Relative는 부모 혹은 다른 자식 View와의 상대적 위치를 이용해 화면을 구성하는 방법입니다.<br>더 정확한 Relative Layout에 대한 설명은 이곳을 참고해주세요.<br><a href="https://developer.android.com/guide/topics/ui/layout/relative" target="_blank" rel="noopener">참고 사이트</a></span></p><p><span style="color:#4d4d4d">기준이 되는 View A와 다른 View B가 있다면<br><img src="/img/HowToUseRelative/01.jpg?raw=true" alt="Relative01"></span></p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">아래와 같은 경우는 ‘B가 A의 왼쪽에 배치한다’ 입니다. 코드는 android:layout_toLeftOf=A 를 작성합니다.<br><img src="/img/HowToUseRelative/02.jpg?raw=true" alt="Relative02"></span></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">다음은 ‘B가 A의 위에 배치한다’ 입니다. 코드는 android:layout_above=A를 작성합니다.<br><img src="/img/HowToUseRelative/03.jpg?raw=true" alt="Relative03"></span></p><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">아래와 같은 경우는 B를 A와 왼쪽 변을 맞추는 것입니다. 코드는 android:layout_alignLeft=A 를 작성합니다<br><img src="/img/HowToUseRelative/04.jpg?raw=true" alt="Relative04"></span></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">만일 View A가 View B를 포함하는 부모이고,<br>B를 부모와 왼쪽 변을 맞추면 코드는 android:layout_alignParentLeft=True 를 작성합니다.<br><img src="/img/HowToUseRelative/05.jpg?raw=true" alt="Relative05"></span></p><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">B를 부모의 수직,수평 중앙에 맞추면 코드는 android:layout_centerParent=True 를 작성합니다.<br><img src="/img/HowToUseRelative/06.jpg?raw=true" alt="Relative06"></span></p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">Relative는 부모 Layout과 자식 view 혹은 자식 view들간의 관계가 필요합니다.<br>Cracker9 툴은 이를 코드로 작성하지 않고 마우스로 연결하여 쉽게 관계를 맺을 수 있습니다.</span></p><h3 id="2-Cracker9에서-관계맺기-방법"><a href="#2-Cracker9에서-관계맺기-방법" class="headerlink" title="2. Cracker9에서 관계맺기 방법"></a>2. Cracker9에서 관계맺기 방법</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> Relative로 코드를 구성할 View 선택 후 Design Panel로 옮겨줍니다.<br><img src="/img/HowToUseRelative/07.gif?raw=true" alt="Relative07"></span></p><h1 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> 오른쪽 Setting Panel에서 Layout을 Relative로 설정합니다.<br><img src="/img/HowToUseRelative/07.jpg?raw=true" alt="Relative08"></span></p><h1 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 부모 안에 포함된 자식 View을 선택하세요.관계를 맺을 수 있는 아이템을 선택하면 위와 같이 보여지며,<br><img src="/img/HowToUseRelative/08.jpg?raw=true" alt="Relative09"></span></p><h1 id="-8"><a href="#-8" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">연결 상태는 다음과 같습니다.<br><img src="/img/HowToUseRelative/09.jpg?raw=true" alt="Relative10"></span></p><h1 id="-9"><a href="#-9" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> View 선택 후 View의 왼쪽을 부모와 연결합니다.<br><img src="/img/HowToUseRelative/10.jpg?raw=true" alt="Relative11"></span></p><h1 id="-10"><a href="#-10" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> View 선택 후 View의 상단을 부모 상단과 연결합니다.<br><img src="/img/HowToUseRelative/11.jpg?raw=true" alt="Relative12"></span></p><h1 id="-11"><a href="#-11" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> 두번째 View 선택 후 View의 왼쪽을 첫번째 View의 오른쪽과 연결합니다.<br><img src="/img/HowToUseRelative/12.jpg?raw=true" alt="Relative13"></span></p><h1 id="-12"><a href="#-12" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 07.</strong> 두번째 View 선택 후 View의 상단을 부모의 상단과 연결합니다.<br><img src="/img/HowToUseRelative/13.jpg?raw=true" alt="Relative14"></span></p><h1 id="-13"><a href="#-13" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 08.</strong> 세번째 아이템 선택 후 아이템의 왼쪽을 두번째 아이템의 왼쪽과 연결합니다.<br><img src="/img/HowToUseRelative/14.jpg?raw=true" alt="Relative15"></span></p><h1 id="-14"><a href="#-14" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 09.</strong> 세번째 아이템 선택 후 아이템의 상단을 두번째 아이템의 하단과 연결합니다.<br><img src="/img/HowToUseRelative/15.jpg?raw=true" alt="Relative16"></span></p><h1 id="-15"><a href="#-15" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 10.</strong> 더 정확한 이해를 돕기 위해 영상을 첨부했습니다.<br><a href="https://youtu.be/2JvLv_PYAxU" target="_blank" rel="noopener"><img src="/img/HowToUseRelative/v03.jpg?raw=true" alt="Relative20"></a>  </span></p><h1 id="-16"><a href="#-16" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 11.</strong> View끼리 서로 연결된 결과는 각각 View를 선택해도 확인할 수 있지만, 더 자세한 사항은 오른쪽 Setting Panel &gt; Relation에서도 확인 할 수 있습니다.<br><img src="/img/HowToUseRelative/17.jpg?raw=true" alt="Relative17"></span></p><h1 id="-17"><a href="#-17" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 12.</strong> Setting Panel 아래의 Generate Code 버튼을 선택해주세요.<br><img src="/img/HowToUseRelative/18.jpg?raw=true" alt="Relative18"></span></p><h1 id="-18"><a href="#-18" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 13.</strong> Code Result Panel이 나오면 코드가 제대로 나왔는지 확인해주세요.<br><img src="/img/HowToUseRelative/19.jpg?raw=true" alt="Relative19"></span></p><h1 id="-19"><a href="#-19" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">그럼, 그 외에 문의사항은 <a href="helloo@cracker9.io">hello@cracker9.io</a> 로 메일주세요!<br>크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.</span></p><p>Cracker9 이 없다면 ▶ <a href="http://cracker9.io/#skip-downloads" target="_blank" rel="noopener">클릭</a><br>Cracker9 으로 Relative Layout 을 구성 해 보고 싶다면  ▶ <a href="https://release.cracker9.io/code-snippet/artboards/402afe59-88df-4933-b22b-885b3fb11531/" target="_blank" rel="noopener">클릭</a></p><hr><ul><li>Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_Relative" target="_blank" rel="noopener">http://cracker9.io</a></li><li>Facebook_ <a href="https://www.facebook.com/cracker9.io" target="_blank" rel="noopener">https://www.facebook.com/cracker9.io</a></li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;안녕하세요. 크래커나인 입니다.&lt;br&gt;오늘은 Relaitve Layout을 사용하여 코드를 생성해보도록 하겠습니다.&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;1-Relative-Layout-소개
+      
+    
+    </summary>
+    
+      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
+    
+    
+      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
+    
+      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
+    
+      <category term="Layout" scheme="http://blog.cracker9.io/tags/Layout/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tutorial - Linear Layout의 Weight 사용법</title>
+    <link href="http://blog.cracker9.io/2018/06/26/How-to-use-Linear-Weight/"/>
+    <id>http://blog.cracker9.io/2018/06/26/How-to-use-Linear-Weight/</id>
+    <published>2018-06-26T07:40:06.000Z</published>
+    <updated>2019-05-23T08:48:15.256Z</updated>
+    
+    <content type="html"><![CDATA[<p><span style="color:#4d4d4d">안녕하세요. 크래커나인 입니다.<br>이번에는 Linear Layout에서 Weight 기능을 사용해보도록 하겠습니다.</span></p><p><span style="color:#4d4d4d">Cracker9 App을 실행하신 후 상단 부분을 보시면 Design Tool bar가 있습니다.<br><img src="/img/HowToUseLinearWeight/01.jpg?raw=true" alt="Linear_W01"></span></p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">이 중에서 Weight 기능을 다룰건데요, Cracker9에서 Weight는 Linear Layout과 Constraint Layout에서 사용할 수 있습니다. 그리고 두 Layout마다 Weight를 사용하는 방법이 다릅니다.<br>Linear Layout은 반드시 부모 Layout을 선택 해야만 Weight를 입력할 수 있습니다.<br>이와 반대로 Constraint Layout의 경우에는 자식 View를 선택해야 Weight를 입력할 수 있는데요. 이 부분은 나중에 Constraint Layout 에서 좀 더 자세히 다루도록 하겠습니다.<br>자 그럼, Linear Layout에서 Weight를 사용하는 방법에 대해 알려드리겠습니다.</span></p><hr><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> Design Panel로 View를 끌어옵니다.<br><img src="/img/HowToUseLinearWeight/02.gif?raw=true" alt="Linear_W02"></span></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> 오른쪽 Setting Panel에서 Layout을 Linear Horizontal로 설정합니다.<br><img src="/img/HowToUseLinearWeight/03.jpg?raw=true" alt="Linear_W03"></span></p><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 상단의 Design Tool bar에서 Weight Horizontal 버튼을 선택해주세요.<br><img src="/img/HowToUseLinearWeight/04.jpg?raw=true" alt="Linear_W04"></span></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> 그림과 같이 Weight 편집 모드 상태가 되면 가변영역인 부분을 선택합니다.<br>숫자 box [50dp]를 선택하면 [화살표]모양으로 바뀝니다. 화살표 아이콘으로 바뀌어야 가변이 적용된 것입니다.<br><img src="/img/HowToUseLinearWeight/05.jpg?raw=true" alt="Linear_W05"></span></p><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> Save버튼을 눌러주세요.</span></p><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> 오른쪽 Setting Panel에서 Weight list에 Weight가 생성되었는지 확인합니다.<br><img src="/img/HowToUseLinearWeight/06.jpg?raw=true" alt="Linear_W06"></span></p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 07.</strong> 아래의 Generate Code 버튼을 선택합니다.<br><img src="/img/HowToUseLinear/06.jpg?raw=true" alt="Linear_W07"></span></p><h1 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 08.</strong> Code Result Panel이 나오면 코드가 제대로 나왔는지 확인해주세요.<br><img src="/img/HowToUseLinearWeight/08.jpg?raw=true" alt="Linear_W08"></span></p><h1 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">위의 과정을 담은 영상을 첨부하니 참고해주세요.<br><a href="https://youtu.be/klHAy3X2xDw" target="_blank" rel="noopener"><img src="/img/HowToUseLinear/v01.jpg?raw=true" alt="Linear_W09"></a></span></p><p><span style="color:#4d4d4d">그럼, 그 외에 문의사항은 <a href="helloo@cracker9.io">hello@cracker9.io</a> 로 메일주세요!<br>크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.</span></p><p>Cracker9 이 없다면 ▶ <a href="http://cracker9.io/#skip-downloads" target="_blank" rel="noopener">클릭</a><br>Cracker9 으로 Linear Layout의 Weight 를 주고 싶다면  ▶ <a href="https://release.cracker9.io/code-snippet/artboards/c7fb7d32-2165-431b-84a4-429a5ead8694/" target="_blank" rel="noopener">클릭</a></p><hr><ul><li>Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_Linear_weight" target="_blank" rel="noopener">http://cracker9.io</a></li><li>Facebook_ <a href="https://www.facebook.com/cracker9.io" target="_blank" rel="noopener">https://www.facebook.com/cracker9.io</a></li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;안녕하세요. 크래커나인 입니다.&lt;br&gt;이번에는 Linear Layout에서 Weight 기능을 사용해보도록 하겠습니다.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;
+      
+    
+    </summary>
+    
+      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
+    
+    
+      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
+    
+      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
+    
+      <category term="Layout" scheme="http://blog.cracker9.io/tags/Layout/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tutorial - Linear Layout 사용법</title>
+    <link href="http://blog.cracker9.io/2018/06/26/How-to-use-Linear/"/>
+    <id>http://blog.cracker9.io/2018/06/26/How-to-use-Linear/</id>
+    <published>2018-06-26T01:21:10.000Z</published>
+    <updated>2019-05-23T08:48:43.696Z</updated>
+    
+    <content type="html"><![CDATA[<p><span style="color:#4d4d4d">안녕하세요. 크래커나인 입니다.<br>이번에는 Cracker9 App으로 Linear Layout 코드를 생성해보도록 하겠습니다.</span></p><hr><h3 id="1-Cracker9에서-사용"><a href="#1-Cracker9에서-사용" class="headerlink" title="1. Cracker9에서 사용"></a>1. Cracker9에서 사용</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> 레이아웃을 구성해야하는 View들을 왼쪽에 있는 View Panel에서 선택합니다. 이 때 Shift를 누르고 선택을 원하는 영역을 드래그 하거나 Ctrl (혹은 Command)를 누르고 View를 하나씩 선택해주세요.<br><img src="/img/HowToUseLinear/01.jpg?raw=true" alt="Linear01"></span></p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> 선택된 View를 오른쪽에 있는 Design Panel로 끌어옵니다.<br><img src="/img/HowToUseLinear/02.gif?raw=true" alt="Linear02"></span></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 오른쪽 사이드에 있는 Setting Panel에서 View를 감싸는 최상위의 Layout을 Linear Horizontal로 설정합니다. Cracker9에서 기본으로 설정되는 Layout은 Constraint이기 때문입니다.<br><img src="/img/HowToUseLinear/03.jpg?raw=true" alt="Linear03"></span></p><p><span style="color:#4d4d4d">Linear Layout이 자식 View를 나열하는 방향은 Horizontal과 Vertical 2가지로 나뉘는데요.<br>Cracker9의 Linear Layout은 2가지 중 1가지를 선택할 수 있습니다. Tutorial의 샘플은 자식 view들이 수평적으로 정렬되기 때문에 Linear Horizontal로 설정해주세요.</span></p><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> Gravity는 현재의 View 안에 있는 내용들을 어디에 놓을 것인지를 지정하는 속성이고, layout_gravity는 부모 View 안에서 자식의 View를 어디에 놓을 것인지를 지정하는 속성입니다.<br>그래서 Cracker9에서는 부모 View를 선택하면 ‘android:gravity’ 속성을 설정할 수 있고, 자식 View를 선택하면 ‘android:layout_gravity’ 속성을 설정 할 수 있습니다.</span></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><p><img src="/img/HowToUseLinear/04.jpg?raw=true" alt="Linear04"><br><img src="/img/HowToUseLinear/05.jpg?raw=true" alt="Linear05"></p><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">이 샘플에서 Gravity가 꼭 필요하진 않으니 설정하지 않아도 됩니다.</span></p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> Setting Panel 아래의 Generate Code 버튼을 선택해주세요.<br><img src="/img/HowToUseLinear/06.jpg?raw=true" alt="Linear06"></span></p><h1 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> Code Result Panel이 나오면 코드가 제대로 나왔는지 확인해주세요.<br><img src="/img/HowToUseLinear/07.jpg?raw=true" alt="Linear07"></span></p><h1 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h1><h3 id="2-Android-studio에서-사용"><a href="#2-Android-studio에서-사용" class="headerlink" title="2. Android studio에서 사용"></a>2. Android studio에서 사용</h3><p><span style="color:#4d4d4d">자 이제 거의 다 왔습니다. 생성된 코드를 안드로이드 스튜디오에서 사용하는지 알아볼까요?</span></p><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> Code Result Panel에서 Copy 버튼을 선택 해주세요.<br><img src="/img/HowToUseLinear/08.jpg?raw=true" alt="Linear08"></span></p><h1 id="-8"><a href="#-8" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> 안드로이드 스튜디오 xml에 Ctrl + V하여 코드를 붙여넣기 합니다.<br><img src="/img/HowToUseLinear/09.jpg?raw=true" alt="Linear09"></span></p><h1 id="-9"><a href="#-9" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 코드에서 빨간색 글씨가 나온다면, 해당하는 리소스 파일이 폴더에 없기 때문에 표시되는 것입니다. Cracker9에 drawable 리소스가 생성 되었으니 안드로이드 스튜디오에도 draw xml을 생성합니다.<br><img src="/img/HowToUseLinear/10.jpg?raw=true" alt="Linear10"><br>Cracker9에서 draw1의 Copy버튼을 눌러서 코드를 복사해주세요.</span></p><h1 id="-10"><a href="#-10" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> 안드로이드 스튜디오로 넘어와서  project 패널 &gt; app &gt; res &gt; drawable을 선택하고 마우스 오른쪽을 클릭하세요. 아래와 같이 drawable 리소스 파일을 생성해줍니다.<br><img src="/img/HowToUseLinear/11.jpg?raw=true" alt="Linear11"></span></p><h1 id="-11"><a href="#-11" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> 아래의 창에 xml이름을 입력합니다. 이때 Cracker9에서 생성된 draw이름과 동일해야 합니다.<br><img src="/img/HowToUseLinear/12.jpg?raw=true" alt="Linear12"></span></p><h1 id="-12"><a href="#-12" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> draw xml이 drawable 폴더에 맞게 생성되었는지 확인해주세요.<br><img src="/img/HowToUseLinear/04.jpg?raw=true" alt="Linear13"></span></p><h1 id="-13"><a href="#-13" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 07.</strong> 아까와 같이 Ctrl+V 하여  draw 코드를 붙여넣기 해주세요.<br><img src="/img/HowToUseLinear/14.jpg?raw=true" alt="Linear14"></span></p><h1 id="-14"><a href="#-14" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 08.</strong> Color 리소스는 좀 더 쉽습니다. Project 패널에 이미 나와있는 color xml을 더블클릭하여 오픈 후 Cracker9에서 Color코드를 복사하여 붙여넣기 해주세요.<br><img src="/img/HowToUseLinear/15.jpg?raw=true" alt="Linear15"></span></p><p>Color에 다른 코드가 작성되어 있다면, Cracker9에서 필요한 코드만 마우스로 드래그하여 복사하고 붙여넣기 할 수 있습니다.<br><img src="/img/HowToUseLinear/16.jpg?raw=true" alt="Linear16"></p><h1 id="-15"><a href="#-15" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 09.</strong> 마지막으로 Asset을 넣어보도록 하겠습니다.<br>Cracer9 App 상단에 보시면 Asset을 다운로드 할 수 있는 버튼을 선택한 후 폴더를 지정하여 다운로드 합니다.<br><img src="/img/HowToUseLinear/17.jpg?raw=true" alt="Linear17"></span></p><h1 id="-16"><a href="#-16" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 10.</strong> 다운로드 된 파일을 확인 후 해상도에 맞는 Asset 파일들을 선택합니다. 그리고 안드로이드 스튜디오에서 생성한 프로젝트의 drawable 리소스 폴더로 이동해주세요.<br><img src="/img/HowToUseLinear/18.jpg?raw=true" alt="Linear18"></span></p><h1 id="-17"><a href="#-17" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 11.</strong> 안드로이드 스튜디오 프로젝트에 Asset 리소스가 자동으로 올라오게 됩니다.<br><img src="/img/HowToUseLinear/19.jpg?raw=true" alt="Linear19"></span></p><h1 id="-18"><a href="#-18" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">이것으로 Linear Layout을 사용하는 방법과 생성된 코드를 안드로이드 스튜디오에서 어떻게 사용하는지 알아 보았습니다. 생성된 코드를 사용하는 방법은 모두 동일합니다. Cracker9을 사용하여 코드를 쉽고 빠르게 생성하고 레이아웃을 완성해보세요.</span></p><h1 id="-19"><a href="#-19" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">위의 과정을 담은 영상을 첨부하니 참고해주세요.<br><a href="https://youtu.be/mLO5JiA3y-U" target="_blank" rel="noopener"><img src="/img/HowToUseLinear/v01.jpg?raw=true" alt="Linear20"></a></span></p><p><span style="color:#4d4d4d">그럼, 그 외에 문의사항은 <a href="helloo@cracker9.io">hello@cracker9.io</a> 로 메일주세요!<br>크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.</span></p><p>Cracker9 이 없다면 ▶ <a href="http://cracker9.io/#skip-downloads" target="_blank" rel="noopener">클릭</a><br>Cracker9 으로 Linear Layout 을 구성 해 보고 싶다면  ▶ <a href="https://release.cracker9.io/code-snippet/artboards/9723f782-2a64-4294-a0c2-453f5fed88d9/" target="_blank" rel="noopener">클릭</a></p><hr><ul><li>Homepage_<a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_Linear" target="_blank" rel="noopener">http://cracker9.io</a></li><li>Facebook_ <a href="https://www.facebook.com/cracker9.io" target="_blank" rel="noopener">https://www.facebook.com/cracker9.io</a></li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;안녕하세요. 크래커나인 입니다.&lt;br&gt;이번에는 Cracker9 App으로 Linear Layout 코드를 생성해보도록 하겠습니다.&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;1-Cracker9에서
+      
+    
+    </summary>
+    
+      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
+    
+    
+      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
+    
+      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
+    
+      <category term="Layout" scheme="http://blog.cracker9.io/tags/Layout/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tutorial - Sketch Plugin 사용법</title>
+    <link href="http://blog.cracker9.io/2018/06/25/how-to-use-plugin/"/>
+    <id>http://blog.cracker9.io/2018/06/25/how-to-use-plugin/</id>
+    <published>2018-06-25T09:00:00.000Z</published>
+    <updated>2019-05-23T08:50:37.380Z</updated>
+    
+    <content type="html"><![CDATA[<p><span style="color:#4d4d4d"><br>안녕하세요. 크래커나인 입니다.<br>Cracker9 App을 사용하기 위해서는 먼저 Sketch로 디자인된 Screen이 필요한데요.<br>디자인된 Screen은 Cracker9 Plugin으로 링크 생성을 할 수 있기 때문이죠.<br>자 그럼 Cracker9 Plugin을 사용하여 Screen 추출과 링크를 생성해볼까요?<br>아직 Cracker9을 다운로드 받지 않으신 분은 <a href="http://cracker9.io" target="_blank" rel="noopener">http://cracker9.io</a> 에서 다운로드 받아 주세요.</span></p><hr><h3 id="1-Sketch에서-Export하기"><a href="#1-Sketch에서-Export하기" class="headerlink" title="1. Sketch에서 Export하기"></a>1. Sketch에서 Export하기</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> Sketch 파일에서 레이어를 선택한 후 화면의 오른쪽 아래에서 “Make Exportable” 을 선택하십시오.<br><img src="/img/HowToUsePlugIn/01.jpg?raw=true" alt="Plugin01">  </span></p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> Make Exportable하면 아래 그림과 같이 변경됩니다.<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/02.jpg?raw=true" alt="Plugin02"></span></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 그리고 왼쪽 레이어 리스트에는 선택한 레이어에 칼 모양이 생깁니다.<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/03.jpg?raw=true" alt="Plugin03"></span></p><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> 필요한 이미지들을 Asset으로 만들었다면, Ctrl + S 를 눌러서 스케치를 저장을 해주세요. 그리고 전달할 스크린, 즉 아트보드를 선택 후 Sketch 메뉴에서 ‘Plugins &gt; Cracker9 &gt; Export Selected Artboards’를 선택해주세요.<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/04.jpg?raw=true" alt="Plugin04"></span></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> 위와 같은 팝업에서 아트보드 링크를 설정해주면 됩니다. (만약, 로그인을 하지 않았다면 로그인 화면이 실행되므로 로그인한 후 진행해주시길 바랍니다.)<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/05.jpg?raw=true" alt="Plugin05"></span></p><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> 먼저 아트보드의 플랫폼을 지정한 후, 그에 따른 해상도를 지정하면 되는데요.<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/06.jpg?raw=true" alt="Plugin06"></span></p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 07.</strong> Android의 경우에는 DPI를 iOS와 Web의 경우에는 Resolution을 설정하면 됩니다.<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/07.gif?raw=true" alt="Plugin07"></span></p><h1 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 08.</strong> 그 다음 비밀번호를 설정하면 Export 할 수 있도록 버튼이 활성화 됩니다.<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/08.gif?raw=true" alt="Plugin08"></span></p><h1 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h1><h3 id="2-Cracker9-App으로-확인하기"><a href="#2-Cracker9-App으로-확인하기" class="headerlink" title="2. Cracker9 App으로 확인하기"></a>2. Cracker9 App으로 확인하기</h3><p><span style="color:#4d4d4d">Export가 완료되면 자동으로 Cracker9 App이 실행되며 생성한 링크 리스트가 보여집니다. 생성된 링크는 Created Link 리스트에서 확인할 수 있습니다.<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/09.jpg?raw=true" alt="Plugin09"></span></p><div style="margin-bottom: 130px"><br><span style="color:#4d4d4d">링크 리스트 사용 방법은 아래와 같습니다.<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/10.jpg?raw=true" alt="Plugin10"><br></span></div><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> Sketch Artboards 이름을 선택하면 해당하는 스크린을 작업 할 수 있는 화면으로 이동합니다. 생성된 링크를 선택하여 제대로 화면이 나왔는지 확인해볼까요?<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/11.jpg? raw=true" alt="Plugin11"></span></p><h1 id="-8"><a href="#-8" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> 화면이 제대로 나왔다면, Link List로 되돌아가서 개발자에게 링크 주소와 비밀번호를 전달하면 됩니다.</span></p><h1 id="-9"><a href="#-9" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">위의 과정을 담은 영상을 첨부하니 참고해주세요.<br><img src="유투브링크" alt="이미지 텍스트](스크린샷 이미지)"></span></p><p><span style="color:#4d4d4d">그럼, 그 외에 문의사항은 <a href="helloo@cracker9.io">hello@cracker9.io</a> 로 메일주세요!<br>크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.</span></p><hr><ul><li>Homepage_<a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_plugin" target="_blank" rel="noopener">http://cracker9.io</a></li><li>Facebook_ <a href="https://www.facebook.com/cracker9.io" target="_blank" rel="noopener">https://www.facebook.com/cracker9.io</a></li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;&lt;br&gt;안녕하세요. 크래커나인 입니다.&lt;br&gt;Cracker9 App을 사용하기 위해서는 먼저 Sketch로 디자인된 Screen이 필요한데요.&lt;br&gt;디자인된 Screen은 Cracker9 Plug
+      
+    
+    </summary>
+    
+      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
+    
+    
+      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
+    
+      <category term="Sketch" scheme="http://blog.cracker9.io/tags/Sketch/"/>
+    
+      <category term="Plugin" scheme="http://blog.cracker9.io/tags/Plugin/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>기능설명 - Sketch Plug-in</title>
+    <link href="http://blog.cracker9.io/2018/06/25/Plugin-Feature/"/>
+    <id>http://blog.cracker9.io/2018/06/25/Plugin-Feature/</id>
+    <published>2018-06-25T05:00:00.000Z</published>
+    <updated>2019-05-23T08:54:35.758Z</updated>
+    
+    <content type="html"><![CDATA[<p><span style="color:#4d4d4d">Cracker9은 Sketch 플러그인을 통해 디자인한 작업물을 Export 합니다.</span></p><h3 id="Get-Started"><a href="#Get-Started" class="headerlink" title="Get Started"></a>Get Started</h3><p><span style="color:#4d4d4d">Export할 Sketch 파일을 열고 Export할 Sketch 아트보드를 선택 합니다. Sketch의 Plugins메뉴에서 Cracker9의 Export Selected Artboards를 선택하여 Export 합니다.<br><img src="/img/Plugin_Feature/01.jpg?raw=true" alt="P_Feature01"></span></p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">Cracker9은 Sketch 파일을  Export 하기 위한 다양한 옵션을 제공합니다. 디자인한 플랫폼, DPI / Resolution 을 설정할 수 있고, 보안을 위해 Export된 Link주소의 Password를 설정하도록 되어 있습니다.<br><img src="/img/Plugin_Feature/02.jpg?raw=true" alt="P_Feature02"><br><span style="color:#4d4d4d"><strong>1.Create link</strong><br>생성한 link 개수를 보여줍니다.<br><em>App의 Created link tab에서 link 삭제 시 link 개수가 달라집니다.</em></span></span></p><p><span style="color:#4d4d4d"><strong>2.Account</strong><br>로그인한 계정 ID 정보를 제공합니다.</span></p><p><span style="color:#4d4d4d"><strong>3.Selected artboard</strong><br>선택한 아트보드 개수를 보여줍니다.<br><em>여러개의 아트보드를 선택하여 Export할 수 있습니다.</em></span></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><h3 id="Platform"><a href="#Platform" class="headerlink" title="Platform"></a>Platform</h3><p><span style="color:#4d4d4d">Android / iOS / Web 플랫폼을 선택합니다.<br><img src="/img/Plugin_Feature/03.jpg?raw=true" alt="P_Feature03"></span></p><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><p><img src="/img/Plugin_Feature/04.jpg?raw=true" alt="P_Feature04"></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>1.Android / DPI</strong><br>Export할 DPI를 선택 합니다.<br>[ldpi / mdpi / tvdpi / xhdpi / xxhdpi / xxxhdpi]</span></p><p><span style="color:#4d4d4d"><strong>2.iOS / Resolution</strong><br>Export할 Resolution을 선택 합니다.<br>[@1x / @2x / @3x]</span></p><p><span style="color:#4d4d4d"><strong>3.Web / Resolution</strong><br>Export할 Resolution을 선택 합니다.<br>[1x / 2x / 3x]</span></p><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>Link Password</strong><br>Link의 보안을 위해 Link Password를 설정합니다.<br><img src="/img/Plugin_Feature/05.jpg?raw=true" alt="P_Feature05"></span></p><hr><ul><li>Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=Plugin_Feature" target="_blank" rel="noopener">http://cracker9.io</a></li><li>Facebook_ <a href="https://www.facebook.com/cracker9.io" target="_blank" rel="noopener">https://www.facebook.com/cracker9.io</a></li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;Cracker9은 Sketch 플러그인을 통해 디자인한 작업물을 Export 합니다.&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Get-Started&quot;&gt;&lt;a href=&quot;#Get-Started&quot; class=
+      
+    
+    </summary>
+    
+      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
+    
+    
+      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
+    
+      <category term="Sketch" scheme="http://blog.cracker9.io/tags/Sketch/"/>
+    
+      <category term="Plugin" scheme="http://blog.cracker9.io/tags/Plugin/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>기능설명 - Cracker9 주요기능</title>
+    <link href="http://blog.cracker9.io/2018/06/25/App-Feature/"/>
+    <id>http://blog.cracker9.io/2018/06/25/App-Feature/</id>
+    <published>2018-06-25T02:00:00.000Z</published>
+    <updated>2019-05-23T08:42:50.565Z</updated>
+    
+    <content type="html"><![CDATA[<p><span style="color:#4d4d4d">Cracker9은 디자이너와 개발자 간의 연결을 도와줍니다.<br>디자인 결과물의 정확한 스타일과 Assets 등의 정보를 전달해주며, 전달받은 정보를 바탕으로 안드로이드 Layout Code를 빠르고 쉽게 추출할 수 있는 솔루션입니다.<br><img src="/img/App_Feature/01.jpg?raw=true" alt="A_Feature01"></span></p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">Cracker9에서는 결과물을 Link로 추출하여 쉽고 빠르게 결과물을 전달하거나 공유 받을 수 있습니다.</span></p><hr><p><img src="/img/App_Feature/02.jpg?raw=true" alt="A_Feature01"></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>Opened Link</strong> : 사용자가 Open한 Link list를 볼 수 있는 탭<br><span style="color:#4d4d4d"><strong>Created Link</strong> : 사용자가 Sketch에서 Export한 Link list를 볼 수 있는 탭<br><span style="color:#4d4d4d"><strong>Account 아이콘</strong> : 선택 시 로그인한 계정 ID 정보 및 Logout 버튼을 제공합니다.</span></span></span></p><hr><p><img src="/img/App_Feature/03.jpg?raw=true" alt="A_Feature01"></p><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>Link 개수</strong> : Opened/Created한 link 개수를 보여줍니다.</span></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><p><img src="/img/App_Feature/04.jpg?raw=true" alt="A_Feature01"></p><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>Link Name</strong> : 전달받은 Screen Name &amp; Link 주소를 제공합니다.<br><span style="color:#4d4d4d"><strong>Date</strong> : Export한 Link Date정보를 제공합니다.<br><span style="color:#4d4d4d"><strong>Link PW</strong> : Link Password를 제공합니다.<br><span style="color:#4d4d4d"><strong>Link Copy 아이콘</strong> : Link주소를 복사 할 수 있습니다.<br><span style="color:#4d4d4d"><strong>Link Delete 아이콘</strong> : Link list를 삭제 할 수 있습니다.</span></span></span></span></span></p><hr><p><span style="color:#4d4d4d"><strong>Link 진입</strong><br>Link를 클릭하여 Cracker9으로 열면 View panel, Design panel, Settings tab으로 구성되어 있습니다.<br><img src="/img/App_Feature/05.jpg?raw=true" alt="A_Feature01"></span></p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>View panel</strong> : 디자인된 View들의 size, View간 margin 정보, style 정보 등을 볼 수 있는 panel 입니다.<br><span style="color:#4d4d4d"><strong>Design panel</strong> : View panel에서 선택한 View를 Drag &amp; Drop하여 Layout 설정, View간 관계연결, Weight 입력 등의 설정을 통해 Code로 Generate할 수 있게 하는 panel 입니다.</span></span></p><hr><p><img src="/img/App_Feature/06.jpg?raw=true" alt="A_Feature01"></p><h1 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>1.My link 버튼</strong> : Link list 페이지로 이동합니다.</span></p><h1 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>2.Tool Bar</strong> : Design panel에서 View를 Tool bar기능을 통해 쉽게 추가 설정하여 code로 Generate할 수 있고 Custom Layout 생성, Center, Bias, Weight를 설정하는 방식은 기본 제작툴과 동일하기 때문에 빠르게 익힐 수 있습니다.<br><img src="/img/App_Feature/07.jpg?raw=true" alt="A_Feature01"></span></p><div style="display: table"><br>  <div style="display: table-cell; vertical-align: middle;"><br>  <img src="/img/App_Feature/07_1.jpg?raw=true" alt="A_Feature01"><br>  </div><br>  <div style="display: table-cell; vertical-align: middle;"><span style="font-size:0.9em;"><strong>Custom layout</strong> : 영역이 나누어져 있지 않거나, Layout Code 생성 시 필요한 Layout영역을 설정합니다.</span></div><br></div><div style="display: table"><br>  <div style="display: table-cell; vertical-align: middle;"><br>  <img src="/img/App_Feature/07_6.jpg?raw=true" alt="A_Feature01"><br>  </div><br>  <div style="display: table-cell; vertical-align: middle;"><span style="font-size:0.9em;"><strong>Center horizontal</strong> : 선택 View를 Parents View 가로 기준으로 Center에 위치하도록 설정합니다.</span></div><br></div><div style="display: table"><br> <div style="display: table-cell; vertical-align: middle;"><br> <img src="/img/App_Feature/07_7.jpg?raw=true" alt="A_Feature01"><br> </div><br> <div style="display: table-cell; vertical-align: middle;"><span style="font-size:0.9em;"><strong>Center vertical</strong> : 선택 View를 Parents View 세로 기준으로 Center에 위치하도록 설정합니다.</span></div><br></div><div style="display: table"><br> <div style="display: table-cell; vertical-align: middle;"><br> <img src="/img/App_Feature/07_4.jpg?raw=true" alt="A_Feature01"><br> </div><br> <div style="display: table-cell; vertical-align: middle;"><span style="font-size:0.9em;"><strong>Bias horizontal</strong> : 선택 View를 연결한 관계 가로 기준으로 위치하도록 Bias를 설정합니다.</span></div><br></div><div style="display: table"><br> <div style="display: table-cell; vertical-align: middle;"><br> <img src="/img/App_Feature/07_5.jpg?raw=true" alt="A_Feature01"><br> </div><br> <div style="display: table-cell; vertical-align: middle;"><span style="font-size:0.9em;"><strong>Bias vertical</strong> : 선택 View를 연결한 관계 세로 기준으로 위치하도록 Bias를 설정합니다.</span></div><br></div><div style="display: table"><br> <div style="display: table-cell; vertical-align: middle;"><br> <img src="/img/App_Feature/07_2.jpg?raw=true" alt="A_Feature01"><br> </div><br> <div style="display: table-cell; vertical-align: middle;"><span style="font-size:0.9em;"><strong>Weight horizontal</strong> : 2개 이상의 View 또는 Parents view 선택 시 View간 가로기준 Weight를 설정합니다.</span></div><br></div><div style="display: table"><br> <div style="display: table-cell; vertical-align: middle;"><br> <img src="/img/App_Feature/07_3.jpg?raw=true" alt="A_Feature01"><br> </div><br> <div style="display: table-cell; vertical-align: middle;"><span style="font-size:0.9em;"><strong>Weight vertical</strong> : 2개 이상의 View 또는 Parents view 선택 시 View간 세로기준 Weight를 설정합니다.</span></div><br></div><p><span style="color:#4d4d4d"><strong>3.Asset 다운로드 버튼</strong> : View panel에 Asset으로 지정된 아이템을 해상도별 PNG, SVG 파일로 다운로드 가능합니다.</span></p><hr><p><img src="/img/App_Feature/08.jpg?raw=true" alt="A_Feature01"><br><span style="color:#4d4d4d"><strong>1.디자인 기본정보</strong> : 디자이너가 Export한 아트보드 size, 플랫폼, DPI or Resolution 정보를 제공합니다.<br><span style="color:#4d4d4d"><strong>2.확대/축소</strong> : -/+버튼 선택 시 또는 단축키를 통해 Panel Screen을 확대/축소 합니다.<br><em>단축키</em><br>MAC : Command + +/-<br>WIN : Control + +/-<br><span style="color:#4d4d4d"><strong>3.Generate code 버튼</strong> : Design panel에 설정해놓은 결과를 Layout code로 추출합니다.</span></span></span></p><hr><p><strong>Setting tab</strong></p><div style="float: right"><br><img src="/img/App_Feature/09.jpg?raw=true" alt="A_Feature01"><br></div><div style="float: left; line-height: 2"><br><span style="color:#4d4d4d"><strong>ID</strong> : View의 ID을 설정합니다.<br><span style="color:#4d4d4d"><strong>Layout</strong> : View의 Layout을 설정합니다.<br></span></span></div><br><div style="clear: both;"></div><p><span style="color:#4d4d4d"><strong>Size</strong> : View의 크기 정보제공 및 스타일을 설정합니다.<br><img src="/img/App_Feature/10.jpg?raw=true" alt="A_Feature01"></span></p><h1 id="-8"><a href="#-8" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>Relation</strong> : View 사이의 관계정보를 제공합니다.<br><span style="color:#4d4d4d"><strong>Weight</strong> : Weight를 설정한 Weight list 정보를 제공합니다.<br><img src="/img/App_Feature/11.jpg?raw=true" alt="A_Feature01"></span></span></p><h1 id="-9"><a href="#-9" class="headerlink" title=" "></a> </h1><hr><p><strong>Tree Structure Tab</strong> : Design panel의 View간의 구조를 확인 할 수 있으며, layer를 이동 시켜 View간 구조를 설정할 수 있습니다.<br><img src="/img/App_Feature/12.jpg?raw=true" alt="A_Feature01"></p><h1 id="-10"><a href="#-10" class="headerlink" title=" "></a> </h1><hr><p><span style="color:#4d4d4d">그럼, 그 외에 문의사항은 <a href="helloo@cracker9.io">hello@cracker9.io</a> 로 메일주세요!<br>크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.</span></p><style>.article .article__contents img {  margin: 0 !important;}</style><hr><ul><li>Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=App_Feature" target="_blank" rel="noopener">http://cracker9.io</a></li><li>Facebook_ <a href="https://www.facebook.com/cracker9.io" target="_blank" rel="noopener">https://www.facebook.com/cracker9.io</a></li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;Cracker9은 디자이너와 개발자 간의 연결을 도와줍니다.&lt;br&gt;디자인 결과물의 정확한 스타일과 Assets 등의 정보를 전달해주며, 전달받은 정보를 바탕으로 안드로이드 Layout Code를 
+      
+    
+    </summary>
+    
+      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
+    
+    
+      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
+    
+      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
+    
+      <category term="Layout" scheme="http://blog.cracker9.io/tags/Layout/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>디자이너가 이런것도 알아야해 ? 코틀린과 자바</title>
+    <link href="http://blog.cracker9.io/2018/06/08/Kotlin_Java/"/>
+    <id>http://blog.cracker9.io/2018/06/08/Kotlin_Java/</id>
+    <published>2018-06-07T15:00:00.000Z</published>
+    <updated>2019-05-23T09:01:57.823Z</updated>
+    
+    <content type="html"><![CDATA[<p>오라클과 구글의 자바 소송에서 오라클이 승소했다는 소식을 접했다.<br>이와 관련하여 개발자 사이에서는’코틀린 가속화’에 대한 이야기가 나왔다.<br>사실 디자이너 입장에서는 코틀린이 무엇인지 크게 신경쓰지 않아도 된다.<br>디자이너도 하루가 다르게 쏟아져 나오는 많은 디지털 디바이스와 디자인 툴을 익히느라 여념이 없으니까 말이다.<br>하지만 최근에는 디자이너도 코딩을 하는 사람들이 늘어나고 있고, 개발자와 IT업계를 이해하기 위해서 알아둬야 하지 않을까 싶어 이 글을 적게 되었다.</p><h2 id="코틀린이-뭐에요"><a href="#코틀린이-뭐에요" class="headerlink" title="코틀린이 뭐에요?"></a>코틀린이 뭐에요?</h2><p>코틀린은 2011년에 만들어진 오픈소스 프로그래밍 언어이다.<br>자바가상머신(JVM) 언어라 자바와 호환되고 안드로이드 개발에 주로 활용되며,<br>2017년 5월 ‘구글I/O’ 컨퍼런스에서 구글 안드로이드 공식 언어로 소개된바 있다.</p><p><img src="https://i0.wp.com/blog.inflearn.com/wp-content/uploads/2017/07/kotlin.png?fit=768%2C500" alt="1"><br>코틀린은 경량급 프로그래밍 언어라고 한다.<br>또한 현재 코틀린 공식 웹사이트에서 시범으로 사용해볼 수 있다.<br><a href="https://try.kotlinlang.org/" target="_blank" rel="noopener">코틀린 공식 웹사이트</a></p><p>직접 사용해본 개발자들은 ‘쉽고,간결하고,실용적,경제적’ 이라고 말한다.<br>예를 들면 코틀린 타입 시스템을 사용하면 자바의 가장 흔한 에러인 NullPointerExceptions 에서 자유로울 수 있다.<br>또한 자바의 불편한 점을 개선하여 getter/setter의 번거로움을 줄여주고 함수를 class 밖에서 선언할 수 있는 등 편리성과 자유도도 제공한다.</p><p>위와 같이 실용적일 뿐만 아니라 코틀린은 경제적이기도 하다.<br>오픈소스인 코틀린인 기존의 자바 프레임워크와 라이브러리를 사용할 수 있는 등 자바와<br>호환되어 사용될 수 있다. 따라서 현재 Android API들을 그대로 사용할 수 있고, Maven, Gradle과 같은 빌드 시스템도 사용할 수 있으며 추가적인 개발비용이 들지 않는다.</p><p>또한 코틀린의 문법은 이해하기 쉽고 독창적이어서 초보자들도 쉽고 빠르게 학습할 수 있다.<br>얼핏 보면 코틀린은 스칼라와 비슷한 것처럼 보이지만, 스칼라 보다 훨씬 더 단순할 뿐만 아니라 문법의 간결성과 가독성의 균형 또한 잘 맞추고 있다.</p><p>아울러 개발자들이 반복되는 문법을 사용하며 안드로이드용 프로그래밍을 할 때, 장황한 코드의 사용은 버그의 발생 빈도를 높인다. 이와는 반대로 간결한 문법을 가지고 있는 코틀린과 같은 언어를 사용하게 되면 버그의 발생 횟수를 줄일 뿐만 아니라, 덜 지루하게 개발이 가능하다.</p><p><img src="http://files.idg.co.kr/itworld/image/2016/10/convert-java-to-kotlin-100740033-large.jpg" alt="2"></p><p>하지만 모든 것에는 장단점이 있듯 코틀린에도 단점은 있다.<br>컴퓨터 운영 체계와 프로그램 언어에서의 앨리어스는, 이미 정의된 데이터 오브젝트에 대해 좀 더 이해하기 쉽고, 보다 의미 있게 붙인 이름을 말하는데, 코틀린은 아직 앨리어스가 없다. 따라서 함수 유형을 매번 중복해서 작성해야 한다는 번거로움이 존재한다.</p><p>또, 코틀린은 자바 6 바이트코드를 대상으로 하기 때문에, 자바 8의 향상된 기능들을 제공하지 않는다. 더불어 코틀린이 가지고 있는 사소한 문제 중 하나는 코틀린 표준 라이브러리가 자바 8 표준 라이브러리의 기능을 중복해 제공한다는 것이다.</p><p>마지막으로 인텔리 J (인텔리 J 아이디어는 JetBrains 사에서 제작한 상용 자바 통합 개발 환경이다. 줄여서 인텔리 J 혹은 아이디어로도 불린다.) 내부의 컴파일은 점진적이며 자바만큼 빠르지만, Gradle (Gradle은 Groovy를 이용한 빌드 시스템이다. Groovy와 유사한 도메인 언어를 채용하였으며, 현재 안드로이드 앱을 만드는데 필요한 안드로이드 슈튜디오의 공식 빌드 시스템이기도 하다. 자바, C/C++, 파이썬, 코틀린 등과 같은 여러가지 언어를 지원한다.) 을 통한 컴파일은 점진적이지 않기 때문에 속도가 느리다는 단점이 있다.</p><p>그럼에도 불구하고 업계에서는 코틀린이 18년 12월쯤이면 자바만큼 사용량이 늘어날 것으로 전망하고 있다.</p><p>직접 사용해보고 적으면 좋겠지만, 개발 능력이 안되므로 좀 더 자세한 사용 후기는 다른 분들의 글들을 첨부하기로 한다.</p><ul><li><a href="https://medium.com/@lazysoul/android-kotlin%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%A9%B4%EC%84%9C-%EB%8A%90%EB%82%80%EC%A0%90-7756c46a2b1e/" target="_blank" rel="noopener">Kotlin으로 Android 를 개발하면서 느낀점 및 장점 소개</a></li><li><a href="https://gist.github.com/Hazealign/1bbc586ded1649a8f08f/" target="_blank" rel="noopener">Android 개발을 수주해서 Kotlin을 제대로 써봤더니 최고였다</a></li><li><a href="https://thdev.tech/kotlin/android/2018/01/02/Kotlin-Learning-and-Introduction.html" target="_blank" rel="noopener">Kotlin-회사에서는 어떻게 도입하고? 학습해 볼 수 있을까?</a></li></ul><h2 id="자바는-어떻게-될까요"><a href="#자바는-어떻게-될까요" class="headerlink" title="자바는 어떻게 될까요?"></a>자바는 어떻게 될까요?</h2><p>사실 미래라는게 어떻게 될지는 아무도 모르는 것이다.<br>자바가 당장 사라질 수도 있고 당장 사라지지 않을 수도 있다.<br>하지만 여전히 전 세계에서 많이 쓰이는 언어는 자바이며, 기존에 만들어진 것들을 유지보수 하기 위해서도 필요하다. 쉽게 사라지지 않을 것이다.<br>하지만 자바를 만든 오라클에서도 더이상 자바 사업에 힘쓰고 있지 않다.<br>이 얘기는 자바의 미래가 밝지 않다는 것을 얘기한다.</p><p>프로그래밍 언어의 역사는 늘 꾸준히 어떠한 하나의 언어의 단점을 보완하는 형태로 만들고 발전해왔다. 자바 역시 미래의 더 향상된 프로그래밍 언어를 위한 그 뿌리가 되지 않을까 생각한다.</p><h2 id="부록-코틀린-커뮤니티"><a href="#부록-코틀린-커뮤니티" class="headerlink" title="부록 : 코틀린 커뮤니티"></a>부록 : 코틀린 커뮤니티</h2><ul><li><a href="http://kotlin.kr/" target="_blank" rel="noopener">한국 코틀린 커뮤니티</a></li><li><a href="https://kotlin.link/" target="_blank" rel="noopener">코틀린 공식 지원 커뮤니티 - 코틀린닷링크</a></li></ul><h2 id="자료-출처"><a href="#자료-출처" class="headerlink" title="자료 출처"></a>자료 출처</h2><ul><li><a href="http://www.itworld.co.kr/news/107046" target="_blank" rel="noopener">http://www.itworld.co.kr/news/107046</a></li><li><a href="http://mindols.tistory.com/93" target="_blank" rel="noopener">http://mindols.tistory.com/93</a></li></ul><hr><ul><li>Homepage_ <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=Kotlin_Java" target="_blank" rel="noopener">http://cracker9.io</a></li><li>Facebook_ <a href="https://www.facebook.com/cracker9.io" target="_blank" rel="noopener">https://www.facebook.com/cracker9.io</a></li></ul><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;오라클과 구글의 자바 소송에서 오라클이 승소했다는 소식을 접했다.&lt;br&gt;이와 관련하여 개발자 사이에서는’코틀린 가속화’에 대한 이야기가 나왔다.&lt;br&gt;사실 디자이너 입장에서는 코틀린이 무엇인지 크게 신경쓰지 않아도 된다.&lt;br&gt;디자이너도 하루가 
+      
+    
+    </summary>
+    
+      <category term="Develop" scheme="http://blog.cracker9.io/categories/Develop/"/>
+    
+    
+      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
+    
+      <category term="Kotlin" scheme="http://blog.cracker9.io/tags/Kotlin/"/>
+    
+      <category term="Java" scheme="http://blog.cracker9.io/tags/Java/"/>
+    
+  </entry>
+  
+</feed>
