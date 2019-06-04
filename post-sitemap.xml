@@ -7,8 +7,16 @@
     </url>
 
     <url>
+        <loc>http://blog.cracker9.io/2018/06/26/How-to-use-Linear-Weight/</loc>
+        <lastmod>2019-06-04T10:15:11.166Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://blog.cracker9.io/2018/06/27/how-to-use-Relative/</loc>
-        <lastmod>2019-06-04T10:13:50.458Z</lastmod>
+        <lastmod>2019-06-04T10:14:39.851Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -113,14 +121,6 @@
     <url>
         <loc>http://blog.cracker9.io/2018/06/25/how-to-use-plugin/</loc>
         <lastmod>2019-06-04T09:41:36.985Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://blog.cracker9.io/2018/06/26/How-to-use-Linear-Weight/</loc>
-        <lastmod>2019-06-04T09:40:46.106Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
