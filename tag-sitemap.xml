@@ -436,20 +436,6 @@
     </url>
 
     <url>
-        <loc>http://blog.cracker9.io/tags/Sketch/</loc>
-        <lastmod>2019-06-04T09:44:36.983Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://blog.cracker9.io/tags/Plugin/</loc>
-        <lastmod>2019-06-04T09:44:36.983Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://blog.cracker9.io/tags/Shortcut/</loc>
         <lastmod>2019-06-04T09:47:13.684Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -555,22 +541,43 @@
     </url>
 
     <url>
-        <loc>http://blog.cracker9.io/tags/Cracker9/</loc>
-        <lastmod>2019-06-04T10:15:11.166Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://blog.cracker9.io/tags/Android/</loc>
-        <lastmod>2019-06-04T10:15:11.166Z</lastmod>
+        <lastmod>2019-07-30T06:27:18.966Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://blog.cracker9.io/tags/Layout/</loc>
-        <lastmod>2019-06-04T10:15:11.166Z</lastmod>
+        <lastmod>2019-07-30T06:27:18.966Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/tags/AdobeXD/</loc>
+        <lastmod>2019-07-30T06:29:13.240Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/tags/Cracker9/</loc>
+        <lastmod>2019-07-30T06:42:49.721Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/tags/Plugin/</loc>
+        <lastmod>2019-07-30T06:42:49.721Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/tags/Sketch/</loc>
+        <lastmod>2019-07-30T06:42:49.721Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

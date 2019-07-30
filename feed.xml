@@ -6,7 +6,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="http://blog.cracker9.io/"/>
-  <updated>2019-06-04T09:31:12.831Z</updated>
+  <updated>2019-07-30T06:42:49.721Z</updated>
   <id>http://blog.cracker9.io/</id>
   
   <author>
@@ -15,6 +15,276 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>크래커나인 Sketch 플러그인 사용가이드 (업데이트)</title>
+    <link href="http://blog.cracker9.io/2019/07/25/how-to-use-plugin/"/>
+    <id>http://blog.cracker9.io/2019/07/25/how-to-use-plugin/</id>
+    <published>2019-07-25T09:00:00.000Z</published>
+    <updated>2019-07-30T06:42:49.721Z</updated>
+    
+    <content type="html"><![CDATA[<p><span style="color:#4d4d4d"><br>안녕하세요. 크래커나인 입니다.<br>Cracker9 App을 사용하기 위해서는 먼저 Sketch로 디자인된 Screen이 필요한데요.<br>디자인된 Screen은 Cracker9 Plugin으로 링크 생성을 할 수 있기 때문이죠.<br>자 그럼 Cracker9 Plugin을 사용하여 Screen 추출과 링크를 생성해볼까요?<br>아직 Cracker9을 다운로드 받지 않으신 분은 <a href="http://cracker9.io" target="_blank" rel="noopener">http://cracker9.io</a> 에서 다운로드 받아 주세요.</span></p><hr><h3 id="1-Sketch에서-Export하기"><a href="#1-Sketch에서-Export하기" class="headerlink" title="1. Sketch에서 Export하기"></a>1. Sketch에서 Export하기</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> Sketch 파일에서 레이어를 선택한 후 화면의 오른쪽 아래에서 “Make Exportable” 을 선택하십시오.<br><img src="/img/HowToUsePlugIn/01.jpg?raw=true" alt="Plugin01">  </span></p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> Make Exportable하면 아래 그림과 같이 변경됩니다.<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/02.jpg?raw=true" alt="Plugin02"></span></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 그리고 왼쪽 레이어 리스트에는 선택한 레이어에 칼 모양이 생깁니다.<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/03.jpg?raw=true" alt="Plugin03"></span></p><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> 필요한 이미지들을 Asset으로 만들었다면, Ctrl + S 를 눌러서 스케치를 저장을 해주세요. 그리고 전달할 스크린, 즉 아트보드를 선택 후 Sketch 메뉴에서 ‘Plugins &gt; Cracker9 &gt; Export Selected Artboards’를 선택해주세요.<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/04.jpg?raw=true" alt="Plugin04"></span></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> 위와 같은 팝업에서 아트보드 링크를 설정해주면 됩니다. (만약, 로그인을 하지 않았다면 로그인 화면이 실행되므로 로그인한 후 진행해주시길 바랍니다.)<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/05.jpg?raw=true" alt="Plugin05"></span></p><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> 먼저 아트보드의 플랫폼을 지정한 후, 그에 따른 해상도를 지정하면 되는데요.<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/06.jpg?raw=true" alt="Plugin06"></span></p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 07.</strong> Android의 경우에는 DPI를 iOS와 Web의 경우에는 Resolution을 설정하면 됩니다.<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/07.gif?raw=true" alt="Plugin07"></span></p><h1 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 08.</strong> 그 다음 비밀번호를 설정하면 Export 할 수 있도록 버튼이 활성화 됩니다.<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/08.gif?raw=true" alt="Plugin08"></span></p><h1 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h1><h3 id="2-Cracker9-App으로-확인하기"><a href="#2-Cracker9-App으로-확인하기" class="headerlink" title="2. Cracker9 App으로 확인하기"></a>2. Cracker9 App으로 확인하기</h3><p><span style="color:#4d4d4d">Export가 완료되면 자동으로 Cracker9 App이 실행되며 생성한 링크 리스트가 보여집니다. 생성된 링크는 Created Link 리스트에서 확인할 수 있습니다.<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/09.jpg?raw=true" alt="Plugin09"></span></p><div style="margin-bottom: 130px"><br><span style="color:#4d4d4d">링크 리스트 사용 방법은 아래와 같습니다.<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/10.jpg?raw=true" alt="Plugin10"><br></span></div><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> Sketch Artboards 이름을 선택하면 해당하는 스크린을 작업 할 수 있는 화면으로 이동합니다. 생성된 링크를 선택하여 제대로 화면이 나왔는지 확인해볼까요?<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/11.jpg? raw=true" alt="Plugin11"></span></p><h1 id="-8"><a href="#-8" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> 화면이 제대로 나왔다면, Link List로 되돌아가서 개발자에게 링크 주소와 비밀번호를 전달하면 됩니다.</span></p><h1 id="-9"><a href="#-9" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">위의 과정을 담은 <a href="https://youtu.be/IcGkcR7CvHI" target="_blank" rel="noopener">영상</a>을 첨부하니 참고해주세요.</span></p><p><span style="color:#4d4d4d">그럼, 그 외에 문의사항은 <a href="helloo@cracker9.io">hello@cracker9.io</a> 로 메일주세요!<br>크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.</span></p><hr><p> <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_plugin" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'How to Use Plugin'});" target="_blank" rel="noopener"><img src="/img/Logo/Cracker9_Symbollogo.png?raw=true" alt="cracker9"></a></p><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;&lt;br&gt;안녕하세요. 크래커나인 입니다.&lt;br&gt;Cracker9 App을 사용하기 위해서는 먼저 Sketch로 디자인된 Screen이 필요한데요.&lt;br&gt;디자인된 Screen은 Cracker9 Plug
+      
+    
+    </summary>
+    
+      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
+    
+    
+      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
+    
+      <category term="Plugin" scheme="http://blog.cracker9.io/tags/Plugin/"/>
+    
+      <category term="Sketch" scheme="http://blog.cracker9.io/tags/Sketch/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>크래커나인 Adobe XD 플러그인 사용가이드 (업데이트)</title>
+    <link href="http://blog.cracker9.io/2019/07/25/How-to-use-xdplugin/"/>
+    <id>http://blog.cracker9.io/2019/07/25/How-to-use-xdplugin/</id>
+    <published>2019-07-25T09:00:00.000Z</published>
+    <updated>2019-07-30T06:29:13.240Z</updated>
+    
+    <content type="html"><![CDATA[<p><span style="color:#4d4d4d"><br>안녕하세요. 크래커나인 입니다.<br>Cracker9 App을 사용하기 위해서는 먼저 Adobe XD 로 디자인된 Screen이 필요한데요.<br>디자인된 Screen은 Cracker9 Plugin으로 링크 생성을 할 수 있기 때문이죠.<br>자 그럼 Cracker9 Plugin을 사용하여 Screen 추출과 링크를 생성해볼까요?<br>아직 Cracker9을 다운로드 받지 않으신 분은 <a href="http://cracker9.io" target="_blank" rel="noopener">http://cracker9.io</a> 에서 다운로드 받아 주세요.</span></p><hr><p>사용법 안내는 아래와 같은 작업 환경에서 작성되었습니다.</p><ul><li>O/S : macOS Mojave (10.14.6)</li><li>Adobe XD : 21.1.12.3 (스타터)</li></ul><p><span style="color:#4d4d4d"><strong>STEP 01.</strong>  Adobe XD 프로그램에서 <strong>크래커나인</strong>으로 <strong>Export할 아트보드를 선택</strong>합니다.<br><img src="/img/HowToUseXDPlugin/01.png" alt="XDPlugin01"></span></p><p><span style="color:#4d4d4d"><strong>STEP 02.</strong>   플러그인 메뉴에서 <strong>Cracker9 Plugin 을 선택</strong>합니다.<br><img src="/img/HowToUseXDPlugin/02.png" alt=""></span></p><pre><code>- 아트보드를 선택하지 않고 선택할 경우 아래와 같은 메시지가 표시됩니다.</code></pre><p><span style="color:#4d4d4d"><strong>STEP 03.</strong>   선택한 <strong>아트보드의 개수를 확</strong>인하고, <strong>플랫폼을 선택</strong>합니다.<br>    지원하는 플랫폼 : android / iOS / web<br><img src="/img/HowToUseXDPlugin/03.png" alt=""></span></p><p><span style="color:#4d4d4d"><strong>STEP 04.</strong>   선택한 플랫폼에서 사용할 <strong>해상도를 선택</strong>합니다.</span></p><ul><li>andorid: ldpi, mdpi, tvdpi, xhdpi, xxhdpi, xxxhdpi</li><li>iOS: @1x, @2x, @3x</li><li>web: 1x, 2x, 3x<br><img src="/img/HowToUseXDPlugin/04.png" alt=""></li></ul><p>보안이 필요한 경우 password settings를 체크하고 사용할 비밀번호를 입력합니다. (선택사항)<br><img src="/img/HowToUseXDPlugin/05.png" alt=""></p><p><span style="color:#4d4d4d"><strong>STEP 05.</strong>   <strong>다음(Next) 버튼을 선택</strong>합니다.<br><img src="/img/HowToUseXDPlugin/06.png" alt=""></span></p><p><span style="color:#4d4d4d"><strong>STEP 06.</strong>   <strong>추출(Export) 버튼을 선택</strong>합니다.<br><img src="/img/HowToUseXDPlugin/07.png" alt=""></span></p><p><span style="color:#4d4d4d"><strong>STEP 07.</strong>   추출(Export)이 완료되면 <strong>완료메시지가 표시</strong>되고 크래커나인 앱이 실행됩니다.<br><img src="/img/HowToUseXDPlugin/08.png" alt=""></span></p><p><span style="color:#4d4d4d"><strong>STEP 08.</strong>   선택한 아트보드가 모두 추출(Export)되었는지 <strong>목록에서 확인</strong>합니다.<br><img src="/img/HowToUseXDPlugin/09.png" alt=""></span></p><hr><p> <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_plugin" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'How to Use Plugin'});" target="_blank" rel="noopener"><img src="/img/Logo/Cracker9_Symbollogo.png?raw=true" alt="cracker9"></a></p><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;&lt;br&gt;안녕하세요. 크래커나인 입니다.&lt;br&gt;Cracker9 App을 사용하기 위해서는 먼저 Adobe XD 로 디자인된 Screen이 필요한데요.&lt;br&gt;디자인된 Screen은 Cracker9 P
+      
+    
+    </summary>
+    
+      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
+    
+    
+      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
+    
+      <category term="AdobeXD" scheme="http://blog.cracker9.io/tags/AdobeXD/"/>
+    
+      <category term="Plugin" scheme="http://blog.cracker9.io/tags/Plugin/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>크래커나인 Android view Center &amp; Constraint Layout Bias 사용법</title>
+    <link href="http://blog.cracker9.io/2019/06/28/How-to-use-CenterBias/"/>
+    <id>http://blog.cracker9.io/2019/06/28/How-to-use-CenterBias/</id>
+    <published>2019-06-28T05:00:00.000Z</published>
+    <updated>2019-07-30T06:23:43.615Z</updated>
+    
+    <content type="html"><![CDATA[<p><span style="color:#4d4d4d">안녕하세요. 크래커나인 입니다.<br>Cracker9 사용은 익숙해지셨나요? 오늘은 Center와 Bias기능을 사용하여 코드를 생성하는 방법에 대해 알려드리도록 하겠습니다.</span></p><p><span style="color:#4d4d4d">안드로이드 스튜디오에는 Centerㅍ속성을 코드로 작성할 수 있는데요.<br>Cracker9에서는 어떻게 Center 코드를 생성할수 있는지 그리고 어떤 상황에서 Bias 기능을 사용하는지 알아보도록 하겠습니다.</span></p><hr><h3 id="1-Linear-Layout에서-Center"><a href="#1-Linear-Layout에서-Center" class="headerlink" title="1. Linear Layout에서 Center"></a>1. Linear Layout에서 Center</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> View Panel에서 아이템을 사용하여 Design Panel로 아이템을 끌어옵니다.<br><span style="color:#4d4d4d"><strong>STEP 02.</strong> 부모 아이템을 선택 후 오른쪽 Setting Panel에서 Layout 값을 Linear Layout으로 설정합니다. Horizontal , Vertical 어떤 것이든 상관 없습니다.<br><img src="/img/HowToUseCenterbias/01.jpg?raw=true" alt="Center_01"></span></span></p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 지난번 Linear Layout 사용법에 대해 설명했을 때 Gravity와 Linear_Layout Gravity에 대한 얘기를 했었습니다. <a href="https://cracker9.github.io/2018/06/27/How-to-use-Linear/" target="_blank" rel="noopener">Linear Layout 사용법 보러가기</a><br><span style="color:#4d4d4d"><strong>STEP 04.</strong> 부모를 선택하시면 오른쪽 Setting Panel에서 Gravity의 메뉴를 선택하시면 Center, Center Horizontal, Center Vertical을 설정할 수 있습니다.<br><img src="/img/HowToUseCenterbias/02.jpg?raw=true" alt="Center_02"></span></span></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><p><img src="/img/HowToUseCenterbias/03.jpg?raw=true" alt="Center_03"></p><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">Center 입력시 부모 안에 포함된 View들이 수평+수직 가운데에 놓이게 되며<br><span style="color:#4d4d4d">Center Horizontal 입력시 부모안에 포함된 View들이 수평 가운데에 놓이게 되며<br><span style="color:#4d4d4d">Center Vertical 입력시 부모안에 포함된 View들이 수직 가운데에 놓이게 됩니다.</span></span></span></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> 그리고 Linear Layout안에 있는 자식 아이템 선택 시 오른쪽 Setting Panel에서 Linear Layout_Gravity 메뉴를 선택하시면 되는데요. Linear Layout부모 방향이 Horizontal일 경우는 자식 아이템은 수직 방향으로만 설정할 수 있기 때문에 Center Vertical을, 부모 방향이 Vertical일 경우는 자식 이템은 수평 방향으로만 설정할 수 있기 때문에 Center Horiztontal을 선택할 수 있습니다.<br><img src="/img/HowToUseCenterbias/04.jpg?raw=true" alt="Center_04"></span></p><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><p><img src="/img/HowToUseCenterbias/05.jpg?raw=true" alt="Center_05"></p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><h3 id="2-Relative-Layout에서-Center"><a href="#2-Relative-Layout에서-Center" class="headerlink" title="2. Relative Layout에서 Center"></a>2. Relative Layout에서 Center</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> View Panel에서 아이템을 사용하여 Design Panel로 아이템을 끌어옵니다.<br><span style="color:#4d4d4d"><strong>STEP 02.</strong> 부모 아이템을 선택 후 Layout 값을 Relative로 변경합니다.<br><span style="color:#4d4d4d"><strong>STEP 03.</strong> 부모 안에 포함되어 있는 자식 아이템을 선택해주세요.<br><span style="color:#4d4d4d"><strong>STEP 04.</strong> 상단 Tool bar에서 Center 버튼을 선택해주세요. 이 때 Center Horizontal . Center Vertical 을 선택할 수 있는데, Center Horizontal을 선택해주세요.<br><img src="/img/HowToUseCenterbias/06.jpg?raw=true" alt="Center_06"></span></span></span></span></p><h1 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> 그러면 좌/우 연결점들이 연결할 수 없는 상태로 변경되는데 이는 Center Horizontal로 연결되었기 때문입니다.<br><img src="/img/HowToUseCenterbias/07.jpg?raw=true" alt="Center_07"></span></p><h1 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> 만약 Center Vertical을 입력하면 선택한 자식 아이템이 수직 방향 한 가운데로 이동하게 되며 상/하 연결점들이 연결할 수 없는 상태로 변경됩니다.<br><img src="/img/HowToUseCenterbias/08.jpg?raw=true" alt="Center_08"></span></p><h1 id="-8"><a href="#-8" class="headerlink" title=" "></a> </h1><h3 id="3-Constraint-Layout에서-Center"><a href="#3-Constraint-Layout에서-Center" class="headerlink" title="3. Constraint Layout에서 Center"></a>3. Constraint Layout에서 Center</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> 부모 아이템을 선택 후 Layout 값을 Constraint로 변경합니다.<br><span style="color:#4d4d4d"><strong>STEP 02.</strong> 부모안에 포함된 자식 아이템을 선택후 좌/우 연결점을 부모의 좌/우에 연결합니다.<br><img src="/img/HowToUseCenterbias/09.gif?raw=true" alt="Center_09"></span></span></p><h1 id="-9"><a href="#-9" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 그러면 자동으로 Center가 입력됩니다. Constraint는 아이템을 선택하고 연결점을 연결해야만 Tool bar의 Center 버튼이 활성화 되는데요, 만약 좌/우로 연결했으면 Center_Horizontal로 상/하로 연결했으면 Center_Vertical로 설정됩니다. 그리고 Constraint도 Relative와 마찬가지로 Center 입력 시 자동으로 아이템의 위치가 이동하게 됩니다.<br><span style="color:#4d4d4d"><strong>STEP 04.</strong> 나머지 텍스트 아이템도 Center로 연결합니다.<br><img src="/img/HowToUseCenterbias/10.jpg?raw=true" alt="Center_10"></span></span></p><h1 id="-10"><a href="#-10" class="headerlink" title=" "></a> </h1><h3 id="4-Constraint-Layout에서-Bias"><a href="#4-Constraint-Layout에서-Bias" class="headerlink" title="4. Constraint Layout에서 Bias"></a>4. Constraint Layout에서 Bias</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> Bias는 Constraint Layout에서만 사용할 수 있는 기능입니다. Constraint에서 하나의 아이템을 선택 하여 연결점을 좌/우로 연결했을 때 자동으로 Center로 설정됩니다. 하지만 만약 Center로 입력할 의도가 아니였다면 Bias로 바꾸어줘야 합니다.<br><img src="/img/HowToUseCenterbias/11.gif?raw=true" alt="Center_11"></span></p><h1 id="-11"><a href="#-11" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> 상단 Tool bar에서 Center 버튼 옆에 Bias 버튼을 눌러주세요.<br><img src="/img/HowToUseCenterbias/12.jpg?raw=true" alt="Center_12"></span></p><h1 id="-12"><a href="#-12" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">Bias도 Center와 마찬가지로 좌/우로 연결했을 때, Bias_Horizontal만 활성화되고 상/하로 연결했을 때 Bias_Vertical이 활성화 됩니다.</span></p><h1 id="-13"><a href="#-13" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> Center로 설정되었던 아이템이 원래 제자리로 이동되면서 Bias 값이 설정됩니다.<br><img src="/img/HowToUseCenterbias/13.gif?raw=true" alt="Center_13"></span></p><h1 id="-14"><a href="#-14" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> Setting Panel 아래의 Generate Code 버튼을 선택해주세요.<br><img src="/img/HowToUseCenterbias/14.jpg?raw=true" alt="Center_14"></span></p><h1 id="-15"><a href="#-15" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> Code Result Panel이 나오면 코드가 제대로 나왔는지 확인해주세요.<br><img src="/img/HowToUseCenterbias/15.jpg?raw=true" alt="Center_15"></span></p><h1 id="-16"><a href="#-16" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">위의 과정을 담은 영상을 첨부하니 참고해주세요.<br><a href="https://youtu.be/-9CXQIND5zw" target="_blank" rel="noopener"><img src="/img/HowToUseCenterbias/v07.jpg?raw=true" alt="Center_16"></a></span></p><p><span style="color:#4d4d4d">그럼, 그 외에 문의사항은 <a href="helloo@cracker9.io">hello@cracker9.io</a> 로 메일주세요!<br>크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.</span></p><p>Cracker9 이 없다면 ▶ <a href="http://cracker9.io/#skip-downloads" target="_blank" rel="noopener">클릭</a><br>Cracker9 으로 가운데 정렬과 Constraint Bias 을 설정 해 보고 싶다면  ▶ <a href="https://release.cracker9.io/code-snippet/artboards/4c3f2ad7-b284-4b5b-b371-e7525511fe9d" target="_blank" rel="noopener">클릭</a></p><hr><p> <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_CenterBias" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'How to Use CenterBias'});" target="_blank" rel="noopener"><img src="/img/Logo/Cracker9_Symbollogo.png?raw=true" alt="cracker9"></a></p><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;안녕하세요. 크래커나인 입니다.&lt;br&gt;Cracker9 사용은 익숙해지셨나요? 오늘은 Center와 Bias기능을 사용하여 코드를 생성하는 방법에 대해 알려드리도록 하겠습니다.&lt;/span&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
+    
+    
+      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
+    
+      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
+    
+      <category term="Layout" scheme="http://blog.cracker9.io/tags/Layout/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>크래커나인 Custom Layout 적용하기</title>
+    <link href="http://blog.cracker9.io/2019/06/28/How-to-use-Custom/"/>
+    <id>http://blog.cracker9.io/2019/06/28/How-to-use-Custom/</id>
+    <published>2019-06-28T02:00:00.000Z</published>
+    <updated>2019-07-30T06:24:36.724Z</updated>
+    
+    <content type="html"><![CDATA[<p><span style="color:#4d4d4d">안녕하세요. 크래커나인 입니다.<br>Custom Layout은 디자이너가 만들어 주지 못한 영역을 개발자가 임의의 영역을 직접 그려 레이아웃을 구성 할 수 있도록 만든 기능입니다. 사용하는 방법은 매우 간편해서 쉽게 사용할 수 있습니다.</span></p><p><span style="color:#4d4d4d">먼저 Custom Layout이 필요한 경우를 알아볼까요?<br><img src="/img/HowToUseCustom/01.jpg?raw=true" alt="Custom_01"></span></p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">예를 들어 리스트로 되어 있는 디자인일 때 각각 하나의 리스트를 감싸주는 영역이 필요한데요. 이 때 디자이너가 미리 그 영역까지 그리지 않은 경우가 종종 있습니다. 그래서 이러한 경우 개발자가 직접 디자이너에게 요청하거나 직접 해당하는 영역을 그려야 합니다.</span></p><p><span style="color:#4d4d4d">이 외에도 영역이 필요할 경우 디자이너에게 요청하는 등의 커뮤니케이션이 발생하는데, Cracker9은 별도의 디자인 추가 작업 없이 개발자가 영역을 지정하는 Custom Layout 기능이 있습니다.</span></p><p><span style="color:#4d4d4d">자, 그럼 Custom Layout 으로 직접 영역을 만들어보도록 하겠습니다.<br>Custom Layout으로 영역을 생성하는 방법은 2가지가 있는데, 하나는 선택한 View들의 전체 크기로 만드는 방법과 또 다른 하나는 View를 선택하지 않고 만드는 방법입니다.</span></p><hr><h3 id="1-선택한-View들의-전체-크기로-Custom-Layout-생성"><a href="#1-선택한-View들의-전체-크기로-Custom-Layout-생성" class="headerlink" title="1. 선택한 View들의 전체 크기로 Custom Layout 생성"></a>1. 선택한 View들의 전체 크기로 Custom Layout 생성</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> View Panel에서 View를 선택한 후 Design Panel로 끌어옵니다.<br><img src="/img/HowToUseCustom/03.gif?raw=true" alt="Custom_01"></span></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> Custom Layout이 감싸야하는 View들을 선택해주세요.<br><img src="/img/HowToUseCustom/04.jpg?raw=true" alt="Custom_02"></span></p><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 상단 툴바에 보시면 Custom Layout을 만들어주는 버튼을 클릭합니다.<br><img src="/img/HowToUseCustom/02.jpg?raw=true" alt="Custom_03"></span></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> 내가 선택한 View를 감싸는 영역이 만들어지고 그 아래에 원본 스크린이 보이는데 그 영역을 참고하여 원하는 크기만큼 조절해줍니다.<br><img src="/img/HowToUseCustom/06.gif?raw=true" alt="Custom_04"></span></p><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> Save 버튼을 눌러주세요.</span></p><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> 필요한 영역이 생성되었습니다.<br><img src="/img/HowToUseCustom/07.jpg?raw=true" alt="Custom_05"></span></p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 07.</strong> Generate Code로 코드를 생성한 후 해당되는 코드를 확인하면 됩니다. Cracker9에서 제공하는 샘플을 이용하여 Custom Layout을 생성하였을 경우의 코드는 아래와 같습니다.<br><img src="/img/HowToUseCustom/08.jpg?raw=true" alt="Custom_06"></span></p><h1 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h1><h3 id="2-View를-선택하지-않고-Custom-Layout-생성"><a href="#2-View를-선택하지-않고-Custom-Layout-생성" class="headerlink" title="2. View를 선택하지 않고 Custom Layout 생성"></a>2. View를 선택하지 않고 Custom Layout 생성</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> Design Panel로 View를 끌어왔다면, View를 선택하지 않고 Custom Layout 버튼을 눌러주세요. View를 선택한 상태로 Custom Layout을 선택하면 그 크기만큼의 영역이 생성되기 때문에 선택되지 않아야 합니다.<br><img src="/img/HowToUseCustom/09.jpg?raw=true" alt="Custom_07"></span></p><h1 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> 마우스가 + 모양으로 바뀌면, 아래에 깔려진 원본 스크린을 참고하여 원하는 크기만큼 드래그 하여 영역을 그려줍니다.<br><img src="/img/HowToUseCustom/10.jpg?raw=true" alt="Custom_08"></span></p><h1 id="-8"><a href="#-8" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 원하는 크기로 영역을 그려졌다면 Save 버튼을 눌러 저장해주세요.</span></p><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> 완성된 모습은 위의 방법과 동일하며 코드 내용도 동일합니다.</span></p><h1 id="-9"><a href="#-9" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">View를 선택하지 않고, Custom Layout을 사용하면 보다 자유롭게 직접 그려서 영역을 생성 할 수 있다는 장점이 있습니다. 어느 쪽이든 편한 방법으로 사용하면 됩니다.</span></p><h1 id="-10"><a href="#-10" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">위의 과정을 담은 영상을 첨부하니 참고해주세요.<br><a href="https://youtu.be/s0UQzVVRk_c" target="_blank" rel="noopener"><img src="/img/HowToUseCustom/v06.jpg?raw=true" alt="Custom_09"></a></span></p><p><span style="color:#4d4d4d">그럼, 그 외에 문의사항은 <a href="helloo@cracker9.io">hello@cracker9.io</a> 로 메일주세요!<br>크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.</span></p><p>Cracker9 이 없다면 ▶ <a href="http://cracker9.io/#skip-downloads" target="_blank" rel="noopener">클릭</a><br>Cracker9 으로 Custom Layout 를 만들어 보고 싶다면  ▶ <a href="https://release.cracker9.io/code-snippet/artboards/ed96f4fe-8ad0-41f8-96b3-c7f4395eb7a5" target="_blank" rel="noopener">클릭</a></p><hr><p> <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_Custom" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'How to Use Custom'});" target="_blank" rel="noopener"><img src="/img/Logo/Cracker9_Symbollogo.png?raw=true" alt="cracker9"></a></p><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;안녕하세요. 크래커나인 입니다.&lt;br&gt;Custom Layout은 디자이너가 만들어 주지 못한 영역을 개발자가 임의의 영역을 직접 그려 레이아웃을 구성 할 수 있도록 만든 기능입니다. 사용하는 방법
+      
+    
+    </summary>
+    
+      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
+    
+    
+      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
+    
+      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
+    
+      <category term="Layout" scheme="http://blog.cracker9.io/tags/Layout/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>크래커나인 Constraint Layout의 가중치 주기</title>
+    <link href="http://blog.cracker9.io/2019/06/27/How-to-use-Constraint-Weight/"/>
+    <id>http://blog.cracker9.io/2019/06/27/How-to-use-Constraint-Weight/</id>
+    <published>2019-06-27T05:30:00.000Z</published>
+    <updated>2019-07-30T06:24:03.686Z</updated>
+    
+    <content type="html"><![CDATA[<p><span style="color:#4d4d4d">안녕하세요. 크래커나인 입니다.<br>이번에는 Cracker9 App으로 Constraint Layout 코드를 생성해보도록 하겠습니다.</span></p><p><span style="color:#4d4d4d">지난번 Linear Layout에서 Weight를 사용하는 방법에 대해 다루면서 Linear와 Constraint에서 Weight를 사용하는 방법이 다르다고 언급했었습니다. 자, 그럼 Constraint Layout에서 Weight 입력을 어떻게 하는지 알아볼까요?</span></p><hr><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> View Panel에서 Design Panel로 아이템을 끌어옵니다.</span></p><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> Constraint에서 Weight를 주기 위해서는 부모가 아닌 자식 View를 선택해야 합니다. 또한 자식 View를 전부 선택하는 것이 아닌, 원하는 View를 선택하여 가변영역이 필요한 부분에 설정할 수 있습니다. 가변영역이 필요한 자식 View를 Ctrl 키 or Command 키를 누르면서 멀티 선택 합니다.<br><img src="/img/HowToUseConstraintWeight/01.jpg?raw=true" alt="Constraint_W01"></span></p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 상단의 Design Tool bar에서 Weight_horizontal 버튼을 눌러주세요.<br><img src="/img/HowToUseConstraintWeight/02.jpg?raw=true" alt="Constraint_W02"></span></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> 그림과 같이 Weight 편집 모드 상태가 되면 가변이 필요한 숫자 box [114dp]를 클릭하여 화살표 모양으로 바꿔줍니다.<br><img src="/img/HowToUseConstraintWeight/03.jpg?raw=true" alt="Constraint_W03"></span></p><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> Save버튼을 눌러주세요.</span></p><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> 오른쪽 Setting Panel에서 Weight list에 Weight가 생성되었는지 확인합니다.<br><img src="/img/HowToUseConstraintWeight/04.jpg?raw=true" alt="Constraint_W04"></span></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">원래 코드로 Constraint에 Weight를 주기 위해서는 Chain된 상태에서 방향에 따라  layout_width, 또는 layout_height에 0dp를 줍니다.</span></p><pre><code>android:layout_width="0dp"</code></pre><pre><code>android:layout_height="0dp"</code></pre><p><span style="color:#4d4d4d">그리고 weight를 설정해주면 weight 비율로 간격이 설정됩니다.</span></p><pre><code>app:layout_constraintVertical_weight="1"</code></pre><pre><code>app:layout_constraintHorizontal_weight="1"</code></pre><p><span style="color:#4d4d4d">Cracker9에서는 이를  Weight를 입력하면 자동으로 Chain 속성 부여될 수 있도록 하였습니다. 그래서 weight를 입력 후 Chain으로 묶여진 것을 바로 확인 할 수 있습니다.<br><img src="/img/HowToUseConstraintWeight/05.jpg?raw=true" alt="Constraint_W05"></span></p><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">주황색으로 연결된 부분은 Chain으로 연결되어있다는 표시입니다. 본래는 Chain으로 연결되면 아래와 같이 표시되는데, 현재 보여드린 샘플은 간격사이가 좁아서 Chain 연결선까지는 보여지지는 않습니다. 만일 간격사이가 좁았다면 아래와 같이 연결선이 보여집니다.<br><img src="/img/HowToUseConstraintWeight/06.jpg?raw=true" alt="Constraint_W06"></span></p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 07.</strong> Setting Panel 아래의 Generate Code 버튼을 선택해주세요.<br><img src="/img/HowToUseConstraintWeight/07.jpg?raw=true" alt="Constraint_W07"></span></p><h1 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 08.</strong> Code Result Panel이 나오면 코드가 제대로 나왔는지 확인해주세요.<br><img src="/img/HowToUseConstraintWeight/08.jpg?raw=true" alt="Constraint_W08"></span></p><h1 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">위의 과정을 담은 영상을 첨부하니 참고해주세요.<br><a href="https://youtu.be/eVKLorgs12A" target="_blank" rel="noopener"><img src="/img/HowToUseConstraintWeight/v05.jpg?raw=true" alt="constraint_W09"></a></span></p><p><span style="color:#4d4d4d">그럼, 그 외에 문의사항은 <a href="helloo@cracker9.io">hello@cracker9.io</a> 로 메일주세요!<br>크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다. <br><br></span></p><p>Cracker9 이 없다면 ▶ <a href="http://cracker9.io/#skip-downloads" target="_blank" rel="noopener">클릭</a><br>Cracker9 으로 Constraint Layout 의 Weight 사용 해보고 싶다면  ▶ <a href="https://release.cracker9.io/code-snippet/artboards/23821565-f6e0-44a9-8928-f0bf15f98005" target="_blank" rel="noopener">클릭</a></p><hr><p> <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_Constraint_Weight" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'How to Use Constraint Weight'});" target="_blank" rel="noopener"><img src="/img/Logo/Cracker9_Symbollogo.png?raw=true" alt="cracker9"></a></p><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;안녕하세요. 크래커나인 입니다.&lt;br&gt;이번에는 Cracker9 App으로 Constraint Layout 코드를 생성해보도록 하겠습니다.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color
+      
+    
+    </summary>
+    
+      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
+    
+    
+      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
+    
+      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
+    
+      <category term="Layout" scheme="http://blog.cracker9.io/tags/Layout/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>크래커나인 Constraint Layout 구현하기</title>
+    <link href="http://blog.cracker9.io/2019/06/27/How-to-use-Constraint/"/>
+    <id>http://blog.cracker9.io/2019/06/27/How-to-use-Constraint/</id>
+    <published>2019-06-27T03:00:00.000Z</published>
+    <updated>2019-07-30T06:23:33.977Z</updated>
+    
+    <content type="html"><![CDATA[<p><span style="color:#4d4d4d">안녕하세요. 크래커나인 입니다.<br>오늘은 Constraint Layout을 사용하여 코드를 생성해보도록 하겠습니다.</span></p><hr><h3 id="1-Constraint-Layout-소개"><a href="#1-Constraint-Layout-소개" class="headerlink" title="1. Constraint Layout 소개"></a>1. Constraint Layout 소개</h3><p><span style="color:#4d4d4d">Constraint Layout은 2016년 Google I/O에서 처음 소개되었습니다. Constraint Layout이라는 개념은 개발자가 인터페이스를 더욱 풍부한 표현 방식으로 개발할 수 있도록 제공하기 시작했습니다.<br>더 정확한 Constraint Layout에 대한 설명은 이곳을 참고해주세요.<br><a href="https://developer.android.com/reference/android/support/constraint/ConstraintLayout" target="_blank" rel="noopener">참고 사이트</a></span></p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><h3 id="2-Cracker9에서-관계맺기-방법"><a href="#2-Cracker9에서-관계맺기-방법" class="headerlink" title="2. Cracker9에서 관계맺기 방법"></a>2. Cracker9에서 관계맺기 방법</h3><p><span style="color:#4d4d4d">관계 맺는 방법은 지난번 설명했던 Relative에서 관계 맺기와 동일 합니다.</span></p><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> View Panel에서 Constraint로 코드를 구성할 View를 선택 후 Design Panel로 옮겨줍니다.<br><img src="/img/HowToUseConstraint/00.gif?raw=true" alt="Constraint00"></span></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> 부모 안에 포함된 첫번째 View를 선택하세요. 그리고 View의 왼쪽을 부모의 왼쪽과 연결해주세요.<br><img src="/img/HowToUseConstraint/01.jpg?raw=true" alt="Constraint01"></span></p><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong>. View의 상단을 부모의 상단과 연결합니다.<br><img src="/img/HowToUseConstraint/02.jpg?raw=true" alt="Constraint02"></span></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> 두번째 View을 선택 후 View의 왼쪽을 첫번째 View의 왼쪽과 연결합니다.<br><img src="/img/HowToUseConstraint/03.jpg?raw=true" alt="Constraint03"></span></p><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> 두번째 View의 상단을 첫번째 View의 하단과 연결합니다.<br><img src="/img/HowToUseConstraint/04.jpg?raw=true" alt="Constraint04"></span></p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> 세번째 View를 선택 후 부모의 상단과 연결합니다. 그 후 하단을 부모의 하단과 연결하여 Center로 만들어줍니다.<br><img src="/img/HowToUseConstraint/05_1.jpg?raw=true" alt="Constraint05"><br><img src="/img/HowToUseConstraint/05_2.jpg?raw=true" alt="Constraint05"></span></p><h1 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 07.</strong> 세번째 View의 오른쪽을 네번째 View의 왼쪽과 연결합니다.<br><img src="/img/HowToUseConstraint/06.jpg?raw=true" alt="Constraint06"></span></p><h1 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 08.</strong><br>네번째 View를 선택 후 부모의 상단과 연결합니다. 그 후 하단을 부모의 하단과 연결하여 Center로 만들어줍니다.<br><img src="/img/HowToUseConstraint/07_1.jpg?raw=true" alt="Constraint07"><br><img src="/img/HowToUseConstraint/07_2.jpg?raw=true" alt="Constraint07"></span></p><h1 id="-8"><a href="#-8" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 09.</strong> 네번째 View의 오른쪽을 부모의 오른쪽과 연결합니다.<br><img src="/img/HowToUseConstraint/08.jpg?raw=true" alt="Constraint08"></span></p><h1 id="-9"><a href="#-9" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 10.</strong> 전부된 연결된 모습은 아래와 같습니다.<br><img src="/img/HowToUseConstraint/09.jpg?raw=true" alt="Constraint09"></span></p><h1 id="-10"><a href="#-10" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 11.</strong> 더 정확한 이해를 돕기 위해 영상을 첨부했습니다.<br><a href="https://youtu.be/hs54q9w5Vi0" target="_blank" rel="noopener"><img src="/img/HowToUseConstraint/v04.jpg?raw=true" alt="Constraint14"></a>  </span></p><h1 id="-11"><a href="#-11" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 12.</strong> Constraint Layout도 마찬가지로 View끼리 서로 연결된 결과는 각각 View를 선택해도 확인할 수 있으며, 더 자세한 사항은 오른쪽 Setting Panel &gt; Relation에서도 확인 할 수 있습니다. 이때 방향 값은 Relative와 다르게 표현됩니다.<br><img src="/img/HowToUseConstraint/11.jpg?raw=true" alt="Constraint11"></span></p><h1 id="-12"><a href="#-12" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 13.</strong> Setting Panel 아래의 Generate Code 버튼을 선택해주세요.<br><img src="/img/HowToUseConstraint/12.jpg?raw=true" alt="Constraint12"></span></p><h1 id="-13"><a href="#-13" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 14.</strong> Code Result Panel이 나오면 코드가 제대로 나왔는지 확인해주세요.<br><img src="/img/HowToUseConstraint/13.jpg?raw=true" alt="Constraint13"></span></p><h1 id="-14"><a href="#-14" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">그럼, 그 외에 문의사항은 <a href="helloo@cracker9.io">hello@cracker9.io</a> 로 메일주세요!<br>크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.</span></p><p>Cracker9 이 없다면 ▶ <a href="http://cracker9.io/#skip-downloads" target="_blank" rel="noopener">클릭</a><br>Cracker9으로 Constraint Layout 을 구성 해 보고 싶다면  ▶ <a href="https://release.cracker9.io/code-snippet/artboards/e7916c1c-0fbb-4df1-a323-fc8a3ef48db4" target="_blank" rel="noopener">클릭</a></p><hr><p> <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_Constraint" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'How to Use Constraint'});" target="_blank" rel="noopener"><img src="/img/Logo/Cracker9_Symbollogo.png?raw=true" alt="cracker9"></a></p><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;안녕하세요. 크래커나인 입니다.&lt;br&gt;오늘은 Constraint Layout을 사용하여 코드를 생성해보도록 하겠습니다.&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;1-Constraint-Layou
+      
+    
+    </summary>
+    
+      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
+    
+    
+      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
+    
+      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
+    
+      <category term="Layout" scheme="http://blog.cracker9.io/tags/Layout/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>크래커나인 Relative Layout 구성하기</title>
+    <link href="http://blog.cracker9.io/2019/06/27/how-to-use-Relative/"/>
+    <id>http://blog.cracker9.io/2019/06/27/how-to-use-Relative/</id>
+    <published>2019-06-27T01:00:00.000Z</published>
+    <updated>2019-07-30T06:26:25.321Z</updated>
+    
+    <content type="html"><![CDATA[<p><span style="color:#4d4d4d">안녕하세요. 크래커나인 입니다.<br>오늘은 Relaitve Layout을 사용하여 코드를 생성해보도록 하겠습니다.</span></p><hr><h3 id="1-Relative-Layout-소개"><a href="#1-Relative-Layout-소개" class="headerlink" title="1. Relative Layout 소개"></a>1. Relative Layout 소개</h3><p><span style="color:#4d4d4d">Relative는 부모 혹은 다른 자식 View와의 상대적 위치를 이용해 화면을 구성하는 방법입니다.<br>더 정확한 Relative Layout에 대한 설명은 이곳을 참고해주세요.<br><a href="https://developer.android.com/guide/topics/ui/layout/relative" target="_blank" rel="noopener">참고 사이트</a></span></p><p><span style="color:#4d4d4d">기준이 되는 View A와 다른 View B가 있다면<br><img src="/img/HowToUseRelative/01.jpg?raw=true" alt="Relative01"></span></p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">아래와 같은 경우는 ‘B가 A의 왼쪽에 배치한다’ 입니다. 코드는 android:layout_toLeftOf=A 를 작성합니다.<br><img src="/img/HowToUseRelative/02.jpg?raw=true" alt="Relative02"></span></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">다음은 ‘B가 A의 위에 배치한다’ 입니다. 코드는 android:layout_above=A를 작성합니다.<br><img src="/img/HowToUseRelative/03.jpg?raw=true" alt="Relative03"></span></p><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">아래와 같은 경우는 B를 A와 왼쪽 변을 맞추는 것입니다. 코드는 android:layout_alignLeft=A 를 작성합니다<br><img src="/img/HowToUseRelative/04.jpg?raw=true" alt="Relative04"></span></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">만일 View A가 View B를 포함하는 부모이고,<br>B를 부모와 왼쪽 변을 맞추면 코드는 android:layout_alignParentLeft=True 를 작성합니다.<br><img src="/img/HowToUseRelative/05.jpg?raw=true" alt="Relative05"></span></p><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">B를 부모의 수직,수평 중앙에 맞추면 코드는 android:layout_centerParent=True 를 작성합니다.<br><img src="/img/HowToUseRelative/06.jpg?raw=true" alt="Relative06"></span></p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">Relative는 부모 Layout과 자식 view 혹은 자식 view들간의 관계가 필요합니다.<br>Cracker9 툴은 이를 코드로 작성하지 않고 마우스로 연결하여 쉽게 관계를 맺을 수 있습니다.</span></p><h3 id="2-Cracker9에서-관계맺기-방법"><a href="#2-Cracker9에서-관계맺기-방법" class="headerlink" title="2. Cracker9에서 관계맺기 방법"></a>2. Cracker9에서 관계맺기 방법</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> Relative로 코드를 구성할 View 선택 후 Design Panel로 옮겨줍니다.<br><img src="/img/HowToUseRelative/07.gif?raw=true" alt="Relative07"></span></p><h1 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> 오른쪽 Setting Panel에서 Layout을 Relative로 설정합니다.<br><img src="/img/HowToUseRelative/07.jpg?raw=true" alt="Relative08"></span></p><h1 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 부모 안에 포함된 자식 View을 선택하세요.관계를 맺을 수 있는 아이템을 선택하면 위와 같이 보여지며,<br><img src="/img/HowToUseRelative/08.jpg?raw=true" alt="Relative09"></span></p><h1 id="-8"><a href="#-8" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">연결 상태는 다음과 같습니다.<br><img src="/img/HowToUseRelative/09.jpg?raw=true" alt="Relative10"></span></p><h1 id="-9"><a href="#-9" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> View 선택 후 View의 왼쪽을 부모와 연결합니다.<br><img src="/img/HowToUseRelative/10.jpg?raw=true" alt="Relative11"></span></p><h1 id="-10"><a href="#-10" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> View 선택 후 View의 상단을 부모 상단과 연결합니다.<br><img src="/img/HowToUseRelative/11.jpg?raw=true" alt="Relative12"></span></p><h1 id="-11"><a href="#-11" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> 두번째 View 선택 후 View의 왼쪽을 첫번째 View의 오른쪽과 연결합니다.<br><img src="/img/HowToUseRelative/12.jpg?raw=true" alt="Relative13"></span></p><h1 id="-12"><a href="#-12" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 07.</strong> 두번째 View 선택 후 View의 상단을 부모의 상단과 연결합니다.<br><img src="/img/HowToUseRelative/13.jpg?raw=true" alt="Relative14"></span></p><h1 id="-13"><a href="#-13" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 08.</strong> 세번째 아이템 선택 후 아이템의 왼쪽을 두번째 아이템의 왼쪽과 연결합니다.<br><img src="/img/HowToUseRelative/14.jpg?raw=true" alt="Relative15"></span></p><h1 id="-14"><a href="#-14" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 09.</strong> 세번째 아이템 선택 후 아이템의 상단을 두번째 아이템의 하단과 연결합니다.<br><img src="/img/HowToUseRelative/15.jpg?raw=true" alt="Relative16"></span></p><h1 id="-15"><a href="#-15" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 10.</strong> 더 정확한 이해를 돕기 위해 영상을 첨부했습니다.<br><a href="https://youtu.be/2JvLv_PYAxU" target="_blank" rel="noopener"><img src="/img/HowToUseRelative/v03.jpg?raw=true" alt="Relative20"></a>  </span></p><h1 id="-16"><a href="#-16" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 11.</strong> View끼리 서로 연결된 결과는 각각 View를 선택해도 확인할 수 있지만, 더 자세한 사항은 오른쪽 Setting Panel &gt; Relation에서도 확인 할 수 있습니다.<br><img src="/img/HowToUseRelative/17.jpg?raw=true" alt="Relative17"></span></p><h1 id="-17"><a href="#-17" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 12.</strong> Setting Panel 아래의 Generate Code 버튼을 선택해주세요.<br><img src="/img/HowToUseRelative/18.jpg?raw=true" alt="Relative18"></span></p><h1 id="-18"><a href="#-18" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 13.</strong> Code Result Panel이 나오면 코드가 제대로 나왔는지 확인해주세요.<br><img src="/img/HowToUseRelative/19.jpg?raw=true" alt="Relative19"></span></p><h1 id="-19"><a href="#-19" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">그럼, 그 외에 문의사항은 <a href="helloo@cracker9.io">hello@cracker9.io</a> 로 메일주세요!<br>크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.</span></p><p>Cracker9 이 없다면 ▶ <a href="http://cracker9.io/#skip-downloads" target="_blank" rel="noopener">클릭</a><br>Cracker9 으로 Relative Layout 을 구성 해 보고 싶다면  ▶ <a href="https://release.cracker9.io/code-snippet/artboards/be4ccebc-60f7-4269-82da-3b4ec553d99b" target="_blank" rel="noopener">클릭</a></p><hr><p> <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_Relative" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'How to Use Relative'});" target="_blank" rel="noopener"><img src="/img/Logo/Cracker9_Symbollogo.png?raw=true" alt="cracker9"></a></p><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;안녕하세요. 크래커나인 입니다.&lt;br&gt;오늘은 Relaitve Layout을 사용하여 코드를 생성해보도록 하겠습니다.&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;1-Relative-Layout-소개
+      
+    
+    </summary>
+    
+      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
+    
+    
+      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
+    
+      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
+    
+      <category term="Layout" scheme="http://blog.cracker9.io/tags/Layout/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>크래커나인 Linear Layout의 Weight 사용법</title>
+    <link href="http://blog.cracker9.io/2019/06/26/How-to-use-Linear-Weight/"/>
+    <id>http://blog.cracker9.io/2019/06/26/How-to-use-Linear-Weight/</id>
+    <published>2019-06-26T07:40:06.000Z</published>
+    <updated>2019-07-30T06:24:57.009Z</updated>
+    
+    <content type="html"><![CDATA[<p><span style="color:#4d4d4d">안녕하세요. 크래커나인 입니다.<br>이번에는 Linear Layout에서 Weight 기능을 사용해보도록 하겠습니다.</span></p><p><span style="color:#4d4d4d">Cracker9 App을 실행하신 후 상단 부분을 보시면 Design Tool bar가 있습니다.<br><img src="/img/HowToUseLinearWeight/01.jpg?raw=true" alt="Linear_W01"></span></p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">이 중에서 Weight 기능을 다룰건데요, Cracker9에서 Weight는 Linear Layout과 Constraint Layout에서 사용할 수 있습니다. 그리고 두 Layout마다 Weight를 사용하는 방법이 다릅니다.<br>Linear Layout은 반드시 부모 Layout을 선택 해야만 Weight를 입력할 수 있습니다.<br>이와 반대로 Constraint Layout의 경우에는 자식 View를 선택해야 Weight를 입력할 수 있는데요. 이 부분은 나중에 Constraint Layout 에서 좀 더 자세히 다루도록 하겠습니다.<br>자 그럼, Linear Layout에서 Weight를 사용하는 방법에 대해 알려드리겠습니다.</span></p><hr><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> Design Panel로 View를 끌어옵니다.<br><img src="/img/HowToUseLinearWeight/02.gif?raw=true" alt="Linear_W02"></span></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> 오른쪽 Setting Panel에서 Layout을 Linear Horizontal로 설정합니다.<br><img src="/img/HowToUseLinearWeight/03.jpg?raw=true" alt="Linear_W03"></span></p><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 상단의 Design Tool bar에서 Weight Horizontal 버튼을 선택해주세요.<br><img src="/img/HowToUseLinearWeight/04.jpg?raw=true" alt="Linear_W04"></span></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> 그림과 같이 Weight 편집 모드 상태가 되면 가변영역인 부분을 선택합니다.<br>숫자 box [50dp]를 선택하면 [화살표]모양으로 바뀝니다. 화살표 아이콘으로 바뀌어야 가변이 적용된 것입니다.<br><img src="/img/HowToUseLinearWeight/05.jpg?raw=true" alt="Linear_W05"></span></p><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> Save버튼을 눌러주세요.</span></p><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> 오른쪽 Setting Panel에서 Weight list에 Weight가 생성되었는지 확인합니다.<br><img src="/img/HowToUseLinearWeight/06.jpg?raw=true" alt="Linear_W06"></span></p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 07.</strong> 아래의 Generate Code 버튼을 선택합니다.<br><img src="/img/HowToUseLinear/06.jpg?raw=true" alt="Linear_W07"></span></p><h1 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 08.</strong> Code Result Panel이 나오면 코드가 제대로 나왔는지 확인해주세요.<br><img src="/img/HowToUseLinearWeight/08.jpg?raw=true" alt="Linear_W08"></span></p><h1 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">위의 과정을 담은 영상을 첨부하니 참고해주세요.<br><a href="https://youtu.be/klHAy3X2xDw" target="_blank" rel="noopener"><img src="/img/HowToUseLinear/v01.jpg?raw=true" alt="Linear_W09"></a></span></p><p><span style="color:#4d4d4d">그럼, 그 외에 문의사항은 <a href="helloo@cracker9.io">hello@cracker9.io</a> 로 메일주세요!<br>크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.</span></p><p>Cracker9 이 없다면 ▶ <a href="http://cracker9.io/#skip-downloads" target="_blank" rel="noopener">클릭</a><br>Cracker9 으로 Linear Layout의 Weight 를 주고 싶다면  ▶ <a href="https://release.cracker9.io/code-snippet/artboards/b02d9d15-4c22-4451-9e8e-56226dc963c9" target="_blank" rel="noopener">클릭</a></p><hr><p> <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_Linear_weight" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'How to Use Linear weight'});" target="_blank" rel="noopener"><img src="/img/Logo/Cracker9_Symbollogo.png?raw=true" alt="cracker9"></a></p><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;안녕하세요. 크래커나인 입니다.&lt;br&gt;이번에는 Linear Layout에서 Weight 기능을 사용해보도록 하겠습니다.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;
+      
+    
+    </summary>
+    
+      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
+    
+    
+      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
+    
+      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
+    
+      <category term="Layout" scheme="http://blog.cracker9.io/tags/Layout/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>크래커나인 Linear Layout 구성하기</title>
+    <link href="http://blog.cracker9.io/2019/06/26/How-to-use-Linear/"/>
+    <id>http://blog.cracker9.io/2019/06/26/How-to-use-Linear/</id>
+    <published>2019-06-26T01:21:10.000Z</published>
+    <updated>2019-07-30T06:27:18.966Z</updated>
+    
+    <content type="html"><![CDATA[<p><span style="color:#4d4d4d">안녕하세요. 크래커나인 입니다.<br>이번에는 Cracker9 App으로 Linear Layout 코드를 생성해보도록 하겠습니다.</span></p><hr><h3 id="1-Cracker9에서-사용"><a href="#1-Cracker9에서-사용" class="headerlink" title="1. Cracker9에서 사용"></a>1. Cracker9에서 사용</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> 레이아웃을 구성해야하는 View들을 왼쪽에 있는 View Panel에서 선택합니다. 이 때 Shift를 누르고 선택을 원하는 영역을 드래그 하거나 Ctrl (혹은 Command)를 누르고 View를 하나씩 선택해주세요.<br><img src="/img/HowToUseLinear/01.jpg?raw=true" alt="Linear01"></span></p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> 선택된 View를 오른쪽에 있는 Design Panel로 끌어옵니다.<br><img src="/img/HowToUseLinear/02.gif?raw=true" alt="Linear02"></span></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 오른쪽 사이드에 있는 Setting Panel에서 View를 감싸는 최상위의 Layout을 Linear Horizontal로 설정합니다. Cracker9에서 기본으로 설정되는 Layout은 Constraint이기 때문입니다.<br><img src="/img/HowToUseLinear/03.jpg?raw=true" alt="Linear03"></span></p><p><span style="color:#4d4d4d">Linear Layout이 자식 View를 나열하는 방향은 Horizontal과 Vertical 2가지로 나뉘는데요.<br>Cracker9의 Linear Layout은 2가지 중 1가지를 선택할 수 있습니다. Tutorial의 샘플은 자식 view들이 수평적으로 정렬되기 때문에 Linear Horizontal로 설정해주세요.</span></p><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> Gravity는 현재의 View 안에 있는 내용들을 어디에 놓을 것인지를 지정하는 속성이고, layout_gravity는 부모 View 안에서 자식의 View를 어디에 놓을 것인지를 지정하는 속성입니다.<br>그래서 Cracker9에서는 부모 View를 선택하면 ‘android:gravity’ 속성을 설정할 수 있고, 자식 View를 선택하면 ‘android:layout_gravity’ 속성을 설정 할 수 있습니다.</span></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><p><img src="/img/HowToUseLinear/04.jpg?raw=true" alt="Linear04"><br><img src="/img/HowToUseLinear/05.jpg?raw=true" alt="Linear05"></p><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">이 샘플에서 Gravity가 꼭 필요하진 않으니 설정하지 않아도 됩니다.</span></p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> Setting Panel 아래의 Generate Code 버튼을 선택해주세요.<br><img src="/img/HowToUseLinear/06.jpg?raw=true" alt="Linear06"></span></p><h1 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> Code Result Panel이 나오면 코드가 제대로 나왔는지 확인해주세요.<br><img src="/img/HowToUseLinear/07.jpg?raw=true" alt="Linear07"></span></p><h1 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h1><h3 id="2-Android-studio에서-사용"><a href="#2-Android-studio에서-사용" class="headerlink" title="2. Android studio에서 사용"></a>2. Android studio에서 사용</h3><p><span style="color:#4d4d4d">자 이제 거의 다 왔습니다. 생성된 코드를 안드로이드 스튜디오에서 사용하는지 알아볼까요?</span></p><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> Code Result Panel에서 Copy 버튼을 선택 해주세요.<br><img src="/img/HowToUseLinear/08.jpg?raw=true" alt="Linear08"></span></p><h1 id="-8"><a href="#-8" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> 안드로이드 스튜디오 xml에 Ctrl + V하여 코드를 붙여넣기 합니다.<br><img src="/img/HowToUseLinear/09.jpg?raw=true" alt="Linear09"></span></p><h1 id="-9"><a href="#-9" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 코드에서 빨간색 글씨가 나온다면, 해당하는 리소스 파일이 폴더에 없기 때문에 표시되는 것입니다. Cracker9에 drawable 리소스가 생성 되었으니 안드로이드 스튜디오에도 draw xml을 생성합니다.<br><img src="/img/HowToUseLinear/10.jpg?raw=true" alt="Linear10"><br>Cracker9에서 draw1의 Copy버튼을 눌러서 코드를 복사해주세요.</span></p><h1 id="-10"><a href="#-10" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> 안드로이드 스튜디오로 넘어와서  project 패널 &gt; app &gt; res &gt; drawable을 선택하고 마우스 오른쪽을 클릭하세요. 아래와 같이 drawable 리소스 파일을 생성해줍니다.<br><img src="/img/HowToUseLinear/11.jpg?raw=true" alt="Linear11"></span></p><h1 id="-11"><a href="#-11" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> 아래의 창에 xml이름을 입력합니다. 이때 Cracker9에서 생성된 draw이름과 동일해야 합니다.<br><img src="/img/HowToUseLinear/12.jpg?raw=true" alt="Linear12"></span></p><h1 id="-12"><a href="#-12" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> draw xml이 drawable 폴더에 맞게 생성되었는지 확인해주세요.<br><img src="/img/HowToUseLinear/04.jpg?raw=true" alt="Linear13"></span></p><h1 id="-13"><a href="#-13" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 07.</strong> 아까와 같이 Ctrl+V 하여  draw 코드를 붙여넣기 해주세요.<br><img src="/img/HowToUseLinear/14.jpg?raw=true" alt="Linear14"></span></p><h1 id="-14"><a href="#-14" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 08.</strong> Color 리소스는 좀 더 쉽습니다. Project 패널에 이미 나와있는 color xml을 더블클릭하여 오픈 후 Cracker9에서 Color코드를 복사하여 붙여넣기 해주세요.<br><img src="/img/HowToUseLinear/15.jpg?raw=true" alt="Linear15"></span></p><p>Color에 다른 코드가 작성되어 있다면, Cracker9에서 필요한 코드만 마우스로 드래그하여 복사하고 붙여넣기 할 수 있습니다.<br><img src="/img/HowToUseLinear/16.jpg?raw=true" alt="Linear16"></p><h1 id="-15"><a href="#-15" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 09.</strong> 마지막으로 Asset을 넣어보도록 하겠습니다.<br>Cracer9 App 상단에 보시면 Asset을 다운로드 할 수 있는 버튼을 선택한 후 폴더를 지정하여 다운로드 합니다.<br><img src="/img/HowToUseLinear/17.jpg?raw=true" alt="Linear17"></span></p><h1 id="-16"><a href="#-16" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 10.</strong> 다운로드 된 파일을 확인 후 해상도에 맞는 Asset 파일들을 선택합니다. 그리고 안드로이드 스튜디오에서 생성한 프로젝트의 drawable 리소스 폴더로 이동해주세요.<br><img src="/img/HowToUseLinear/18.jpg?raw=true" alt="Linear18"></span></p><h1 id="-17"><a href="#-17" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 11.</strong> 안드로이드 스튜디오 프로젝트에 Asset 리소스가 자동으로 올라오게 됩니다.<br><img src="/img/HowToUseLinear/19.jpg?raw=true" alt="Linear19"></span></p><h1 id="-18"><a href="#-18" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">이것으로 Linear Layout을 사용하는 방법과 생성된 코드를 안드로이드 스튜디오에서 어떻게 사용하는지 알아 보았습니다. 생성된 코드를 사용하는 방법은 모두 동일합니다. Cracker9을 사용하여 코드를 쉽고 빠르게 생성하고 레이아웃을 완성해보세요.</span></p><h1 id="-19"><a href="#-19" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">위의 과정을 담은 영상을 첨부하니 참고해주세요.<br><a href="https://youtu.be/mLO5JiA3y-U" target="_blank" rel="noopener"><img src="/img/HowToUseLinear/v01.jpg?raw=true" alt="Linear20"></a></span></p><p><span style="color:#4d4d4d">그럼, 그 외에 문의사항은 <a href="helloo@cracker9.io">hello@cracker9.io</a> 로 메일주세요!<br>크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.</span></p><p>Cracker9 이 없다면 ▶ <a href="http://cracker9.io/#skip-downloads" target="_blank" rel="noopener">클릭</a><br>Cracker9 으로 Linear Layout 을 구성 해 보고 싶다면  ▶ <a href="https://release.cracker9.io/code-snippet/artboards/cd9414cf-f46d-4db0-aea8-334a1472d33d" target="_blank" rel="noopener">클릭</a></p><hr><p> <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_Linear" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'How to Use Linear'});" target="_blank" rel="noopener"><img src="/img/Logo/Cracker9_Symbollogo.png?raw=true" alt="cracker9"></a></p><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;안녕하세요. 크래커나인 입니다.&lt;br&gt;이번에는 Cracker9 App으로 Linear Layout 코드를 생성해보도록 하겠습니다.&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;1-Cracker9에서
+      
+    
+    </summary>
+    
+      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
+    
+    
+      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
+    
+      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
+    
+      <category term="Layout" scheme="http://blog.cracker9.io/tags/Layout/"/>
+    
+  </entry>
   
   <entry>
     <title>스케치(Sketch)와 어도비(Adobe) XD, 차이점 비교</title>
@@ -373,247 +643,6 @@
   </entry>
   
   <entry>
-    <title>Tutorial - Android view Center &amp; Constraint Layout Bias 사용법</title>
-    <link href="http://blog.cracker9.io/2018/06/28/How-to-use-CenterBias/"/>
-    <id>http://blog.cracker9.io/2018/06/28/How-to-use-CenterBias/</id>
-    <published>2018-06-28T05:00:00.000Z</published>
-    <updated>2019-06-04T10:08:48.213Z</updated>
-    
-    <content type="html"><![CDATA[<p><span style="color:#4d4d4d">안녕하세요. 크래커나인 입니다.<br>Cracker9 사용은 익숙해지셨나요? 오늘은 Center와 Bias기능을 사용하여 코드를 생성하는 방법에 대해 알려드리도록 하겠습니다.</span></p><p><span style="color:#4d4d4d">안드로이드 스튜디오에는 Centerㅍ속성을 코드로 작성할 수 있는데요.<br>Cracker9에서는 어떻게 Center 코드를 생성할수 있는지 그리고 어떤 상황에서 Bias 기능을 사용하는지 알아보도록 하겠습니다.</span></p><hr><h3 id="1-Linear-Layout에서-Center"><a href="#1-Linear-Layout에서-Center" class="headerlink" title="1. Linear Layout에서 Center"></a>1. Linear Layout에서 Center</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> View Panel에서 아이템을 사용하여 Design Panel로 아이템을 끌어옵니다.<br><span style="color:#4d4d4d"><strong>STEP 02.</strong> 부모 아이템을 선택 후 오른쪽 Setting Panel에서 Layout 값을 Linear Layout으로 설정합니다. Horizontal , Vertical 어떤 것이든 상관 없습니다.<br><img src="/img/HowToUseCenterbias/01.jpg?raw=true" alt="Center_01"></span></span></p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 지난번 Linear Layout 사용법에 대해 설명했을 때 Gravity와 Linear_Layout Gravity에 대한 얘기를 했었습니다. <a href="https://cracker9.github.io/2018/06/27/How-to-use-Linear/" target="_blank" rel="noopener">Linear Layout 사용법 보러가기</a><br><span style="color:#4d4d4d"><strong>STEP 04.</strong> 부모를 선택하시면 오른쪽 Setting Panel에서 Gravity의 메뉴를 선택하시면 Center, Center Horizontal, Center Vertical을 설정할 수 있습니다.<br><img src="/img/HowToUseCenterbias/02.jpg?raw=true" alt="Center_02"></span></span></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><p><img src="/img/HowToUseCenterbias/03.jpg?raw=true" alt="Center_03"></p><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">Center 입력시 부모 안에 포함된 View들이 수평+수직 가운데에 놓이게 되며<br><span style="color:#4d4d4d">Center Horizontal 입력시 부모안에 포함된 View들이 수평 가운데에 놓이게 되며<br><span style="color:#4d4d4d">Center Vertical 입력시 부모안에 포함된 View들이 수직 가운데에 놓이게 됩니다.</span></span></span></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> 그리고 Linear Layout안에 있는 자식 아이템 선택 시 오른쪽 Setting Panel에서 Linear Layout_Gravity 메뉴를 선택하시면 되는데요. Linear Layout부모 방향이 Horizontal일 경우는 자식 아이템은 수직 방향으로만 설정할 수 있기 때문에 Center Vertical을, 부모 방향이 Vertical일 경우는 자식 이템은 수평 방향으로만 설정할 수 있기 때문에 Center Horiztontal을 선택할 수 있습니다.<br><img src="/img/HowToUseCenterbias/04.jpg?raw=true" alt="Center_04"></span></p><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><p><img src="/img/HowToUseCenterbias/05.jpg?raw=true" alt="Center_05"></p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><h3 id="2-Relative-Layout에서-Center"><a href="#2-Relative-Layout에서-Center" class="headerlink" title="2. Relative Layout에서 Center"></a>2. Relative Layout에서 Center</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> View Panel에서 아이템을 사용하여 Design Panel로 아이템을 끌어옵니다.<br><span style="color:#4d4d4d"><strong>STEP 02.</strong> 부모 아이템을 선택 후 Layout 값을 Relative로 변경합니다.<br><span style="color:#4d4d4d"><strong>STEP 03.</strong> 부모 안에 포함되어 있는 자식 아이템을 선택해주세요.<br><span style="color:#4d4d4d"><strong>STEP 04.</strong> 상단 Tool bar에서 Center 버튼을 선택해주세요. 이 때 Center Horizontal . Center Vertical 을 선택할 수 있는데, Center Horizontal을 선택해주세요.<br><img src="/img/HowToUseCenterbias/06.jpg?raw=true" alt="Center_06"></span></span></span></span></p><h1 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> 그러면 좌/우 연결점들이 연결할 수 없는 상태로 변경되는데 이는 Center Horizontal로 연결되었기 때문입니다.<br><img src="/img/HowToUseCenterbias/07.jpg?raw=true" alt="Center_07"></span></p><h1 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> 만약 Center Vertical을 입력하면 선택한 자식 아이템이 수직 방향 한 가운데로 이동하게 되며 상/하 연결점들이 연결할 수 없는 상태로 변경됩니다.<br><img src="/img/HowToUseCenterbias/08.jpg?raw=true" alt="Center_08"></span></p><h1 id="-8"><a href="#-8" class="headerlink" title=" "></a> </h1><h3 id="3-Constraint-Layout에서-Center"><a href="#3-Constraint-Layout에서-Center" class="headerlink" title="3. Constraint Layout에서 Center"></a>3. Constraint Layout에서 Center</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> 부모 아이템을 선택 후 Layout 값을 Constraint로 변경합니다.<br><span style="color:#4d4d4d"><strong>STEP 02.</strong> 부모안에 포함된 자식 아이템을 선택후 좌/우 연결점을 부모의 좌/우에 연결합니다.<br><img src="/img/HowToUseCenterbias/09.gif?raw=true" alt="Center_09"></span></span></p><h1 id="-9"><a href="#-9" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 그러면 자동으로 Center가 입력됩니다. Constraint는 아이템을 선택하고 연결점을 연결해야만 Tool bar의 Center 버튼이 활성화 되는데요, 만약 좌/우로 연결했으면 Center_Horizontal로 상/하로 연결했으면 Center_Vertical로 설정됩니다. 그리고 Constraint도 Relative와 마찬가지로 Center 입력 시 자동으로 아이템의 위치가 이동하게 됩니다.<br><span style="color:#4d4d4d"><strong>STEP 04.</strong> 나머지 텍스트 아이템도 Center로 연결합니다.<br><img src="/img/HowToUseCenterbias/10.jpg?raw=true" alt="Center_10"></span></span></p><h1 id="-10"><a href="#-10" class="headerlink" title=" "></a> </h1><h3 id="4-Constraint-Layout에서-Bias"><a href="#4-Constraint-Layout에서-Bias" class="headerlink" title="4. Constraint Layout에서 Bias"></a>4. Constraint Layout에서 Bias</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> Bias는 Constraint Layout에서만 사용할 수 있는 기능입니다. Constraint에서 하나의 아이템을 선택 하여 연결점을 좌/우로 연결했을 때 자동으로 Center로 설정됩니다. 하지만 만약 Center로 입력할 의도가 아니였다면 Bias로 바꾸어줘야 합니다.<br><img src="/img/HowToUseCenterbias/11.gif?raw=true" alt="Center_11"></span></p><h1 id="-11"><a href="#-11" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> 상단 Tool bar에서 Center 버튼 옆에 Bias 버튼을 눌러주세요.<br><img src="/img/HowToUseCenterbias/12.jpg?raw=true" alt="Center_12"></span></p><h1 id="-12"><a href="#-12" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">Bias도 Center와 마찬가지로 좌/우로 연결했을 때, Bias_Horizontal만 활성화되고 상/하로 연결했을 때 Bias_Vertical이 활성화 됩니다.</span></p><h1 id="-13"><a href="#-13" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> Center로 설정되었던 아이템이 원래 제자리로 이동되면서 Bias 값이 설정됩니다.<br><img src="/img/HowToUseCenterbias/13.gif?raw=true" alt="Center_13"></span></p><h1 id="-14"><a href="#-14" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> Setting Panel 아래의 Generate Code 버튼을 선택해주세요.<br><img src="/img/HowToUseCenterbias/14.jpg?raw=true" alt="Center_14"></span></p><h1 id="-15"><a href="#-15" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> Code Result Panel이 나오면 코드가 제대로 나왔는지 확인해주세요.<br><img src="/img/HowToUseCenterbias/15.jpg?raw=true" alt="Center_15"></span></p><h1 id="-16"><a href="#-16" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">위의 과정을 담은 영상을 첨부하니 참고해주세요.<br><a href="https://youtu.be/-9CXQIND5zw" target="_blank" rel="noopener"><img src="/img/HowToUseCenterbias/v07.jpg?raw=true" alt="Center_16"></a></span></p><p><span style="color:#4d4d4d">그럼, 그 외에 문의사항은 <a href="helloo@cracker9.io">hello@cracker9.io</a> 로 메일주세요!<br>크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.</span></p><p>Cracker9 이 없다면 ▶ <a href="http://cracker9.io/#skip-downloads" target="_blank" rel="noopener">클릭</a><br>Cracker9 으로 가운데 정렬과 Constraint Bias 을 설정 해 보고 싶다면  ▶ <a href="https://release.cracker9.io/code-snippet/artboards/4c3f2ad7-b284-4b5b-b371-e7525511fe9d" target="_blank" rel="noopener">클릭</a></p><hr><p> <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_CenterBias" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'How to Use CenterBias'});" target="_blank" rel="noopener"><img src="/img/Logo/Cracker9_Symbollogo.png?raw=true" alt="cracker9"></a></p><hr>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;안녕하세요. 크래커나인 입니다.&lt;br&gt;Cracker9 사용은 익숙해지셨나요? 오늘은 Center와 Bias기능을 사용하여 코드를 생성하는 방법에 대해 알려드리도록 하겠습니다.&lt;/span&gt;&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
-    
-    
-      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
-    
-      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
-    
-      <category term="Layout" scheme="http://blog.cracker9.io/tags/Layout/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Tutorial - Custom Layout 사용법</title>
-    <link href="http://blog.cracker9.io/2018/06/28/How-to-use-Custom/"/>
-    <id>http://blog.cracker9.io/2018/06/28/How-to-use-Custom/</id>
-    <published>2018-06-28T02:00:00.000Z</published>
-    <updated>2019-06-04T10:12:00.550Z</updated>
-    
-    <content type="html"><![CDATA[<p><span style="color:#4d4d4d">안녕하세요. 크래커나인 입니다.<br>Custom Layout은 디자이너가 만들어 주지 못한 영역을 개발자가 임의의 영역을 직접 그려 레이아웃을 구성 할 수 있도록 만든 기능입니다. 사용하는 방법은 매우 간편해서 쉽게 사용할 수 있습니다.</span></p><p><span style="color:#4d4d4d">먼저 Custom Layout이 필요한 경우를 알아볼까요?<br><img src="/img/HowToUseCustom/01.jpg?raw=true" alt="Custom_01"></span></p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">예를 들어 리스트로 되어 있는 디자인일 때 각각 하나의 리스트를 감싸주는 영역이 필요한데요. 이 때 디자이너가 미리 그 영역까지 그리지 않은 경우가 종종 있습니다. 그래서 이러한 경우 개발자가 직접 디자이너에게 요청하거나 직접 해당하는 영역을 그려야 합니다.</span></p><p><span style="color:#4d4d4d">이 외에도 영역이 필요할 경우 디자이너에게 요청하는 등의 커뮤니케이션이 발생하는데, Cracker9은 별도의 디자인 추가 작업 없이 개발자가 영역을 지정하는 Custom Layout 기능이 있습니다.</span></p><p><span style="color:#4d4d4d">자, 그럼 Custom Layout 으로 직접 영역을 만들어보도록 하겠습니다.<br>Custom Layout으로 영역을 생성하는 방법은 2가지가 있는데, 하나는 선택한 View들의 전체 크기로 만드는 방법과 또 다른 하나는 View를 선택하지 않고 만드는 방법입니다.</span></p><hr><h3 id="1-선택한-View들의-전체-크기로-Custom-Layout-생성"><a href="#1-선택한-View들의-전체-크기로-Custom-Layout-생성" class="headerlink" title="1. 선택한 View들의 전체 크기로 Custom Layout 생성"></a>1. 선택한 View들의 전체 크기로 Custom Layout 생성</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> View Panel에서 View를 선택한 후 Design Panel로 끌어옵니다.<br><img src="/img/HowToUseCustom/03.gif?raw=true" alt="Custom_01"></span></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> Custom Layout이 감싸야하는 View들을 선택해주세요.<br><img src="/img/HowToUseCustom/04.jpg?raw=true" alt="Custom_02"></span></p><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 상단 툴바에 보시면 Custom Layout을 만들어주는 버튼을 클릭합니다.<br><img src="/img/HowToUseCustom/02.jpg?raw=true" alt="Custom_03"></span></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> 내가 선택한 View를 감싸는 영역이 만들어지고 그 아래에 원본 스크린이 보이는데 그 영역을 참고하여 원하는 크기만큼 조절해줍니다.<br><img src="/img/HowToUseCustom/06.gif?raw=true" alt="Custom_04"></span></p><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> Save 버튼을 눌러주세요.</span></p><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> 필요한 영역이 생성되었습니다.<br><img src="/img/HowToUseCustom/07.jpg?raw=true" alt="Custom_05"></span></p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 07.</strong> Generate Code로 코드를 생성한 후 해당되는 코드를 확인하면 됩니다. Cracker9에서 제공하는 샘플을 이용하여 Custom Layout을 생성하였을 경우의 코드는 아래와 같습니다.<br><img src="/img/HowToUseCustom/08.jpg?raw=true" alt="Custom_06"></span></p><h1 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h1><h3 id="2-View를-선택하지-않고-Custom-Layout-생성"><a href="#2-View를-선택하지-않고-Custom-Layout-생성" class="headerlink" title="2. View를 선택하지 않고 Custom Layout 생성"></a>2. View를 선택하지 않고 Custom Layout 생성</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> Design Panel로 View를 끌어왔다면, View를 선택하지 않고 Custom Layout 버튼을 눌러주세요. View를 선택한 상태로 Custom Layout을 선택하면 그 크기만큼의 영역이 생성되기 때문에 선택되지 않아야 합니다.<br><img src="/img/HowToUseCustom/09.jpg?raw=true" alt="Custom_07"></span></p><h1 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> 마우스가 + 모양으로 바뀌면, 아래에 깔려진 원본 스크린을 참고하여 원하는 크기만큼 드래그 하여 영역을 그려줍니다.<br><img src="/img/HowToUseCustom/10.jpg?raw=true" alt="Custom_08"></span></p><h1 id="-8"><a href="#-8" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 원하는 크기로 영역을 그려졌다면 Save 버튼을 눌러 저장해주세요.</span></p><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> 완성된 모습은 위의 방법과 동일하며 코드 내용도 동일합니다.</span></p><h1 id="-9"><a href="#-9" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">View를 선택하지 않고, Custom Layout을 사용하면 보다 자유롭게 직접 그려서 영역을 생성 할 수 있다는 장점이 있습니다. 어느 쪽이든 편한 방법으로 사용하면 됩니다.</span></p><h1 id="-10"><a href="#-10" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">위의 과정을 담은 영상을 첨부하니 참고해주세요.<br><a href="https://youtu.be/s0UQzVVRk_c" target="_blank" rel="noopener"><img src="/img/HowToUseCustom/v06.jpg?raw=true" alt="Custom_09"></a></span></p><p><span style="color:#4d4d4d">그럼, 그 외에 문의사항은 <a href="helloo@cracker9.io">hello@cracker9.io</a> 로 메일주세요!<br>크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.</span></p><p>Cracker9 이 없다면 ▶ <a href="http://cracker9.io/#skip-downloads" target="_blank" rel="noopener">클릭</a><br>Cracker9 으로 Custom Layout 를 만들어 보고 싶다면  ▶ <a href="https://release.cracker9.io/code-snippet/artboards/ed96f4fe-8ad0-41f8-96b3-c7f4395eb7a5" target="_blank" rel="noopener">클릭</a></p><hr><p> <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_Custom" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'How to Use Custom'});" target="_blank" rel="noopener"><img src="/img/Logo/Cracker9_Symbollogo.png?raw=true" alt="cracker9"></a></p><hr>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;안녕하세요. 크래커나인 입니다.&lt;br&gt;Custom Layout은 디자이너가 만들어 주지 못한 영역을 개발자가 임의의 영역을 직접 그려 레이아웃을 구성 할 수 있도록 만든 기능입니다. 사용하는 방법
-      
-    
-    </summary>
-    
-      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
-    
-    
-      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
-    
-      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
-    
-      <category term="Layout" scheme="http://blog.cracker9.io/tags/Layout/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Tutorial - Constraint Layout의 Weight 사용법</title>
-    <link href="http://blog.cracker9.io/2018/06/27/How-to-use-Constraint-Weight/"/>
-    <id>http://blog.cracker9.io/2018/06/27/How-to-use-Constraint-Weight/</id>
-    <published>2018-06-27T05:30:00.000Z</published>
-    <updated>2019-06-04T10:10:29.887Z</updated>
-    
-    <content type="html"><![CDATA[<p><span style="color:#4d4d4d">안녕하세요. 크래커나인 입니다.<br>이번에는 Cracker9 App으로 Constraint Layout 코드를 생성해보도록 하겠습니다.</span></p><p><span style="color:#4d4d4d">지난번 Linear Layout에서 Weight를 사용하는 방법에 대해 다루면서 Linear와 Constraint에서 Weight를 사용하는 방법이 다르다고 언급했었습니다. 자, 그럼 Constraint Layout에서 Weight 입력을 어떻게 하는지 알아볼까요?</span></p><hr><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> View Panel에서 Design Panel로 아이템을 끌어옵니다.</span></p><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> Constraint에서 Weight를 주기 위해서는 부모가 아닌 자식 View를 선택해야 합니다. 또한 자식 View를 전부 선택하는 것이 아닌, 원하는 View를 선택하여 가변영역이 필요한 부분에 설정할 수 있습니다. 가변영역이 필요한 자식 View를 Ctrl 키 or Command 키를 누르면서 멀티 선택 합니다.<br><img src="/img/HowToUseConstraintWeight/01.jpg?raw=true" alt="Constraint_W01"></span></p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 상단의 Design Tool bar에서 Weight_horizontal 버튼을 눌러주세요.<br><img src="/img/HowToUseConstraintWeight/02.jpg?raw=true" alt="Constraint_W02"></span></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> 그림과 같이 Weight 편집 모드 상태가 되면 가변이 필요한 숫자 box [114dp]를 클릭하여 화살표 모양으로 바꿔줍니다.<br><img src="/img/HowToUseConstraintWeight/03.jpg?raw=true" alt="Constraint_W03"></span></p><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> Save버튼을 눌러주세요.</span></p><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> 오른쪽 Setting Panel에서 Weight list에 Weight가 생성되었는지 확인합니다.<br><img src="/img/HowToUseConstraintWeight/04.jpg?raw=true" alt="Constraint_W04"></span></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">원래 코드로 Constraint에 Weight를 주기 위해서는 Chain된 상태에서 방향에 따라  layout_width, 또는 layout_height에 0dp를 줍니다.</span></p><pre><code>android:layout_width="0dp"</code></pre><pre><code>android:layout_height="0dp"</code></pre><p><span style="color:#4d4d4d">그리고 weight를 설정해주면 weight 비율로 간격이 설정됩니다.</span></p><pre><code>app:layout_constraintVertical_weight="1"</code></pre><pre><code>app:layout_constraintHorizontal_weight="1"</code></pre><p><span style="color:#4d4d4d">Cracker9에서는 이를  Weight를 입력하면 자동으로 Chain 속성 부여될 수 있도록 하였습니다. 그래서 weight를 입력 후 Chain으로 묶여진 것을 바로 확인 할 수 있습니다.<br><img src="/img/HowToUseConstraintWeight/05.jpg?raw=true" alt="Constraint_W05"></span></p><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">주황색으로 연결된 부분은 Chain으로 연결되어있다는 표시입니다. 본래는 Chain으로 연결되면 아래와 같이 표시되는데, 현재 보여드린 샘플은 간격사이가 좁아서 Chain 연결선까지는 보여지지는 않습니다. 만일 간격사이가 좁았다면 아래와 같이 연결선이 보여집니다.<br><img src="/img/HowToUseConstraintWeight/06.jpg?raw=true" alt="Constraint_W06"></span></p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 07.</strong> Setting Panel 아래의 Generate Code 버튼을 선택해주세요.<br><img src="/img/HowToUseConstraintWeight/07.jpg?raw=true" alt="Constraint_W07"></span></p><h1 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 08.</strong> Code Result Panel이 나오면 코드가 제대로 나왔는지 확인해주세요.<br><img src="/img/HowToUseConstraintWeight/08.jpg?raw=true" alt="Constraint_W08"></span></p><h1 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">위의 과정을 담은 영상을 첨부하니 참고해주세요.<br><a href="https://youtu.be/eVKLorgs12A" target="_blank" rel="noopener"><img src="/img/HowToUseConstraintWeight/v05.jpg?raw=true" alt="constraint_W09"></a></span></p><p><span style="color:#4d4d4d">그럼, 그 외에 문의사항은 <a href="helloo@cracker9.io">hello@cracker9.io</a> 로 메일주세요!<br>크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다. <br><br></span></p><p>Cracker9 이 없다면 ▶ <a href="http://cracker9.io/#skip-downloads" target="_blank" rel="noopener">클릭</a><br>Cracker9 으로 Constraint Layout 의 Weight 사용 해보고 싶다면  ▶ <a href="https://release.cracker9.io/code-snippet/artboards/23821565-f6e0-44a9-8928-f0bf15f98005" target="_blank" rel="noopener">클릭</a></p><hr><p> <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_Constraint_Weight" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'How to Use Constraint Weight'});" target="_blank" rel="noopener"><img src="/img/Logo/Cracker9_Symbollogo.png?raw=true" alt="cracker9"></a></p><hr>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;안녕하세요. 크래커나인 입니다.&lt;br&gt;이번에는 Cracker9 App으로 Constraint Layout 코드를 생성해보도록 하겠습니다.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;color
-      
-    
-    </summary>
-    
-      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
-    
-    
-      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
-    
-      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
-    
-      <category term="Layout" scheme="http://blog.cracker9.io/tags/Layout/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Tutorial - Constraint Layout 사용법</title>
-    <link href="http://blog.cracker9.io/2018/06/27/How-to-use-Constraint/"/>
-    <id>http://blog.cracker9.io/2018/06/27/How-to-use-Constraint/</id>
-    <published>2018-06-27T03:00:00.000Z</published>
-    <updated>2019-06-04T10:10:33.363Z</updated>
-    
-    <content type="html"><![CDATA[<p><span style="color:#4d4d4d">안녕하세요. 크래커나인 입니다.<br>오늘은 Constraint Layout을 사용하여 코드를 생성해보도록 하겠습니다.</span></p><hr><h3 id="1-Constraint-Layout-소개"><a href="#1-Constraint-Layout-소개" class="headerlink" title="1. Constraint Layout 소개"></a>1. Constraint Layout 소개</h3><p><span style="color:#4d4d4d">Constraint Layout은 2016년 Google I/O에서 처음 소개되었습니다. Constraint Layout이라는 개념은 개발자가 인터페이스를 더욱 풍부한 표현 방식으로 개발할 수 있도록 제공하기 시작했습니다.<br>더 정확한 Constraint Layout에 대한 설명은 이곳을 참고해주세요.<br><a href="https://developer.android.com/reference/android/support/constraint/ConstraintLayout" target="_blank" rel="noopener">참고 사이트</a></span></p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><h3 id="2-Cracker9에서-관계맺기-방법"><a href="#2-Cracker9에서-관계맺기-방법" class="headerlink" title="2. Cracker9에서 관계맺기 방법"></a>2. Cracker9에서 관계맺기 방법</h3><p><span style="color:#4d4d4d">관계 맺는 방법은 지난번 설명했던 Relative에서 관계 맺기와 동일 합니다.</span></p><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> View Panel에서 Constraint로 코드를 구성할 View를 선택 후 Design Panel로 옮겨줍니다.<br><img src="/img/HowToUseConstraint/00.gif?raw=true" alt="Constraint00"></span></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> 부모 안에 포함된 첫번째 View를 선택하세요. 그리고 View의 왼쪽을 부모의 왼쪽과 연결해주세요.<br><img src="/img/HowToUseConstraint/01.jpg?raw=true" alt="Constraint01"></span></p><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong>. View의 상단을 부모의 상단과 연결합니다.<br><img src="/img/HowToUseConstraint/02.jpg?raw=true" alt="Constraint02"></span></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> 두번째 View을 선택 후 View의 왼쪽을 첫번째 View의 왼쪽과 연결합니다.<br><img src="/img/HowToUseConstraint/03.jpg?raw=true" alt="Constraint03"></span></p><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> 두번째 View의 상단을 첫번째 View의 하단과 연결합니다.<br><img src="/img/HowToUseConstraint/04.jpg?raw=true" alt="Constraint04"></span></p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> 세번째 View를 선택 후 부모의 상단과 연결합니다. 그 후 하단을 부모의 하단과 연결하여 Center로 만들어줍니다.<br><img src="/img/HowToUseConstraint/05_1.jpg?raw=true" alt="Constraint05"><br><img src="/img/HowToUseConstraint/05_2.jpg?raw=true" alt="Constraint05"></span></p><h1 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 07.</strong> 세번째 View의 오른쪽을 네번째 View의 왼쪽과 연결합니다.<br><img src="/img/HowToUseConstraint/06.jpg?raw=true" alt="Constraint06"></span></p><h1 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 08.</strong><br>네번째 View를 선택 후 부모의 상단과 연결합니다. 그 후 하단을 부모의 하단과 연결하여 Center로 만들어줍니다.<br><img src="/img/HowToUseConstraint/07_1.jpg?raw=true" alt="Constraint07"><br><img src="/img/HowToUseConstraint/07_2.jpg?raw=true" alt="Constraint07"></span></p><h1 id="-8"><a href="#-8" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 09.</strong> 네번째 View의 오른쪽을 부모의 오른쪽과 연결합니다.<br><img src="/img/HowToUseConstraint/08.jpg?raw=true" alt="Constraint08"></span></p><h1 id="-9"><a href="#-9" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 10.</strong> 전부된 연결된 모습은 아래와 같습니다.<br><img src="/img/HowToUseConstraint/09.jpg?raw=true" alt="Constraint09"></span></p><h1 id="-10"><a href="#-10" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 11.</strong> 더 정확한 이해를 돕기 위해 영상을 첨부했습니다.<br><a href="https://youtu.be/hs54q9w5Vi0" target="_blank" rel="noopener"><img src="/img/HowToUseConstraint/v04.jpg?raw=true" alt="Constraint14"></a>  </span></p><h1 id="-11"><a href="#-11" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 12.</strong> Constraint Layout도 마찬가지로 View끼리 서로 연결된 결과는 각각 View를 선택해도 확인할 수 있으며, 더 자세한 사항은 오른쪽 Setting Panel &gt; Relation에서도 확인 할 수 있습니다. 이때 방향 값은 Relative와 다르게 표현됩니다.<br><img src="/img/HowToUseConstraint/11.jpg?raw=true" alt="Constraint11"></span></p><h1 id="-12"><a href="#-12" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 13.</strong> Setting Panel 아래의 Generate Code 버튼을 선택해주세요.<br><img src="/img/HowToUseConstraint/12.jpg?raw=true" alt="Constraint12"></span></p><h1 id="-13"><a href="#-13" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 14.</strong> Code Result Panel이 나오면 코드가 제대로 나왔는지 확인해주세요.<br><img src="/img/HowToUseConstraint/13.jpg?raw=true" alt="Constraint13"></span></p><h1 id="-14"><a href="#-14" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">그럼, 그 외에 문의사항은 <a href="helloo@cracker9.io">hello@cracker9.io</a> 로 메일주세요!<br>크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.</span></p><p>Cracker9 이 없다면 ▶ <a href="http://cracker9.io/#skip-downloads" target="_blank" rel="noopener">클릭</a><br>Cracker9으로 Constraint Layout 을 구성 해 보고 싶다면  ▶ <a href="https://release.cracker9.io/code-snippet/artboards/e7916c1c-0fbb-4df1-a323-fc8a3ef48db4" target="_blank" rel="noopener">클릭</a></p><hr><p> <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_Constraint" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'How to Use Constraint'});" target="_blank" rel="noopener"><img src="/img/Logo/Cracker9_Symbollogo.png?raw=true" alt="cracker9"></a></p><hr>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;안녕하세요. 크래커나인 입니다.&lt;br&gt;오늘은 Constraint Layout을 사용하여 코드를 생성해보도록 하겠습니다.&lt;/span&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&quot;1-Constraint-Layou
-      
-    
-    </summary>
-    
-      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
-    
-    
-      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
-    
-      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
-    
-      <category term="Layout" scheme="http://blog.cracker9.io/tags/Layout/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Tutorial - Relative Layout 사용법</title>
-    <link href="http://blog.cracker9.io/2018/06/27/how-to-use-Relative/"/>
-    <id>http://blog.cracker9.io/2018/06/27/how-to-use-Relative/</id>
-    <published>2018-06-27T01:00:00.000Z</published>
-    <updated>2019-06-04T10:14:39.851Z</updated>
-    
-    <content type="html"><![CDATA[<p><span style="color:#4d4d4d">안녕하세요. 크래커나인 입니다.<br>오늘은 Relaitve Layout을 사용하여 코드를 생성해보도록 하겠습니다.</span></p><hr><h3 id="1-Relative-Layout-소개"><a href="#1-Relative-Layout-소개" class="headerlink" title="1. Relative Layout 소개"></a>1. Relative Layout 소개</h3><p><span style="color:#4d4d4d">Relative는 부모 혹은 다른 자식 View와의 상대적 위치를 이용해 화면을 구성하는 방법입니다.<br>더 정확한 Relative Layout에 대한 설명은 이곳을 참고해주세요.<br><a href="https://developer.android.com/guide/topics/ui/layout/relative" target="_blank" rel="noopener">참고 사이트</a></span></p><p><span style="color:#4d4d4d">기준이 되는 View A와 다른 View B가 있다면<br><img src="/img/HowToUseRelative/01.jpg?raw=true" alt="Relative01"></span></p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">아래와 같은 경우는 ‘B가 A의 왼쪽에 배치한다’ 입니다. 코드는 android:layout_toLeftOf=A 를 작성합니다.<br><img src="/img/HowToUseRelative/02.jpg?raw=true" alt="Relative02"></span></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">다음은 ‘B가 A의 위에 배치한다’ 입니다. 코드는 android:layout_above=A를 작성합니다.<br><img src="/img/HowToUseRelative/03.jpg?raw=true" alt="Relative03"></span></p><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">아래와 같은 경우는 B를 A와 왼쪽 변을 맞추는 것입니다. 코드는 android:layout_alignLeft=A 를 작성합니다<br><img src="/img/HowToUseRelative/04.jpg?raw=true" alt="Relative04"></span></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">만일 View A가 View B를 포함하는 부모이고,<br>B를 부모와 왼쪽 변을 맞추면 코드는 android:layout_alignParentLeft=True 를 작성합니다.<br><img src="/img/HowToUseRelative/05.jpg?raw=true" alt="Relative05"></span></p><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">B를 부모의 수직,수평 중앙에 맞추면 코드는 android:layout_centerParent=True 를 작성합니다.<br><img src="/img/HowToUseRelative/06.jpg?raw=true" alt="Relative06"></span></p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">Relative는 부모 Layout과 자식 view 혹은 자식 view들간의 관계가 필요합니다.<br>Cracker9 툴은 이를 코드로 작성하지 않고 마우스로 연결하여 쉽게 관계를 맺을 수 있습니다.</span></p><h3 id="2-Cracker9에서-관계맺기-방법"><a href="#2-Cracker9에서-관계맺기-방법" class="headerlink" title="2. Cracker9에서 관계맺기 방법"></a>2. Cracker9에서 관계맺기 방법</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> Relative로 코드를 구성할 View 선택 후 Design Panel로 옮겨줍니다.<br><img src="/img/HowToUseRelative/07.gif?raw=true" alt="Relative07"></span></p><h1 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> 오른쪽 Setting Panel에서 Layout을 Relative로 설정합니다.<br><img src="/img/HowToUseRelative/07.jpg?raw=true" alt="Relative08"></span></p><h1 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 부모 안에 포함된 자식 View을 선택하세요.관계를 맺을 수 있는 아이템을 선택하면 위와 같이 보여지며,<br><img src="/img/HowToUseRelative/08.jpg?raw=true" alt="Relative09"></span></p><h1 id="-8"><a href="#-8" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">연결 상태는 다음과 같습니다.<br><img src="/img/HowToUseRelative/09.jpg?raw=true" alt="Relative10"></span></p><h1 id="-9"><a href="#-9" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> View 선택 후 View의 왼쪽을 부모와 연결합니다.<br><img src="/img/HowToUseRelative/10.jpg?raw=true" alt="Relative11"></span></p><h1 id="-10"><a href="#-10" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> View 선택 후 View의 상단을 부모 상단과 연결합니다.<br><img src="/img/HowToUseRelative/11.jpg?raw=true" alt="Relative12"></span></p><h1 id="-11"><a href="#-11" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> 두번째 View 선택 후 View의 왼쪽을 첫번째 View의 오른쪽과 연결합니다.<br><img src="/img/HowToUseRelative/12.jpg?raw=true" alt="Relative13"></span></p><h1 id="-12"><a href="#-12" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 07.</strong> 두번째 View 선택 후 View의 상단을 부모의 상단과 연결합니다.<br><img src="/img/HowToUseRelative/13.jpg?raw=true" alt="Relative14"></span></p><h1 id="-13"><a href="#-13" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 08.</strong> 세번째 아이템 선택 후 아이템의 왼쪽을 두번째 아이템의 왼쪽과 연결합니다.<br><img src="/img/HowToUseRelative/14.jpg?raw=true" alt="Relative15"></span></p><h1 id="-14"><a href="#-14" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 09.</strong> 세번째 아이템 선택 후 아이템의 상단을 두번째 아이템의 하단과 연결합니다.<br><img src="/img/HowToUseRelative/15.jpg?raw=true" alt="Relative16"></span></p><h1 id="-15"><a href="#-15" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 10.</strong> 더 정확한 이해를 돕기 위해 영상을 첨부했습니다.<br><a href="https://youtu.be/2JvLv_PYAxU" target="_blank" rel="noopener"><img src="/img/HowToUseRelative/v03.jpg?raw=true" alt="Relative20"></a>  </span></p><h1 id="-16"><a href="#-16" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 11.</strong> View끼리 서로 연결된 결과는 각각 View를 선택해도 확인할 수 있지만, 더 자세한 사항은 오른쪽 Setting Panel &gt; Relation에서도 확인 할 수 있습니다.<br><img src="/img/HowToUseRelative/17.jpg?raw=true" alt="Relative17"></span></p><h1 id="-17"><a href="#-17" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 12.</strong> Setting Panel 아래의 Generate Code 버튼을 선택해주세요.<br><img src="/img/HowToUseRelative/18.jpg?raw=true" alt="Relative18"></span></p><h1 id="-18"><a href="#-18" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 13.</strong> Code Result Panel이 나오면 코드가 제대로 나왔는지 확인해주세요.<br><img src="/img/HowToUseRelative/19.jpg?raw=true" alt="Relative19"></span></p><h1 id="-19"><a href="#-19" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">그럼, 그 외에 문의사항은 <a href="helloo@cracker9.io">hello@cracker9.io</a> 로 메일주세요!<br>크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.</span></p><p>Cracker9 이 없다면 ▶ <a href="http://cracker9.io/#skip-downloads" target="_blank" rel="noopener">클릭</a><br>Cracker9 으로 Relative Layout 을 구성 해 보고 싶다면  ▶ <a href="https://release.cracker9.io/code-snippet/artboards/be4ccebc-60f7-4269-82da-3b4ec553d99b" target="_blank" rel="noopener">클릭</a></p><hr><p> <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_Relative" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'How to Use Relative'});" target="_blank" rel="noopener"><img src="/img/Logo/Cracker9_Symbollogo.png?raw=true" alt="cracker9"></a></p><hr>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;안녕하세요. 크래커나인 입니다.&lt;br&gt;오늘은 Relaitve Layout을 사용하여 코드를 생성해보도록 하겠습니다.&lt;/span&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&quot;1-Relative-Layout-소개
-      
-    
-    </summary>
-    
-      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
-    
-    
-      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
-    
-      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
-    
-      <category term="Layout" scheme="http://blog.cracker9.io/tags/Layout/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Tutorial - Linear Layout의 Weight 사용법</title>
-    <link href="http://blog.cracker9.io/2018/06/26/How-to-use-Linear-Weight/"/>
-    <id>http://blog.cracker9.io/2018/06/26/How-to-use-Linear-Weight/</id>
-    <published>2018-06-26T07:40:06.000Z</published>
-    <updated>2019-06-04T10:15:11.166Z</updated>
-    
-    <content type="html"><![CDATA[<p><span style="color:#4d4d4d">안녕하세요. 크래커나인 입니다.<br>이번에는 Linear Layout에서 Weight 기능을 사용해보도록 하겠습니다.</span></p><p><span style="color:#4d4d4d">Cracker9 App을 실행하신 후 상단 부분을 보시면 Design Tool bar가 있습니다.<br><img src="/img/HowToUseLinearWeight/01.jpg?raw=true" alt="Linear_W01"></span></p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">이 중에서 Weight 기능을 다룰건데요, Cracker9에서 Weight는 Linear Layout과 Constraint Layout에서 사용할 수 있습니다. 그리고 두 Layout마다 Weight를 사용하는 방법이 다릅니다.<br>Linear Layout은 반드시 부모 Layout을 선택 해야만 Weight를 입력할 수 있습니다.<br>이와 반대로 Constraint Layout의 경우에는 자식 View를 선택해야 Weight를 입력할 수 있는데요. 이 부분은 나중에 Constraint Layout 에서 좀 더 자세히 다루도록 하겠습니다.<br>자 그럼, Linear Layout에서 Weight를 사용하는 방법에 대해 알려드리겠습니다.</span></p><hr><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> Design Panel로 View를 끌어옵니다.<br><img src="/img/HowToUseLinearWeight/02.gif?raw=true" alt="Linear_W02"></span></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> 오른쪽 Setting Panel에서 Layout을 Linear Horizontal로 설정합니다.<br><img src="/img/HowToUseLinearWeight/03.jpg?raw=true" alt="Linear_W03"></span></p><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 상단의 Design Tool bar에서 Weight Horizontal 버튼을 선택해주세요.<br><img src="/img/HowToUseLinearWeight/04.jpg?raw=true" alt="Linear_W04"></span></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> 그림과 같이 Weight 편집 모드 상태가 되면 가변영역인 부분을 선택합니다.<br>숫자 box [50dp]를 선택하면 [화살표]모양으로 바뀝니다. 화살표 아이콘으로 바뀌어야 가변이 적용된 것입니다.<br><img src="/img/HowToUseLinearWeight/05.jpg?raw=true" alt="Linear_W05"></span></p><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> Save버튼을 눌러주세요.</span></p><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> 오른쪽 Setting Panel에서 Weight list에 Weight가 생성되었는지 확인합니다.<br><img src="/img/HowToUseLinearWeight/06.jpg?raw=true" alt="Linear_W06"></span></p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 07.</strong> 아래의 Generate Code 버튼을 선택합니다.<br><img src="/img/HowToUseLinear/06.jpg?raw=true" alt="Linear_W07"></span></p><h1 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 08.</strong> Code Result Panel이 나오면 코드가 제대로 나왔는지 확인해주세요.<br><img src="/img/HowToUseLinearWeight/08.jpg?raw=true" alt="Linear_W08"></span></p><h1 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">위의 과정을 담은 영상을 첨부하니 참고해주세요.<br><a href="https://youtu.be/klHAy3X2xDw" target="_blank" rel="noopener"><img src="/img/HowToUseLinear/v01.jpg?raw=true" alt="Linear_W09"></a></span></p><p><span style="color:#4d4d4d">그럼, 그 외에 문의사항은 <a href="helloo@cracker9.io">hello@cracker9.io</a> 로 메일주세요!<br>크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.</span></p><p>Cracker9 이 없다면 ▶ <a href="http://cracker9.io/#skip-downloads" target="_blank" rel="noopener">클릭</a><br>Cracker9 으로 Linear Layout의 Weight 를 주고 싶다면  ▶ <a href="https://release.cracker9.io/code-snippet/artboards/b02d9d15-4c22-4451-9e8e-56226dc963c9" target="_blank" rel="noopener">클릭</a></p><hr><p> <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_Linear_weight" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'How to Use Linear weight'});" target="_blank" rel="noopener"><img src="/img/Logo/Cracker9_Symbollogo.png?raw=true" alt="cracker9"></a></p><hr>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;안녕하세요. 크래커나인 입니다.&lt;br&gt;이번에는 Linear Layout에서 Weight 기능을 사용해보도록 하겠습니다.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;
-      
-    
-    </summary>
-    
-      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
-    
-    
-      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
-    
-      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
-    
-      <category term="Layout" scheme="http://blog.cracker9.io/tags/Layout/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Tutorial - Linear Layout 사용법</title>
-    <link href="http://blog.cracker9.io/2018/06/26/How-to-use-Linear/"/>
-    <id>http://blog.cracker9.io/2018/06/26/How-to-use-Linear/</id>
-    <published>2018-06-26T01:21:10.000Z</published>
-    <updated>2019-06-04T10:13:27.780Z</updated>
-    
-    <content type="html"><![CDATA[<p><span style="color:#4d4d4d">안녕하세요. 크래커나인 입니다.<br>이번에는 Cracker9 App으로 Linear Layout 코드를 생성해보도록 하겠습니다.</span></p><hr><h3 id="1-Cracker9에서-사용"><a href="#1-Cracker9에서-사용" class="headerlink" title="1. Cracker9에서 사용"></a>1. Cracker9에서 사용</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> 레이아웃을 구성해야하는 View들을 왼쪽에 있는 View Panel에서 선택합니다. 이 때 Shift를 누르고 선택을 원하는 영역을 드래그 하거나 Ctrl (혹은 Command)를 누르고 View를 하나씩 선택해주세요.<br><img src="/img/HowToUseLinear/01.jpg?raw=true" alt="Linear01"></span></p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> 선택된 View를 오른쪽에 있는 Design Panel로 끌어옵니다.<br><img src="/img/HowToUseLinear/02.gif?raw=true" alt="Linear02"></span></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 오른쪽 사이드에 있는 Setting Panel에서 View를 감싸는 최상위의 Layout을 Linear Horizontal로 설정합니다. Cracker9에서 기본으로 설정되는 Layout은 Constraint이기 때문입니다.<br><img src="/img/HowToUseLinear/03.jpg?raw=true" alt="Linear03"></span></p><p><span style="color:#4d4d4d">Linear Layout이 자식 View를 나열하는 방향은 Horizontal과 Vertical 2가지로 나뉘는데요.<br>Cracker9의 Linear Layout은 2가지 중 1가지를 선택할 수 있습니다. Tutorial의 샘플은 자식 view들이 수평적으로 정렬되기 때문에 Linear Horizontal로 설정해주세요.</span></p><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> Gravity는 현재의 View 안에 있는 내용들을 어디에 놓을 것인지를 지정하는 속성이고, layout_gravity는 부모 View 안에서 자식의 View를 어디에 놓을 것인지를 지정하는 속성입니다.<br>그래서 Cracker9에서는 부모 View를 선택하면 ‘android:gravity’ 속성을 설정할 수 있고, 자식 View를 선택하면 ‘android:layout_gravity’ 속성을 설정 할 수 있습니다.</span></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><p><img src="/img/HowToUseLinear/04.jpg?raw=true" alt="Linear04"><br><img src="/img/HowToUseLinear/05.jpg?raw=true" alt="Linear05"></p><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">이 샘플에서 Gravity가 꼭 필요하진 않으니 설정하지 않아도 됩니다.</span></p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> Setting Panel 아래의 Generate Code 버튼을 선택해주세요.<br><img src="/img/HowToUseLinear/06.jpg?raw=true" alt="Linear06"></span></p><h1 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> Code Result Panel이 나오면 코드가 제대로 나왔는지 확인해주세요.<br><img src="/img/HowToUseLinear/07.jpg?raw=true" alt="Linear07"></span></p><h1 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h1><h3 id="2-Android-studio에서-사용"><a href="#2-Android-studio에서-사용" class="headerlink" title="2. Android studio에서 사용"></a>2. Android studio에서 사용</h3><p><span style="color:#4d4d4d">자 이제 거의 다 왔습니다. 생성된 코드를 안드로이드 스튜디오에서 사용하는지 알아볼까요?</span></p><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> Code Result Panel에서 Copy 버튼을 선택 해주세요.<br><img src="/img/HowToUseLinear/08.jpg?raw=true" alt="Linear08"></span></p><h1 id="-8"><a href="#-8" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> 안드로이드 스튜디오 xml에 Ctrl + V하여 코드를 붙여넣기 합니다.<br><img src="/img/HowToUseLinear/09.jpg?raw=true" alt="Linear09"></span></p><h1 id="-9"><a href="#-9" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 코드에서 빨간색 글씨가 나온다면, 해당하는 리소스 파일이 폴더에 없기 때문에 표시되는 것입니다. Cracker9에 drawable 리소스가 생성 되었으니 안드로이드 스튜디오에도 draw xml을 생성합니다.<br><img src="/img/HowToUseLinear/10.jpg?raw=true" alt="Linear10"><br>Cracker9에서 draw1의 Copy버튼을 눌러서 코드를 복사해주세요.</span></p><h1 id="-10"><a href="#-10" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> 안드로이드 스튜디오로 넘어와서  project 패널 &gt; app &gt; res &gt; drawable을 선택하고 마우스 오른쪽을 클릭하세요. 아래와 같이 drawable 리소스 파일을 생성해줍니다.<br><img src="/img/HowToUseLinear/11.jpg?raw=true" alt="Linear11"></span></p><h1 id="-11"><a href="#-11" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> 아래의 창에 xml이름을 입력합니다. 이때 Cracker9에서 생성된 draw이름과 동일해야 합니다.<br><img src="/img/HowToUseLinear/12.jpg?raw=true" alt="Linear12"></span></p><h1 id="-12"><a href="#-12" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> draw xml이 drawable 폴더에 맞게 생성되었는지 확인해주세요.<br><img src="/img/HowToUseLinear/04.jpg?raw=true" alt="Linear13"></span></p><h1 id="-13"><a href="#-13" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 07.</strong> 아까와 같이 Ctrl+V 하여  draw 코드를 붙여넣기 해주세요.<br><img src="/img/HowToUseLinear/14.jpg?raw=true" alt="Linear14"></span></p><h1 id="-14"><a href="#-14" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 08.</strong> Color 리소스는 좀 더 쉽습니다. Project 패널에 이미 나와있는 color xml을 더블클릭하여 오픈 후 Cracker9에서 Color코드를 복사하여 붙여넣기 해주세요.<br><img src="/img/HowToUseLinear/15.jpg?raw=true" alt="Linear15"></span></p><p>Color에 다른 코드가 작성되어 있다면, Cracker9에서 필요한 코드만 마우스로 드래그하여 복사하고 붙여넣기 할 수 있습니다.<br><img src="/img/HowToUseLinear/16.jpg?raw=true" alt="Linear16"></p><h1 id="-15"><a href="#-15" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 09.</strong> 마지막으로 Asset을 넣어보도록 하겠습니다.<br>Cracer9 App 상단에 보시면 Asset을 다운로드 할 수 있는 버튼을 선택한 후 폴더를 지정하여 다운로드 합니다.<br><img src="/img/HowToUseLinear/17.jpg?raw=true" alt="Linear17"></span></p><h1 id="-16"><a href="#-16" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 10.</strong> 다운로드 된 파일을 확인 후 해상도에 맞는 Asset 파일들을 선택합니다. 그리고 안드로이드 스튜디오에서 생성한 프로젝트의 drawable 리소스 폴더로 이동해주세요.<br><img src="/img/HowToUseLinear/18.jpg?raw=true" alt="Linear18"></span></p><h1 id="-17"><a href="#-17" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 11.</strong> 안드로이드 스튜디오 프로젝트에 Asset 리소스가 자동으로 올라오게 됩니다.<br><img src="/img/HowToUseLinear/19.jpg?raw=true" alt="Linear19"></span></p><h1 id="-18"><a href="#-18" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">이것으로 Linear Layout을 사용하는 방법과 생성된 코드를 안드로이드 스튜디오에서 어떻게 사용하는지 알아 보았습니다. 생성된 코드를 사용하는 방법은 모두 동일합니다. Cracker9을 사용하여 코드를 쉽고 빠르게 생성하고 레이아웃을 완성해보세요.</span></p><h1 id="-19"><a href="#-19" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">위의 과정을 담은 영상을 첨부하니 참고해주세요.<br><a href="https://youtu.be/mLO5JiA3y-U" target="_blank" rel="noopener"><img src="/img/HowToUseLinear/v01.jpg?raw=true" alt="Linear20"></a></span></p><p><span style="color:#4d4d4d">그럼, 그 외에 문의사항은 <a href="helloo@cracker9.io">hello@cracker9.io</a> 로 메일주세요!<br>크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.</span></p><p>Cracker9 이 없다면 ▶ <a href="http://cracker9.io/#skip-downloads" target="_blank" rel="noopener">클릭</a><br>Cracker9 으로 Linear Layout 을 구성 해 보고 싶다면  ▶ <a href="https://release.cracker9.io/code-snippet/artboards/cd9414cf-f46d-4db0-aea8-334a1472d33d" target="_blank" rel="noopener">클릭</a></p><hr><p> <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_Linear" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'How to Use Linear'});" target="_blank" rel="noopener"><img src="/img/Logo/Cracker9_Symbollogo.png?raw=true" alt="cracker9"></a></p><hr>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;안녕하세요. 크래커나인 입니다.&lt;br&gt;이번에는 Cracker9 App으로 Linear Layout 코드를 생성해보도록 하겠습니다.&lt;/span&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&quot;1-Cracker9에서
-      
-    
-    </summary>
-    
-      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
-    
-    
-      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
-    
-      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
-    
-      <category term="Layout" scheme="http://blog.cracker9.io/tags/Layout/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Tutorial - Sketch Plugin 사용법</title>
-    <link href="http://blog.cracker9.io/2018/06/25/how-to-use-plugin/"/>
-    <id>http://blog.cracker9.io/2018/06/25/how-to-use-plugin/</id>
-    <published>2018-06-25T09:00:00.000Z</published>
-    <updated>2019-06-04T09:41:36.985Z</updated>
-    
-    <content type="html"><![CDATA[<p><span style="color:#4d4d4d"><br>안녕하세요. 크래커나인 입니다.<br>Cracker9 App을 사용하기 위해서는 먼저 Sketch로 디자인된 Screen이 필요한데요.<br>디자인된 Screen은 Cracker9 Plugin으로 링크 생성을 할 수 있기 때문이죠.<br>자 그럼 Cracker9 Plugin을 사용하여 Screen 추출과 링크를 생성해볼까요?<br>아직 Cracker9을 다운로드 받지 않으신 분은 <a href="http://cracker9.io" target="_blank" rel="noopener">http://cracker9.io</a> 에서 다운로드 받아 주세요.</span></p><hr><h3 id="1-Sketch에서-Export하기"><a href="#1-Sketch에서-Export하기" class="headerlink" title="1. Sketch에서 Export하기"></a>1. Sketch에서 Export하기</h3><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> Sketch 파일에서 레이어를 선택한 후 화면의 오른쪽 아래에서 “Make Exportable” 을 선택하십시오.<br><img src="/img/HowToUsePlugIn/01.jpg?raw=true" alt="Plugin01">  </span></p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> Make Exportable하면 아래 그림과 같이 변경됩니다.<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/02.jpg?raw=true" alt="Plugin02"></span></p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 03.</strong> 그리고 왼쪽 레이어 리스트에는 선택한 레이어에 칼 모양이 생깁니다.<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/03.jpg?raw=true" alt="Plugin03"></span></p><h1 id="-2"><a href="#-2" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 04.</strong> 필요한 이미지들을 Asset으로 만들었다면, Ctrl + S 를 눌러서 스케치를 저장을 해주세요. 그리고 전달할 스크린, 즉 아트보드를 선택 후 Sketch 메뉴에서 ‘Plugins &gt; Cracker9 &gt; Export Selected Artboards’를 선택해주세요.<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/04.jpg?raw=true" alt="Plugin04"></span></p><h1 id="-3"><a href="#-3" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 05.</strong> 위와 같은 팝업에서 아트보드 링크를 설정해주면 됩니다. (만약, 로그인을 하지 않았다면 로그인 화면이 실행되므로 로그인한 후 진행해주시길 바랍니다.)<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/05.jpg?raw=true" alt="Plugin05"></span></p><h1 id="-4"><a href="#-4" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 06.</strong> 먼저 아트보드의 플랫폼을 지정한 후, 그에 따른 해상도를 지정하면 되는데요.<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/06.jpg?raw=true" alt="Plugin06"></span></p><h1 id="-5"><a href="#-5" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 07.</strong> Android의 경우에는 DPI를 iOS와 Web의 경우에는 Resolution을 설정하면 됩니다.<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/07.gif?raw=true" alt="Plugin07"></span></p><h1 id="-6"><a href="#-6" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 08.</strong> 그 다음 비밀번호를 설정하면 Export 할 수 있도록 버튼이 활성화 됩니다.<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/08.gif?raw=true" alt="Plugin08"></span></p><h1 id="-7"><a href="#-7" class="headerlink" title=" "></a> </h1><h3 id="2-Cracker9-App으로-확인하기"><a href="#2-Cracker9-App으로-확인하기" class="headerlink" title="2. Cracker9 App으로 확인하기"></a>2. Cracker9 App으로 확인하기</h3><p><span style="color:#4d4d4d">Export가 완료되면 자동으로 Cracker9 App이 실행되며 생성한 링크 리스트가 보여집니다. 생성된 링크는 Created Link 리스트에서 확인할 수 있습니다.<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/09.jpg?raw=true" alt="Plugin09"></span></p><div style="margin-bottom: 130px"><br><span style="color:#4d4d4d">링크 리스트 사용 방법은 아래와 같습니다.<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/10.jpg?raw=true" alt="Plugin10"><br></span></div><p><span style="color:#4d4d4d"><strong>STEP 01.</strong> Sketch Artboards 이름을 선택하면 해당하는 스크린을 작업 할 수 있는 화면으로 이동합니다. 생성된 링크를 선택하여 제대로 화면이 나왔는지 확인해볼까요?<br><img src="https://cracker9.github.io/img/HowToUsePlugIn/11.jpg? raw=true" alt="Plugin11"></span></p><h1 id="-8"><a href="#-8" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d"><strong>STEP 02.</strong> 화면이 제대로 나왔다면, Link List로 되돌아가서 개발자에게 링크 주소와 비밀번호를 전달하면 됩니다.</span></p><h1 id="-9"><a href="#-9" class="headerlink" title=" "></a> </h1><p><span style="color:#4d4d4d">위의 과정을 담은 영상을 첨부하니 참고해주세요.<br><img src="유투브링크" alt="이미지 텍스트](스크린샷 이미지)"></span></p><p><span style="color:#4d4d4d">그럼, 그 외에 문의사항은 <a href="helloo@cracker9.io">hello@cracker9.io</a> 로 메일주세요!<br>크래커나인는 디자이너와 개발자들이 Creative에 집중할 수 있도록 돕겠습니다.</span></p><hr><p> <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=How_to_use_plugin" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'How to Use Plugin'});" target="_blank" rel="noopener"><img src="/img/Logo/Cracker9_Symbollogo.png?raw=true" alt="cracker9"></a></p><hr>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;span style=&quot;color:#4d4d4d&quot;&gt;&lt;br&gt;안녕하세요. 크래커나인 입니다.&lt;br&gt;Cracker9 App을 사용하기 위해서는 먼저 Sketch로 디자인된 Screen이 필요한데요.&lt;br&gt;디자인된 Screen은 Cracker9 Plug
-      
-    
-    </summary>
-    
-      <category term="Tutorial" scheme="http://blog.cracker9.io/categories/Tutorial/"/>
-    
-    
-      <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
-    
-      <category term="Sketch" scheme="http://blog.cracker9.io/tags/Sketch/"/>
-    
-      <category term="Plugin" scheme="http://blog.cracker9.io/tags/Plugin/"/>
-    
-  </entry>
-  
-  <entry>
     <title>기능설명 - Sketch Plug-in</title>
     <link href="http://blog.cracker9.io/2018/06/25/Plugin-Feature/"/>
     <id>http://blog.cracker9.io/2018/06/25/Plugin-Feature/</id>
@@ -637,9 +666,9 @@
     
       <category term="Cracker9" scheme="http://blog.cracker9.io/tags/Cracker9/"/>
     
-      <category term="Sketch" scheme="http://blog.cracker9.io/tags/Sketch/"/>
-    
       <category term="Plugin" scheme="http://blog.cracker9.io/tags/Plugin/"/>
+    
+      <category term="Sketch" scheme="http://blog.cracker9.io/tags/Sketch/"/>
     
   </entry>
   
@@ -669,35 +698,6 @@
       <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
     
       <category term="Layout" scheme="http://blog.cracker9.io/tags/Layout/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>디자이너가 이런것도 알아야해 ? 코틀린과 자바</title>
-    <link href="http://blog.cracker9.io/2018/06/08/Kotlin_Java/"/>
-    <id>http://blog.cracker9.io/2018/06/08/Kotlin_Java/</id>
-    <published>2018-06-07T15:00:00.000Z</published>
-    <updated>2019-06-04T09:42:55.168Z</updated>
-    
-    <content type="html"><![CDATA[<p>오라클과 구글의 자바 소송에서 오라클이 승소했다는 소식을 접했다.<br>이와 관련하여 개발자 사이에서는’코틀린 가속화’에 대한 이야기가 나왔다.<br>사실 디자이너 입장에서는 코틀린이 무엇인지 크게 신경쓰지 않아도 된다.<br>디자이너도 하루가 다르게 쏟아져 나오는 많은 디지털 디바이스와 디자인 툴을 익히느라 여념이 없으니까 말이다.<br>하지만 최근에는 디자이너도 코딩을 하는 사람들이 늘어나고 있고, 개발자와 IT업계를 이해하기 위해서 알아둬야 하지 않을까 싶어 이 글을 적게 되었다.</p><h2 id="코틀린이-뭐에요"><a href="#코틀린이-뭐에요" class="headerlink" title="코틀린이 뭐에요?"></a>코틀린이 뭐에요?</h2><p>코틀린은 2011년에 만들어진 오픈소스 프로그래밍 언어이다.<br>자바가상머신(JVM) 언어라 자바와 호환되고 안드로이드 개발에 주로 활용되며,<br>2017년 5월 ‘구글I/O’ 컨퍼런스에서 구글 안드로이드 공식 언어로 소개된바 있다.</p><p><img src="https://i0.wp.com/blog.inflearn.com/wp-content/uploads/2017/07/kotlin.png?fit=768%2C500" alt="1"><br>코틀린은 경량급 프로그래밍 언어라고 한다.<br>또한 현재 코틀린 공식 웹사이트에서 시범으로 사용해볼 수 있다.<br><a href="https://try.kotlinlang.org/" target="_blank" rel="noopener">코틀린 공식 웹사이트</a></p><p>직접 사용해본 개발자들은 ‘쉽고,간결하고,실용적,경제적’ 이라고 말한다.<br>예를 들면 코틀린 타입 시스템을 사용하면 자바의 가장 흔한 에러인 NullPointerExceptions 에서 자유로울 수 있다.<br>또한 자바의 불편한 점을 개선하여 getter/setter의 번거로움을 줄여주고 함수를 class 밖에서 선언할 수 있는 등 편리성과 자유도도 제공한다.</p><p>위와 같이 실용적일 뿐만 아니라 코틀린은 경제적이기도 하다.<br>오픈소스인 코틀린인 기존의 자바 프레임워크와 라이브러리를 사용할 수 있는 등 자바와<br>호환되어 사용될 수 있다. 따라서 현재 Android API들을 그대로 사용할 수 있고, Maven, Gradle과 같은 빌드 시스템도 사용할 수 있으며 추가적인 개발비용이 들지 않는다.</p><p>또한 코틀린의 문법은 이해하기 쉽고 독창적이어서 초보자들도 쉽고 빠르게 학습할 수 있다.<br>얼핏 보면 코틀린은 스칼라와 비슷한 것처럼 보이지만, 스칼라 보다 훨씬 더 단순할 뿐만 아니라 문법의 간결성과 가독성의 균형 또한 잘 맞추고 있다.</p><p>아울러 개발자들이 반복되는 문법을 사용하며 안드로이드용 프로그래밍을 할 때, 장황한 코드의 사용은 버그의 발생 빈도를 높인다. 이와는 반대로 간결한 문법을 가지고 있는 코틀린과 같은 언어를 사용하게 되면 버그의 발생 횟수를 줄일 뿐만 아니라, 덜 지루하게 개발이 가능하다.</p><p><img src="http://files.idg.co.kr/itworld/image/2016/10/convert-java-to-kotlin-100740033-large.jpg" alt="2"></p><p>하지만 모든 것에는 장단점이 있듯 코틀린에도 단점은 있다.<br>컴퓨터 운영 체계와 프로그램 언어에서의 앨리어스는, 이미 정의된 데이터 오브젝트에 대해 좀 더 이해하기 쉽고, 보다 의미 있게 붙인 이름을 말하는데, 코틀린은 아직 앨리어스가 없다. 따라서 함수 유형을 매번 중복해서 작성해야 한다는 번거로움이 존재한다.</p><p>또, 코틀린은 자바 6 바이트코드를 대상으로 하기 때문에, 자바 8의 향상된 기능들을 제공하지 않는다. 더불어 코틀린이 가지고 있는 사소한 문제 중 하나는 코틀린 표준 라이브러리가 자바 8 표준 라이브러리의 기능을 중복해 제공한다는 것이다.</p><p>마지막으로 인텔리 J (인텔리 J 아이디어는 JetBrains 사에서 제작한 상용 자바 통합 개발 환경이다. 줄여서 인텔리 J 혹은 아이디어로도 불린다.) 내부의 컴파일은 점진적이며 자바만큼 빠르지만, Gradle (Gradle은 Groovy를 이용한 빌드 시스템이다. Groovy와 유사한 도메인 언어를 채용하였으며, 현재 안드로이드 앱을 만드는데 필요한 안드로이드 슈튜디오의 공식 빌드 시스템이기도 하다. 자바, C/C++, 파이썬, 코틀린 등과 같은 여러가지 언어를 지원한다.) 을 통한 컴파일은 점진적이지 않기 때문에 속도가 느리다는 단점이 있다.</p><p>그럼에도 불구하고 업계에서는 코틀린이 18년 12월쯤이면 자바만큼 사용량이 늘어날 것으로 전망하고 있다.</p><p>직접 사용해보고 적으면 좋겠지만, 개발 능력이 안되므로 좀 더 자세한 사용 후기는 다른 분들의 글들을 첨부하기로 한다.</p><ul><li><a href="https://medium.com/@lazysoul/android-kotlin%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%A9%B4%EC%84%9C-%EB%8A%90%EB%82%80%EC%A0%90-7756c46a2b1e/" target="_blank" rel="noopener">Kotlin으로 Android 를 개발하면서 느낀점 및 장점 소개</a></li><li><a href="https://gist.github.com/Hazealign/1bbc586ded1649a8f08f/" target="_blank" rel="noopener">Android 개발을 수주해서 Kotlin을 제대로 써봤더니 최고였다</a></li><li><a href="https://thdev.tech/kotlin/android/2018/01/02/Kotlin-Learning-and-Introduction.html" target="_blank" rel="noopener">Kotlin-회사에서는 어떻게 도입하고? 학습해 볼 수 있을까?</a></li></ul><h2 id="자바는-어떻게-될까요"><a href="#자바는-어떻게-될까요" class="headerlink" title="자바는 어떻게 될까요?"></a>자바는 어떻게 될까요?</h2><p>사실 미래라는게 어떻게 될지는 아무도 모르는 것이다.<br>자바가 당장 사라질 수도 있고 당장 사라지지 않을 수도 있다.<br>하지만 여전히 전 세계에서 많이 쓰이는 언어는 자바이며, 기존에 만들어진 것들을 유지보수 하기 위해서도 필요하다. 쉽게 사라지지 않을 것이다.<br>하지만 자바를 만든 오라클에서도 더이상 자바 사업에 힘쓰고 있지 않다.<br>이 얘기는 자바의 미래가 밝지 않다는 것을 얘기한다.</p><p>프로그래밍 언어의 역사는 늘 꾸준히 어떠한 하나의 언어의 단점을 보완하는 형태로 만들고 발전해왔다. 자바 역시 미래의 더 향상된 프로그래밍 언어를 위한 그 뿌리가 되지 않을까 생각한다.</p><h2 id="부록-코틀린-커뮤니티"><a href="#부록-코틀린-커뮤니티" class="headerlink" title="부록 : 코틀린 커뮤니티"></a>부록 : 코틀린 커뮤니티</h2><ul><li><a href="http://kotlin.kr/" target="_blank" rel="noopener">한국 코틀린 커뮤니티</a></li><li><a href="https://kotlin.link/" target="_blank" rel="noopener">코틀린 공식 지원 커뮤니티 - 코틀린닷링크</a></li></ul><h2 id="자료-출처"><a href="#자료-출처" class="headerlink" title="자료 출처"></a>자료 출처</h2><ul><li><a href="http://www.itworld.co.kr/news/107046" target="_blank" rel="noopener">http://www.itworld.co.kr/news/107046</a></li><li><a href="http://mindols.tistory.com/93" target="_blank" rel="noopener">http://mindols.tistory.com/93</a></li></ul><hr><p> <a href="http://www.cracker9.io?utm_medium=cpc&utm_source=blog_origin&utm_campaign=0.11.x&utm_content=Kotlin_Java" onclick="gtag('event', 'button click', {'event_category': 'Homepage','event_label': 'Kotlin Java'});" target="_blank" rel="noopener"><img src="/img/Logo/Cracker9_Symbollogo.png?raw=true" alt="cracker9"></a></p><hr>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;오라클과 구글의 자바 소송에서 오라클이 승소했다는 소식을 접했다.&lt;br&gt;이와 관련하여 개발자 사이에서는’코틀린 가속화’에 대한 이야기가 나왔다.&lt;br&gt;사실 디자이너 입장에서는 코틀린이 무엇인지 크게 신경쓰지 않아도 된다.&lt;br&gt;디자이너도 하루가 
-      
-    
-    </summary>
-    
-      <category term="Develop" scheme="http://blog.cracker9.io/categories/Develop/"/>
-    
-    
-      <category term="Android" scheme="http://blog.cracker9.io/tags/Android/"/>
-    
-      <category term="Kotlin" scheme="http://blog.cracker9.io/tags/Kotlin/"/>
-    
-      <category term="Java" scheme="http://blog.cracker9.io/tags/Java/"/>
     
   </entry>
   

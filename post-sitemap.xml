@@ -7,56 +7,72 @@
     </url>
 
     <url>
-        <loc>http://blog.cracker9.io/2018/06/26/How-to-use-Linear-Weight/</loc>
-        <lastmod>2019-06-04T10:15:11.166Z</lastmod>
+        <loc>http://blog.cracker9.io/2019/07/25/how-to-use-plugin/</loc>
+        <lastmod>2019-07-30T06:42:49.721Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>http://blog.cracker9.io/2018/06/27/how-to-use-Relative/</loc>
-        <lastmod>2019-06-04T10:14:39.851Z</lastmod>
+        <loc>http://blog.cracker9.io/2019/07/25/How-to-use-xdplugin/</loc>
+        <lastmod>2019-07-30T06:29:13.240Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>http://blog.cracker9.io/2018/06/26/How-to-use-Linear/</loc>
-        <lastmod>2019-06-04T10:13:27.780Z</lastmod>
+        <loc>http://blog.cracker9.io/2019/06/26/How-to-use-Linear/</loc>
+        <lastmod>2019-07-30T06:27:18.966Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>http://blog.cracker9.io/2018/06/28/How-to-use-Custom/</loc>
-        <lastmod>2019-06-04T10:12:00.550Z</lastmod>
+        <loc>http://blog.cracker9.io/2019/06/27/how-to-use-Relative/</loc>
+        <lastmod>2019-07-30T06:26:25.321Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>http://blog.cracker9.io/2018/06/27/How-to-use-Constraint/</loc>
-        <lastmod>2019-06-04T10:10:33.363Z</lastmod>
+        <loc>http://blog.cracker9.io/2019/06/26/How-to-use-Linear-Weight/</loc>
+        <lastmod>2019-07-30T06:24:57.009Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>http://blog.cracker9.io/2018/06/27/How-to-use-Constraint-Weight/</loc>
-        <lastmod>2019-06-04T10:10:29.887Z</lastmod>
+        <loc>http://blog.cracker9.io/2019/06/28/How-to-use-Custom/</loc>
+        <lastmod>2019-07-30T06:24:36.724Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>http://blog.cracker9.io/2018/06/28/How-to-use-CenterBias/</loc>
-        <lastmod>2019-06-04T10:08:48.213Z</lastmod>
+        <loc>http://blog.cracker9.io/2019/06/27/How-to-use-Constraint-Weight/</loc>
+        <lastmod>2019-07-30T06:24:03.686Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2019/06/28/How-to-use-CenterBias/</loc>
+        <lastmod>2019-07-30T06:23:43.615Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://blog.cracker9.io/2019/06/27/How-to-use-Constraint/</loc>
+        <lastmod>2019-07-30T06:23:33.977Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -113,14 +129,6 @@
     <url>
         <loc>http://blog.cracker9.io/2018/06/08/Kotlin_Java/</loc>
         <lastmod>2019-06-04T09:42:55.168Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://blog.cracker9.io/2018/06/25/how-to-use-plugin/</loc>
-        <lastmod>2019-06-04T09:41:36.985Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
